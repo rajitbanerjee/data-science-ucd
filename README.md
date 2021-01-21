@@ -1,2 +1,7 @@
-# data-science-ucd
-Selected projects and coursework from Data Science modules in UCD.
+<div align="center">
+  <img src="./ucdcs.jpg" width="400">
+  <h2> Data Science @ UCD </h2>
+  <h4>A collection of projects and coursework from Data Science modules.</h4>
+</div>
+
+
