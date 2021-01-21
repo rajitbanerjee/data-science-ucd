@@ -5,8 +5,12 @@
 </div>
 
 - [COMP30760 Data Science in Python](./README.md#comp30760-data-science-in-python)
+  - [Getting Started](https://github.com/rajitbanerjee/data-science-ucd#getting-started)
+  - [A1: Spotify Analysis](https://github.com/rajitbanerjee/data-science-ucd#a1-spotify-analysis)
+  - [A2: COVID-19 Mobility Data Analysis](https://github.com/rajitbanerjee/data-science-ucd#a2-covid-19-mobility-data-analysis)
 - [COMP30770 Programming for Big Data](./README.md#comp30770-programming-for-big-data)
 - [COMP30850 Network Analysis](./README.md#comp30850-network-analysis)
+- [Acknowledgements](./README.md#acknowledgements)
 
 ---
 
@@ -26,6 +30,7 @@ Autumn Trimester, 2020
 ### A1: Spotify Analysis
 
 The objective of this assignment is to collect a dataset from one or more open web APIs, and use Python to prepare, analyse, and derive insights from the collected data.  
+- **Source:** <http://mlg.ucd.ie/modules/COMP30760/assignment1.html>
 - **API chosen:** [Spotify Web API](https://developer.spotify.com/documentation/web-api/)   
 - **Data:** [python-comp30760/data/a1/](./python-comp30760/data/a1/) (pre-collected to avoid calling the API with secret tokens which are not included).
 - **Notebook:** [a1-spotify-analysis.ipynb](./python-comp30760/notebooks/a1-spotify-analysis.ipynb) 
