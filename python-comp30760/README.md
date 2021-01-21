@@ -3,7 +3,7 @@
 ## Getting Started
 
 -   Create the `ds-env` environment using `conda env create -f environment.yml`
--   From the root directory (`data-science-comp30760`), run `juypter notebook`
+-   From the root directory (`python-comp30760`), run `juypter notebook`
 -   The project notebooks, [a1-spotify-analysis.ipynb](./notebooks/a1-spotify-analysis.ipynb) and [a2-covid-19-mobility.ipynb](./notebooks/a2-covid-19-mobility.ipynb) can now be run.
 
 ## Assignment 1
