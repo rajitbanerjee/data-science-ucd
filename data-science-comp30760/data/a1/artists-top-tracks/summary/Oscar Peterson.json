@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ORKsWALEps4PNvnM78dM7",
+      "id" : "0ORKsWALEps4PNvnM78dM7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27353b6f44fb9e1bf6d6afc90b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0253b6f44fb9e1bf6d6afc90b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485153b6f44fb9e1bf6d6afc90b8",
+        "width" : 64
+      } ],
+      "name" : "Work From Home with Oscar Peterson",
+      "release_date" : "2020-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 40,
+      "type" : "album",
+      "uri" : "spotify:album:0ORKsWALEps4PNvnM78dM7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USGR10110768"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5PocwBP4qm33W4eQSZyVBZ",
+    "id" : "5PocwBP4qm33W4eQSZyVBZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stormy Weather",
+    "popularity" : 59,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5PocwBP4qm33W4eQSZyVBZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7ETDHJ9yletBCxNx0ipr1x",
+      "id" : "7ETDHJ9yletBCxNx0ipr1x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273edf67a79854470e70a6b6cf8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02edf67a79854470e70a6b6cf8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851edf67a79854470e70a6b6cf8",
+        "width" : 64
+      } ],
+      "name" : "Plays Count Basie",
+      "release_date" : "1956-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7ETDHJ9yletBCxNx0ipr1x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 146093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USGR10301258"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/78ntGe4xyecZHg9exQWwK6",
+    "id" : "78ntGe4xyecZHg9exQWwK6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blue And Sentimental",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:78ntGe4xyecZHg9exQWwK6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+        "id" : "34W7ZCX0LZeJd8q6boKGOk",
+        "name" : "Ben Webster",
+        "type" : "artist",
+        "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Hwb9XLwQVF3jbjs4P1HHe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Hwb9XLwQVF3jbjs4P1HHe",
+      "id" : "6Hwb9XLwQVF3jbjs4P1HHe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389c5c606cd7bae638ee4bb44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289c5c606cd7bae638ee4bb44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189c5c606cd7bae638ee4bb44",
+        "width" : 64
+      } ],
+      "name" : "Ben Webster's Finest Hour",
+      "release_date" : "2000-06-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6Hwb9XLwQVF3jbjs4P1HHe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+      "id" : "34W7ZCX0LZeJd8q6boKGOk",
+      "name" : "Ben Webster",
+      "type" : "artist",
+      "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR35912077"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4tSY2oSX8fdedowKjFYWJH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4tSY2oSX8fdedowKjFYWJH",
+    "id" : "4tSY2oSX8fdedowKjFYWJH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sunday",
+    "popularity" : 52,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4tSY2oSX8fdedowKjFYWJH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0JM134st8VY7Ld9T2wQiH0",
+        "id" : "0JM134st8VY7Ld9T2wQiH0",
+        "name" : "Coleman Hawkins",
+        "type" : "artist",
+        "uri" : "spotify:artist:0JM134st8VY7Ld9T2wQiH0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y"
+      },
+      "href" : "https://api.spotify.com/v1/albums/068xxiiZI5PQYoYVQl2R7y",
+      "id" : "068xxiiZI5PQYoYVQl2R7y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fa0552f528f89ca2b5757801",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fa0552f528f89ca2b5757801",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fa0552f528f89ca2b5757801",
+        "width" : 64
+      } ],
+      "name" : "Jazz Masters 34",
+      "release_date" : "1994-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:068xxiiZI5PQYoYVQl2R7y"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0JM134st8VY7Ld9T2wQiH0",
+      "id" : "0JM134st8VY7Ld9T2wQiH0",
+      "name" : "Coleman Hawkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:0JM134st8VY7Ld9T2wQiH0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+      "id" : "34W7ZCX0LZeJd8q6boKGOk",
+      "name" : "Ben Webster",
+      "type" : "artist",
+      "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR35700031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/50ijZUy4vc2q9Pm12q5F7K",
+    "id" : "50ijZUy4vc2q9Pm12q5F7K",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cocktails For Two",
+    "popularity" : 46,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:50ijZUy4vc2q9Pm12q5F7K"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+        "id" : "5V0MlUE1Bft0mbLlND7FJz",
+        "name" : "Ella Fitzgerald",
+        "type" : "artist",
+        "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7h1Q8EVuk6FKkufo3TLgpl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7h1Q8EVuk6FKkufo3TLgpl",
+      "id" : "7h1Q8EVuk6FKkufo3TLgpl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e6a811c184f45d5468d4636c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e6a811c184f45d5468d4636c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e6a811c184f45d5468d4636c",
+        "width" : 64
+      } ],
+      "name" : "Ella & Oscar",
+      "release_date" : "1976-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:7h1Q8EVuk6FKkufo3TLgpl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+      "id" : "5V0MlUE1Bft0mbLlND7FJz",
+      "name" : "Ella Fitzgerald",
+      "type" : "artist",
+      "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 308666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USFI87600040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3CoBpiBcaqi1qq58mzaJNi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3CoBpiBcaqi1qq58mzaJNi",
+    "id" : "3CoBpiBcaqi1qq58mzaJNi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Hear Music",
+    "popularity" : 45,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3CoBpiBcaqi1qq58mzaJNi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+        "id" : "34W7ZCX0LZeJd8q6boKGOk",
+        "name" : "Ben Webster",
+        "type" : "artist",
+        "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/336zKOuYLlKKo9JIMDi4bP",
+      "id" : "336zKOuYLlKKo9JIMDi4bP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27394718dae033835ed37158cc6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0294718dae033835ed37158cc6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485194718dae033835ed37158cc6",
+        "width" : 64
+      } ],
+      "name" : "Milestones of a Jazz Legend - Ben Webster, Vol. 2 (1957, 1959)",
+      "release_date" : "2019-03-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:336zKOuYLlKKo9JIMDi4bP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+      "id" : "34W7ZCX0LZeJd8q6boKGOk",
+      "name" : "Ben Webster",
+      "type" : "artist",
+      "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SvD7DL5CQTbcrMtns1US8",
+      "id" : "0SvD7DL5CQTbcrMtns1US8",
+      "name" : "Ray Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SvD7DL5CQTbcrMtns1US8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ofmO3RJ2eeaRhApcStDkI",
+      "id" : "7ofmO3RJ2eeaRhApcStDkI",
+      "name" : "Ed Thigpen",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ofmO3RJ2eeaRhApcStDkI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239680,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEU241805110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zn1rXfLK3MVKv7qW8oOGy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zn1rXfLK3MVKv7qW8oOGy",
+    "id" : "0zn1rXfLK3MVKv7qW8oOGy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "When Your Lover Has Gone",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/26d544d279807c75f8a3546f578402c701d2f60c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0zn1rXfLK3MVKv7qW8oOGy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6h6Tc28xtkgqNKK6CiAydF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6h6Tc28xtkgqNKK6CiAydF",
+      "id" : "6h6Tc28xtkgqNKK6CiAydF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273033fb08830ad71906db0e789",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02033fb08830ad71906db0e789",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851033fb08830ad71906db0e789",
+        "width" : 64
+      } ],
+      "name" : "The Will To Swing",
+      "release_date" : "1991-02-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:6h6Tc28xtkgqNKK6CiAydF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 2,
+    "duration_ms" : 362773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR36900177"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pPCBcqD5qE1kc4dAP4VRu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pPCBcqD5qE1kc4dAP4VRu",
+    "id" : "1pPCBcqD5qE1kc4dAP4VRu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wave",
+    "popularity" : 42,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1pPCBcqD5qE1kc4dAP4VRu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+        "id" : "19eLuQmk9aCobbVDHc6eek",
+        "name" : "Louis Armstrong",
+        "type" : "artist",
+        "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6P8XQuvUsn5L1xiGJUXLJ0",
+      "id" : "6P8XQuvUsn5L1xiGJUXLJ0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7a8ca334bcb8fb831958ed1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7a8ca334bcb8fb831958ed1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7a8ca334bcb8fb831958ed1",
+        "width" : 64
+      } ],
+      "name" : "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+      "release_date" : "1957-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6P8XQuvUsn5L1xiGJUXLJ0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+      "id" : "19eLuQmk9aCobbVDHc6eek",
+      "name" : "Louis Armstrong",
+      "type" : "artist",
+      "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USF095800520"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0YgEYSBt2e4BSTIQBhukou",
+    "id" : "0YgEYSBt2e4BSTIQBhukou",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Makin' Whoopee",
+    "popularity" : 42,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0YgEYSBt2e4BSTIQBhukou"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+        "id" : "19eLuQmk9aCobbVDHc6eek",
+        "name" : "Louis Armstrong",
+        "type" : "artist",
+        "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6P8XQuvUsn5L1xiGJUXLJ0",
+      "id" : "6P8XQuvUsn5L1xiGJUXLJ0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7a8ca334bcb8fb831958ed1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7a8ca334bcb8fb831958ed1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7a8ca334bcb8fb831958ed1",
+        "width" : 64
+      } ],
+      "name" : "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+      "release_date" : "1957-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6P8XQuvUsn5L1xiGJUXLJ0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+      "id" : "19eLuQmk9aCobbVDHc6eek",
+      "name" : "Louis Armstrong",
+      "type" : "artist",
+      "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 163106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR35700101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6PmKatJs99z0fDXi9624pk",
+    "id" : "6PmKatJs99z0fDXi9624pk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "That Old Feeling",
+    "popularity" : 42,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6PmKatJs99z0fDXi9624pk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+        "id" : "19eLuQmk9aCobbVDHc6eek",
+        "name" : "Louis Armstrong",
+        "type" : "artist",
+        "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+        "id" : "6zkX5fhrSD4tdVOmimR9wB",
+        "name" : "Oscar Peterson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6P8XQuvUsn5L1xiGJUXLJ0",
+      "id" : "6P8XQuvUsn5L1xiGJUXLJ0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7a8ca334bcb8fb831958ed1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7a8ca334bcb8fb831958ed1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7a8ca334bcb8fb831958ed1",
+        "width" : 64
+      } ],
+      "name" : "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+      "release_date" : "1957-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6P8XQuvUsn5L1xiGJUXLJ0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+      "id" : "19eLuQmk9aCobbVDHc6eek",
+      "name" : "Louis Armstrong",
+      "type" : "artist",
+      "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 358640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR35705179"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5axYHelFYVT2Qb5R49LMX6",
+    "id" : "5axYHelFYVT2Qb5R49LMX6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "How Long Has This Been Going On?",
+    "popularity" : 41,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5axYHelFYVT2Qb5R49LMX6"
+  } ]
+}

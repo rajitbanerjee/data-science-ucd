@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5K7PZiOlAn8sxxhh0QTFuJ",
+      "id" : "5K7PZiOlAn8sxxhh0QTFuJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27322c614bdaf27ea223bcb2add",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0222c614bdaf27ea223bcb2add",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485122c614bdaf27ea223bcb2add",
+        "width" : 64
+      } ],
+      "name" : "Evening Machines",
+      "release_date" : "2018-10-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5K7PZiOlAn8sxxhh0QTFuJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 272346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1888302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7gDNQLV9cr8449LFrQbk5J",
+    "id" : "7gDNQLV9cr8449LFrQbk5J",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "San Luis",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8f791306e81307c99a084a150505c74a34ff3a43?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7gDNQLV9cr8449LFrQbk5J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7ecZGh7SICLEkqqkBNXfvE",
+      "id" : "7ecZGh7SICLEkqqkBNXfvE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27375f18048882ce9bc05831c6b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0275f18048882ce9bc05831c6b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485175f18048882ce9bc05831c6b",
+        "width" : 64
+      } ],
+      "name" : "That Sea, The Gambler",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:7ecZGh7SICLEkqqkBNXfvE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 360933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ushm80743720"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3G9ETaH55bMQx8hwNhAgbU",
+    "id" : "3G9ETaH55bMQx8hwNhAgbU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Stable Song",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3G9ETaH55bMQx8hwNhAgbU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/06UoTVgpPiGnRPGjowrG3g",
+      "id" : "06UoTVgpPiGnRPGjowrG3g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73c258501e2a07f695004d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73c258501e2a07f695004d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73c258501e2a07f695004d5",
+        "width" : 64
+      } ],
+      "name" : "This Empty Northern Hemisphere",
+      "release_date" : "2009-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:06UoTVgpPiGnRPGjowrG3g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj0988301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Kj2EWpIBnvETsYq4cq0IH",
+    "id" : "3Kj2EWpIBnvETsYq4cq0IH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Big Black Car",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/33d0366daf0a31c0c7ef3d3dfd3661a1ff684f22?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3Kj2EWpIBnvETsYq4cq0IH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/06UoTVgpPiGnRPGjowrG3g",
+      "id" : "06UoTVgpPiGnRPGjowrG3g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73c258501e2a07f695004d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73c258501e2a07f695004d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73c258501e2a07f695004d5",
+        "width" : 64
+      } ],
+      "name" : "This Empty Northern Hemisphere",
+      "release_date" : "2009-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:06UoTVgpPiGnRPGjowrG3g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj0988307"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1vqtj4c5aNPKkLS2LXkd4E",
+    "id" : "1vqtj4c5aNPKkLS2LXkd4E",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "If I Go, I'm Goin",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b2972abe9d8c2898d9399066cd7b7d65202857f9?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1vqtj4c5aNPKkLS2LXkd4E"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IcfYXw7lTtLfG5XWLlSZi",
+      "id" : "3IcfYXw7lTtLfG5XWLlSZi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27333ffa5c45ccea4103c917964",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0233ffa5c45ccea4103c917964",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485133ffa5c45ccea4103c917964",
+        "width" : 64
+      } ],
+      "name" : "The Weatherman",
+      "release_date" : "2013-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3IcfYXw7lTtLfG5XWLlSZi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj1396460"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7iQmjnDXYngWGsbjVnDc1U",
+    "id" : "7iQmjnDXYngWGsbjVnDc1U",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Amsterdam",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2c88b552f8e695e2473ac65551bfd4b0b5a0bc7?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7iQmjnDXYngWGsbjVnDc1U"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5K7PZiOlAn8sxxhh0QTFuJ",
+      "id" : "5K7PZiOlAn8sxxhh0QTFuJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27322c614bdaf27ea223bcb2add",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0222c614bdaf27ea223bcb2add",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485122c614bdaf27ea223bcb2add",
+        "width" : 64
+      } ],
+      "name" : "Evening Machines",
+      "release_date" : "2018-10-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5K7PZiOlAn8sxxhh0QTFuJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1888308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Eyt039etvBOx2V612yu4y",
+    "id" : "6Eyt039etvBOx2V612yu4y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Chemicals",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/736d0e7f56bd0f7849144ca1ae15f33e44a9bc23?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6Eyt039etvBOx2V612yu4y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/06UoTVgpPiGnRPGjowrG3g",
+      "id" : "06UoTVgpPiGnRPGjowrG3g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73c258501e2a07f695004d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73c258501e2a07f695004d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73c258501e2a07f695004d5",
+        "width" : 64
+      } ],
+      "name" : "This Empty Northern Hemisphere",
+      "release_date" : "2009-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:06UoTVgpPiGnRPGjowrG3g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj0988296"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5AeoHJUx0PJXAzN425xryh",
+    "id" : "5AeoHJUx0PJXAzN425xryh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dandelion Wine",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bebffdfd417b12a51f2641d1f7c27611566e3215?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5AeoHJUx0PJXAzN425xryh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/06UoTVgpPiGnRPGjowrG3g",
+      "id" : "06UoTVgpPiGnRPGjowrG3g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73c258501e2a07f695004d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73c258501e2a07f695004d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73c258501e2a07f695004d5",
+        "width" : 64
+      } ],
+      "name" : "This Empty Northern Hemisphere",
+      "release_date" : "2009-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:06UoTVgpPiGnRPGjowrG3g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj0988305"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01Dc5vTMc9axpkvDUy0yiD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01Dc5vTMc9axpkvDUy0yiD",
+    "id" : "01Dc5vTMc9axpkvDUy0yiD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Words",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f4f720769b162516cde512671b0c339cc37932c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:01Dc5vTMc9axpkvDUy0yiD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/06UoTVgpPiGnRPGjowrG3g",
+      "id" : "06UoTVgpPiGnRPGjowrG3g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73c258501e2a07f695004d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73c258501e2a07f695004d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73c258501e2a07f695004d5",
+        "width" : 64
+      } ],
+      "name" : "This Empty Northern Hemisphere",
+      "release_date" : "2009-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:06UoTVgpPiGnRPGjowrG3g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj0988300"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/435XaJ1Mqo5Pd7AwRE7nrF",
+    "id" : "435XaJ1Mqo5Pd7AwRE7nrF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Virginia May",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0e9f864e220cbd616ba6c072b4eedc722b602df6?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:435XaJ1Mqo5Pd7AwRE7nrF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+        "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+        "name" : "Gregory Alan Isakov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IcfYXw7lTtLfG5XWLlSZi",
+      "id" : "3IcfYXw7lTtLfG5XWLlSZi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27333ffa5c45ccea4103c917964",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0233ffa5c45ccea4103c917964",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485133ffa5c45ccea4103c917964",
+        "width" : 64
+      } ],
+      "name" : "The Weatherman",
+      "release_date" : "2013-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3IcfYXw7lTtLfG5XWLlSZi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+      "id" : "5sXaGoRLSpd7VeyZrLkKwt",
+      "name" : "Gregory Alan Isakov",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgj1396462"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Wu19AEKVNs5bJFuhZb4EZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Wu19AEKVNs5bJFuhZb4EZ",
+    "id" : "6Wu19AEKVNs5bJFuhZb4EZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Second Chances",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/013eaad1cbeb1346ae33075ea1b4c0f1ed5b604b?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6Wu19AEKVNs5bJFuhZb4EZ"
+  } ]
+}

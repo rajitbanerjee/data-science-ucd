@@ -1,0 +1,718 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5ASFrellizlx98SmsItOEm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5ASFrellizlx98SmsItOEm",
+      "id" : "5ASFrellizlx98SmsItOEm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27303c03da08efb9051d8fae5d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0203c03da08efb9051d8fae5d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485103c03da08efb9051d8fae5d5",
+        "width" : 64
+      } ],
+      "name" : "Baar Baar Dekho",
+      "release_date" : "2016-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5ASFrellizlx98SmsItOEm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74OaRjmyh0XyRZsQQQ5l7c",
+      "id" : "74OaRjmyh0XyRZsQQQ5l7c",
+      "name" : "Jasleen Royal",
+      "type" : "artist",
+      "uri" : "spotify:artist:74OaRjmyh0XyRZsQQQ5l7c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213055,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INZ031401551"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6nZiYSBwPQ7fYnVWkkkj4g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6nZiYSBwPQ7fYnVWkkkj4g",
+    "id" : "6nZiYSBwPQ7fYnVWkkkj4g",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kho Gaye Hum Kahan",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4189c79e15c8db03096edb46b3df9c8f2a19ab56?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6nZiYSBwPQ7fYnVWkkkj4g"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7rHLltVNJFnZyNIas91XbT",
+      "id" : "7rHLltVNJFnZyNIas91XbT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae7abe97f7020d657e87bbec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae7abe97f7020d657e87bbec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae7abe97f7020d657e87bbec",
+        "width" : 64
+      } ],
+      "name" : "Kasoor",
+      "release_date" : "2020-06-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7rHLltVNJFnZyNIas91XbT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 197549,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRX202024247"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/08kTa3SL9sV6Iy8KLKtGql",
+    "id" : "08kTa3SL9sV6Iy8KLKtGql",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kasoor",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec9cfd29543be823883fb589e36e301e9361573e?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:08kTa3SL9sV6Iy8KLKtGql"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3xyedpfAMFNgZXHuU6iV6s",
+      "id" : "3xyedpfAMFNgZXHuU6iV6s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273084e8262a7d8c218056525d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02084e8262a7d8c218056525d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851084e8262a7d8c218056525d1",
+        "width" : 64
+      } ],
+      "name" : "Tum Jab Paas - Single",
+      "release_date" : "2017-04-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3xyedpfAMFNgZXHuU6iV6s"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235932,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TX1796334"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3FTRSa9mWB3kKx2jkhUAN3",
+    "id" : "3FTRSa9mWB3kKx2jkhUAN3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tum Jab Paas",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b8cbeb23fba8c19d541c024ae1b6c135d76cdc4d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3FTRSa9mWB3kKx2jkhUAN3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sXF26ED1bQT76rFEvPwaP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sXF26ED1bQT76rFEvPwaP",
+      "id" : "1sXF26ED1bQT76rFEvPwaP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733214a3bb5d7728018acc90be",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023214a3bb5d7728018acc90be",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513214a3bb5d7728018acc90be",
+        "width" : 64
+      } ],
+      "name" : "Tune Kaha",
+      "release_date" : "2016-02-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1sXF26ED1bQT76rFEvPwaP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216885,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "uscgh1647832"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1gWtHDe403RuyZqhvSRcv8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1gWtHDe403RuyZqhvSRcv8",
+    "id" : "1gWtHDe403RuyZqhvSRcv8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tune Kaha",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3b7e64ff384742c110da750ab464e723b4c328d2?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1gWtHDe403RuyZqhvSRcv8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ciT67XXpG2HOVsLQjKdv6",
+        "id" : "1ciT67XXpG2HOVsLQjKdv6",
+        "name" : "Ankur Tewari",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ciT67XXpG2HOVsLQjKdv6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/03CDp0VEvqgFEXoo8gXNru",
+      "id" : "03CDp0VEvqgFEXoo8gXNru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733851cc971e6b035b9dec4d1a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023851cc971e6b035b9dec4d1a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513851cc971e6b035b9dec4d1a",
+        "width" : 64
+      } ],
+      "name" : "Dil Beparvah (The Dewarists, Season 5)",
+      "release_date" : "2016-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:03CDp0VEvqgFEXoo8gXNru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ciT67XXpG2HOVsLQjKdv6",
+      "id" : "1ciT67XXpG2HOVsLQjKdv6",
+      "name" : "Ankur Tewari",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ciT67XXpG2HOVsLQjKdv6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4b0Zi3RZUUv8QdkBkMhc8x",
+      "id" : "4b0Zi3RZUUv8QdkBkMhc8x",
+      "name" : "Dhruv Bhola",
+      "type" : "artist",
+      "uri" : "spotify:artist:4b0Zi3RZUUv8QdkBkMhc8x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hprnpHtvBrFI09rVHkjZZ",
+      "id" : "3hprnpHtvBrFI09rVHkjZZ",
+      "name" : "Nikhil Vasudevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hprnpHtvBrFI09rVHkjZZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 250000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR10S1773710"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4kXkT9HF9ZfDjuv3LIKcwJ",
+    "id" : "4kXkT9HF9ZfDjuv3LIKcwJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dil Beparvah - The Dewarists, Season 5",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8824f4f273288e69bea22b2460e01f5cdb05b7c0?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4kXkT9HF9ZfDjuv3LIKcwJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6FzicG6wlKHogiRaGAbvBK",
+      "id" : "6FzicG6wlKHogiRaGAbvBK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738155c99a241d4c57b2c3f88d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028155c99a241d4c57b2c3f88d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518155c99a241d4c57b2c3f88d",
+        "width" : 64
+      } ],
+      "name" : "cold/mess",
+      "release_date" : "2020-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:6FzicG6wlKHogiRaGAbvBK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 281218,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22006215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7uhINGViZPygI2AljxO8KN",
+    "id" : "7uhINGViZPygI2AljxO8KN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "cold/mess",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4a7f62355bbfe9db52fa389e419590277512763c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7uhINGViZPygI2AljxO8KN"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uvC1LN9oPAYRrXC4FOxQJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uvC1LN9oPAYRrXC4FOxQJ",
+      "id" : "2uvC1LN9oPAYRrXC4FOxQJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f07f0455c6cc38f14105acfb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+        "width" : 64
+      } ],
+      "name" : "Karwaan",
+      "release_date" : "2018-07-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:2uvC1LN9oPAYRrXC4FOxQJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 266041,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181801626"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6l1VsKiMyaUWElFrM1rsuu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6l1VsKiMyaUWElFrM1rsuu",
+    "id" : "6l1VsKiMyaUWElFrM1rsuu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Saansein",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cc794b0add46344ed0f57f8bc492dced10cdfbad?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6l1VsKiMyaUWElFrM1rsuu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3vKSAwLbfwXygEiGH1vpvs",
+      "id" : "3vKSAwLbfwXygEiGH1vpvs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27313b99a77beec8a3aeae2d5b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0213b99a77beec8a3aeae2d5b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485113b99a77beec8a3aeae2d5b0",
+        "width" : 64
+      } ],
+      "name" : "Pause",
+      "release_date" : "2020-05-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3vKSAwLbfwXygEiGH1vpvs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171149,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR96X2014301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5h1L6nOR9QYXeeNW14aeus",
+    "id" : "5h1L6nOR9QYXeeNW14aeus",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pause",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3b70d519d595fc9e4f48bf31b4ce4e8b2af9770b?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5h1L6nOR9QYXeeNW14aeus"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uvC1LN9oPAYRrXC4FOxQJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uvC1LN9oPAYRrXC4FOxQJ",
+      "id" : "2uvC1LN9oPAYRrXC4FOxQJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f07f0455c6cc38f14105acfb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+        "width" : 64
+      } ],
+      "name" : "Karwaan",
+      "release_date" : "2018-07-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:2uvC1LN9oPAYRrXC4FOxQJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214603,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181801629"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6q7bXTv3yBedHblKRoC5uu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6q7bXTv3yBedHblKRoC5uu",
+    "id" : "6q7bXTv3yBedHblKRoC5uu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kadam",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/603f10a3291a19d3a4e70f189908e50c8a72f1c2?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6q7bXTv3yBedHblKRoC5uu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+        "id" : "0tC995Rfn9k2l7nqgCZsV7",
+        "name" : "Prateek Kuhad",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1O6ouUiZXpuAOjINj1JYul",
+      "id" : "1O6ouUiZXpuAOjINj1JYul",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27300fe1b1daea6ee84f295277e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0200fe1b1daea6ee84f295277e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485100fe1b1daea6ee84f295277e",
+        "width" : 64
+      } ],
+      "name" : "In Tokens & Charms",
+      "release_date" : "2015-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1O6ouUiZXpuAOjINj1JYul"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+      "id" : "0tC995Rfn9k2l7nqgCZsV7",
+      "name" : "Prateek Kuhad",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211193,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "usx9p1400901"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/02sas1xqIwRm7iWSoHDvKe",
+    "id" : "02sas1xqIwRm7iWSoHDvKe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Oh Love",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/be57823be59e6141829c971fd55bb7c8d36c7165?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:02sas1xqIwRm7iWSoHDvKe"
+  } ]
+}

@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+        "id" : "2cFrymmkijnjDg9SS92EPM",
+        "name" : "blackbear",
+        "type" : "artist",
+        "uri" : "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3PqmfbW9QbYXobJ6qUSfFe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3PqmfbW9QbYXobJ6qUSfFe",
+      "id" : "3PqmfbW9QbYXobJ6qUSfFe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cad9ceeebb8d1dd84e5ce8d9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cad9ceeebb8d1dd84e5ce8d9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cad9ceeebb8d1dd84e5ce8d9",
+        "width" : 64
+      } ],
+      "name" : "Hate The Way (feat. blackbear)",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3PqmfbW9QbYXobJ6qUSfFe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+      "id" : "2cFrymmkijnjDg9SS92EPM",
+      "name" : "blackbear",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214363,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC12002476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3QGppKBPd9gHOgHJzRbVIw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3QGppKBPd9gHOgHJzRbVIw",
+    "id" : "3QGppKBPd9gHOgHJzRbVIw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hate The Way (feat. blackbear)",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/287cc6027a153b3325556373b3fbb629d6736aca?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3QGppKBPd9gHOgHJzRbVIw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+        "id" : "2jku7tDXc6XoB6MO2hFuqg",
+        "name" : "Tory Lanez",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+        "id" : "5LHRHt1k9lMyONurDHEdrp",
+        "name" : "Tyga",
+        "type" : "artist",
+        "uri" : "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0KHIH7UC8WATEByfXGfYaY",
+      "id" : "0KHIH7UC8WATEByfXGfYaY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a70f97365dec77a1a86b785",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a70f97365dec77a1a86b785",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a70f97365dec77a1a86b785",
+        "width" : 64
+      } ],
+      "name" : "Still Be Friends (feat. Tory Lanez & Tyga)",
+      "release_date" : "2020-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0KHIH7UC8WATEByfXGfYaY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+      "id" : "2jku7tDXc6XoB6MO2hFuqg",
+      "name" : "Tory Lanez",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+      "id" : "5LHRHt1k9lMyONurDHEdrp",
+      "name" : "Tyga",
+      "type" : "artist",
+      "uri" : "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213307,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC12000525"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0JjM9bKm4wrwohMslcm892",
+    "id" : "0JjM9bKm4wrwohMslcm892",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Still Be Friends (feat. Tory Lanez & Tyga)",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2bf973ad1cc568c661fba2228ae68f68dce7f4d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0JjM9bKm4wrwohMslcm892"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Q3WwGYsQe5ognkvVkmCu",
+      "id" : "09Q3WwGYsQe5ognkvVkmCu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298acfa8c055deedc25e6081d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198acfa8c055deedc25e6081d",
+        "width" : 64
+      } ],
+      "name" : "When It's Dark Out",
+      "release_date" : "2015-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:09Q3WwGYsQe5ognkvVkmCu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+      "id" : "64M6ah0SkkRsnPGtGiRAbb",
+      "name" : "Bebe Rexha",
+      "type" : "artist",
+      "uri" : "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC11502210"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40YcuQysJ0KlGQTeGUosTC",
+    "id" : "40YcuQysJ0KlGQTeGUosTC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Me, Myself & I",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8da61536b7f8b1aacadd1adbdc13570f9f35ffd3?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:40YcuQysJ0KlGQTeGUosTC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1VAc77UvK5wj8ZSWCo3V2b",
+      "id" : "1VAc77UvK5wj8ZSWCo3V2b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273046527a9c176f7c2916f3530",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02046527a9c176f7c2916f3530",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851046527a9c176f7c2916f3530",
+        "width" : 64
+      } ],
+      "name" : "The Beautiful & Damned",
+      "release_date" : "2017-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:1VAc77UvK5wj8ZSWCo3V2b"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+      "id" : "26VFTg2z8YR0cCuwLzESi2",
+      "name" : "Halsey",
+      "type" : "artist",
+      "uri" : "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 268866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC11701867"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5k38wzpLb15YgncyWdTZE4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5k38wzpLb15YgncyWdTZE4",
+    "id" : "5k38wzpLb15YgncyWdTZE4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Him & I (with Halsey)",
+    "popularity" : 75,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed7a2ff3c91a5a1b48a6b270debe123e076ac82d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5k38wzpLb15YgncyWdTZE4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1VAc77UvK5wj8ZSWCo3V2b",
+      "id" : "1VAc77UvK5wj8ZSWCo3V2b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273046527a9c176f7c2916f3530",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02046527a9c176f7c2916f3530",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851046527a9c176f7c2916f3530",
+        "width" : 64
+      } ],
+      "name" : "The Beautiful & Damned",
+      "release_date" : "2017-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:1VAc77UvK5wj8ZSWCo3V2b"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+      "id" : "13ubrt8QOOCPljQ2FL1Kca",
+      "name" : "A$AP Rocky",
+      "type" : "artist",
+      "uri" : "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+      "id" : "4kYSro6naA4h99UJvo89HB",
+      "name" : "Cardi B",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kYSro6naA4h99UJvo89HB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 245386,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC11702117"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2DQ1ITjI0YoLFzuADN1ZBW",
+    "id" : "2DQ1ITjI0YoLFzuADN1ZBW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "No Limit",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6dbc7ab9e6d39c167e3149f0354639af246be8e5?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2DQ1ITjI0YoLFzuADN1ZBW"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25u4wHJWxCA9vO0CzxAbK7",
+        "id" : "25u4wHJWxCA9vO0CzxAbK7",
+        "name" : "Lukas Graham",
+        "type" : "artist",
+        "uri" : "spotify:artist:25u4wHJWxCA9vO0CzxAbK7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1zTCnLSvIx3DjsKDV1xcmO",
+      "id" : "1zTCnLSvIx3DjsKDV1xcmO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c4866eacb879004598d826c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c4866eacb879004598d826c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c4866eacb879004598d826c1",
+        "width" : 64
+      } ],
+      "name" : "Share That Love (feat. G-Eazy)",
+      "release_date" : "2020-08-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1zTCnLSvIx3DjsKDV1xcmO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25u4wHJWxCA9vO0CzxAbK7",
+      "id" : "25u4wHJWxCA9vO0CzxAbK7",
+      "name" : "Lukas Graham",
+      "type" : "artist",
+      "uri" : "spotify:artist:25u4wHJWxCA9vO0CzxAbK7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172398,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWB12002076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44l9nnCVvOQBbWG6tDViKl",
+    "id" : "44l9nnCVvOQBbWG6tDViKl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Share That Love (feat. G-Eazy)",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7ff995802c2291f7f4c0659701947b6c2a36e60b?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:44l9nnCVvOQBbWG6tDViKl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/62WikgopS3tO34QbVKtVP0",
+      "id" : "62WikgopS3tO34QbVKtVP0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b6c96055af3892145d4396b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b6c96055af3892145d4396b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b6c96055af3892145d4396b",
+        "width" : 64
+      } ],
+      "name" : "Moana",
+      "release_date" : "2020-04-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:62WikgopS3tO34QbVKtVP0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+      "id" : "2LIk90788K0zvyj2JJVwkJ",
+      "name" : "Jack Harlow",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178216,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC12001161"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Tfxi7N3DW4zvAuVjt9g8X",
+    "id" : "1Tfxi7N3DW4zvAuVjt9g8X",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moana",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a7229f4d91e5f427b9f13d2e8017d27d493b38ea?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1Tfxi7N3DW4zvAuVjt9g8X"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6wDc63NhKy2PyXdbhkRmrl",
+      "id" : "6wDc63NhKy2PyXdbhkRmrl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bdfe4efd674482cf5ac88c99",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bdfe4efd674482cf5ac88c99",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bdfe4efd674482cf5ac88c99",
+        "width" : 64
+      } ],
+      "name" : "These Things Happen",
+      "release_date" : "2014-06-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6wDc63NhKy2PyXdbhkRmrl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rVA45AaxEEetdqc9NngiJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rVA45AaxEEetdqc9NngiJ",
+      "id" : "7rVA45AaxEEetdqc9NngiJ",
+      "name" : "Remo",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rVA45AaxEEetdqc9NngiJ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236480,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC11400730"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jmTHeoWvBaSrwWttr8Xvu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jmTHeoWvBaSrwWttr8Xvu",
+    "id" : "6jmTHeoWvBaSrwWttr8Xvu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Mean It (feat. Remo)",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/432fc518b825b9dfb9b23a8fa73f38488301d6ec?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6jmTHeoWvBaSrwWttr8Xvu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4fN30wOcfdGOYY1BYDqUHD",
+      "id" : "4fN30wOcfdGOYY1BYDqUHD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738bdc36a2fc9246daca976b1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028bdc36a2fc9246daca976b1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518bdc36a2fc9246daca976b1c",
+        "width" : 64
+      } ],
+      "name" : "Down",
+      "release_date" : "2020-09-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4fN30wOcfdGOYY1BYDqUHD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3MdXrJWsbVzdn6fe5JYkSQ",
+      "id" : "3MdXrJWsbVzdn6fe5JYkSQ",
+      "name" : "Mulatto",
+      "type" : "artist",
+      "uri" : "spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC12002832"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3tLhjMOfbdRGQNudmIABp4",
+    "id" : "3tLhjMOfbdRGQNudmIABp4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Down",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4219b1942f16608c706281b04f69efb72f159f33?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3tLhjMOfbdRGQNudmIABp4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+        "id" : "02kJSzxNuaWGqwubyUba0Z",
+        "name" : "G-Eazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Q3WwGYsQe5ognkvVkmCu",
+      "id" : "09Q3WwGYsQe5ognkvVkmCu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298acfa8c055deedc25e6081d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198acfa8c055deedc25e6081d",
+        "width" : 64
+      } ],
+      "name" : "When It's Dark Out",
+      "release_date" : "2015-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:09Q3WwGYsQe5ognkvVkmCu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "name" : "G-Eazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+      "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+      "name" : "Marc E. Bassy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC11502876"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Bqxj0aH5KewYHKUg1IdrF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Bqxj0aH5KewYHKUg1IdrF",
+    "id" : "1Bqxj0aH5KewYHKUg1IdrF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Some Kind Of Drug (feat. Marc E. Bassy)",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fa706772e4dae9c9edaaaa2feb8236d61780b235?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1Bqxj0aH5KewYHKUg1IdrF"
+  } ]
+}

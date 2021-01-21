@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3MXDonOIzrIrCh0HvlACyj",
+      "id" : "3MXDonOIzrIrCh0HvlACyj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f0cc194252888c6658c706ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f0cc194252888c6658c706ab",
+        "width" : 64
+      } ],
+      "name" : "Crazy Love",
+      "release_date" : "2009-10-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3MXDonOIzrIrCh0HvlACyj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10901437"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4fIWvT19w9PR0VVBuPYpWA",
+    "id" : "4fIWvT19w9PR0VVBuPYpWA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Haven't Met You Yet",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1d0f610c854617098d1fadef34b398360b702434?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4fIWvT19w9PR0VVBuPYpWA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "href" : "https://api.spotify.com/v1/albums/53fJVD9LpBKEMqdAF7PW5K",
+      "id" : "53fJVD9LpBKEMqdAF7PW5K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ead7786631d8dd3b59be4f0",
+        "width" : 64
+      } ],
+      "name" : "Christmas (Deluxe Special Edition)",
+      "release_date" : "2011-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:53fJVD9LpBKEMqdAF7PW5K"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207199,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE11300223"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rv46mRwDqMEhOBZ7vODg3",
+    "id" : "1rv46mRwDqMEhOBZ7vODg3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "It's Beginning to Look a Lot like Christmas",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1f24ace7c3c91ebd1b4eaf4a25aa196c1fec51e7?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1rv46mRwDqMEhOBZ7vODg3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1f9vWKabhNPNQnHLleExSh",
+      "id" : "1f9vWKabhNPNQnHLleExSh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c6ad2b2b62b581a23a7c1759",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c6ad2b2b62b581a23a7c1759",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c6ad2b2b62b581a23a7c1759",
+        "width" : 64
+      } ],
+      "name" : "It's Time",
+      "release_date" : "2005-02-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1f9vWKabhNPNQnHLleExSh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10401889"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1AM8QdDFZMq6SrrqUnuQ9P",
+    "id" : "1AM8QdDFZMq6SrrqUnuQ9P",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feeling Good",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/31fc9f95c681542af33e72bda7baa4951117dccd?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1AM8QdDFZMq6SrrqUnuQ9P"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1f9vWKabhNPNQnHLleExSh",
+      "id" : "1f9vWKabhNPNQnHLleExSh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c6ad2b2b62b581a23a7c1759",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c6ad2b2b62b581a23a7c1759",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c6ad2b2b62b581a23a7c1759",
+        "width" : 64
+      } ],
+      "name" : "It's Time",
+      "release_date" : "2005-02-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1f9vWKabhNPNQnHLleExSh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 225906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10401888"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3lyLqIn8mybyEFTs8JJaLf",
+    "id" : "3lyLqIn8mybyEFTs8JJaLf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Home",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0b77063b23e010c31ba91154967624ae14c7247d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3lyLqIn8mybyEFTs8JJaLf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3h4pyWRJIB9ZyRKXChbX22",
+      "id" : "3h4pyWRJIB9ZyRKXChbX22",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ceedc8c879a1f6784fbeef5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ceedc8c879a1f6784fbeef5",
+        "width" : 64
+      } ],
+      "name" : "Call Me Irresponsible",
+      "release_date" : "2007-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3h4pyWRJIB9ZyRKXChbX22"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10700317"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4T6HLdP6OcAtqC6tGnQelG",
+    "id" : "4T6HLdP6OcAtqC6tGnQelG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Everything",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cc3b7444ee1e70d073f762c60d211c313bdc9385?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4T6HLdP6OcAtqC6tGnQelG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rpSksJSFdNFqk5vne8at2",
+      "id" : "3rpSksJSFdNFqk5vne8at2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b732a522a686bb304a5d3fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b732a522a686bb304a5d3fdf",
+        "width" : 64
+      } ],
+      "name" : "Michael Bublé",
+      "release_date" : "2003",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3rpSksJSFdNFqk5vne8at2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10201551"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ajUl8lBLAXOXNpG4NEPMz",
+    "id" : "2ajUl8lBLAXOXNpG4NEPMz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sway",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3079716f594be8be583389382496a4d1d7160762?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2ajUl8lBLAXOXNpG4NEPMz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Yf5LJfqpjgl1a4TBiCi07",
+      "id" : "4Yf5LJfqpjgl1a4TBiCi07",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273051ae642ad4a0c1329b41d99",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02051ae642ad4a0c1329b41d99",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851051ae642ad4a0c1329b41d99",
+        "width" : 64
+      } ],
+      "name" : "To Be Loved",
+      "release_date" : "2013-04-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4Yf5LJfqpjgl1a4TBiCi07"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE11300016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0mvkwaZMP2gAy2ApQLtZRv",
+    "id" : "0mvkwaZMP2gAy2ApQLtZRv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "It's a Beautiful Day",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7eea4fbd8aa6c11d2dc0dee7158b4b50c26202a6?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0mvkwaZMP2gAy2ApQLtZRv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/68xKnVblFsSQ48CtgZT0oY",
+      "id" : "68xKnVblFsSQ48CtgZT0oY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025f3f20826d44c30a017fd68e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515f3f20826d44c30a017fd68e",
+        "width" : 64
+      } ],
+      "name" : "love (Deluxe Edition)",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:68xKnVblFsSQ48CtgZT0oY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE11800675"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7JEUg9KqmpdIE5Nbb9ss66",
+    "id" : "7JEUg9KqmpdIE5Nbb9ss66",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love You Anymore",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d463db7cea7de9714d2ec9723a737352788aaa3c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7JEUg9KqmpdIE5Nbb9ss66"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "href" : "https://api.spotify.com/v1/albums/53fJVD9LpBKEMqdAF7PW5K",
+      "id" : "53fJVD9LpBKEMqdAF7PW5K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ead7786631d8dd3b59be4f0",
+        "width" : 64
+      } ],
+      "name" : "Christmas (Deluxe Special Edition)",
+      "release_date" : "2011-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:53fJVD9LpBKEMqdAF7PW5K"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 121526,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE11300228"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/67mgz7S5y7hnCE63YBjfO6",
+    "id" : "67mgz7S5y7hnCE63YBjfO6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Holly Jolly Christmas",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2ff708e94bf1b60799d7c747588ff34f69921be6?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:67mgz7S5y7hnCE63YBjfO6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/68xKnVblFsSQ48CtgZT0oY",
+      "id" : "68xKnVblFsSQ48CtgZT0oY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025f3f20826d44c30a017fd68e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515f3f20826d44c30a017fd68e",
+        "width" : 64
+      } ],
+      "name" : "love (Deluxe Edition)",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:68xKnVblFsSQ48CtgZT0oY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PkSULcbxFKkxdgrmPGAvn",
+      "id" : "6PkSULcbxFKkxdgrmPGAvn",
+      "name" : "Cécile McLorin Salvant",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PkSULcbxFKkxdgrmPGAvn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229963,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE11800676"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1QELw50Dl95LusF6uOkDqk",
+    "id" : "1QELw50Dl95LusF6uOkDqk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "La vie en rose (feat. Cécile McLorin Salvant)",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/057a6ccf7dc6cc281176a393cea47c67ffc46b9e?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1QELw50Dl95LusF6uOkDqk"
+  } ]
+}

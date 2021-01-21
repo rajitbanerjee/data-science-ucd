@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6fvZds34e7H5ICQ5HOWNbd",
+      "id" : "6fvZds34e7H5ICQ5HOWNbd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273edd1e43f3a4345b53f285a25",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02edd1e43f3a4345b53f285a25",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851edd1e43f3a4345b53f285a25",
+        "width" : 64
+      } ],
+      "name" : "Standards, Vol. 2",
+      "release_date" : "1983",
+      "release_date_precision" : "year",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6fvZds34e7H5ICQ5HOWNbd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2k1Qcdf3sOJYCNZEPus58Y",
+      "id" : "2k1Qcdf3sOJYCNZEPus58Y",
+      "name" : "Gary Peacock",
+      "type" : "artist",
+      "uri" : "spotify:artist:2k1Qcdf3sOJYCNZEPus58Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rDjbKTLlpNYJRWMm7QVxU",
+      "id" : "7rDjbKTLlpNYJRWMm7QVxU",
+      "name" : "Jack DeJohnette",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rDjbKTLlpNYJRWMm7QVxU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 435266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB338328901"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Dt1B5dNfajRczQKZA87aL",
+    "id" : "0Dt1B5dNfajRczQKZA87aL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "So Tender",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Dt1B5dNfajRczQKZA87aL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ID17PzjagQlFsc1KFha5v",
+      "id" : "6ID17PzjagQlFsc1KFha5v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c23c205d1d0bc1d5360ef2ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c23c205d1d0bc1d5360ef2ab",
+        "width" : 64
+      } ],
+      "name" : "My Song",
+      "release_date" : "1978-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6ID17PzjagQlFsc1KFha5v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MEyCD4G0Zl6kmikEAZsym",
+      "id" : "7MEyCD4G0Zl6kmikEAZsym",
+      "name" : "Jan Garbarek",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MEyCD4G0Zl6kmikEAZsym"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CyW7K2UrpjUNLVV698wvJ",
+      "id" : "7CyW7K2UrpjUNLVV698wvJ",
+      "name" : "Palle Danielsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CyW7K2UrpjUNLVV698wvJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Li0fvh4kEJOWbLYWfNrPr",
+      "id" : "5Li0fvh4kEJOWbLYWfNrPr",
+      "name" : "Jon Christensen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Li0fvh4kEJOWbLYWfNrPr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 550493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB337711501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ChYuSIoOFDVY6fHSXF6zS",
+    "id" : "1ChYuSIoOFDVY6fHSXF6zS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Questar",
+    "popularity" : 52,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1ChYuSIoOFDVY6fHSXF6zS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2k1Qcdf3sOJYCNZEPus58Y",
+        "id" : "2k1Qcdf3sOJYCNZEPus58Y",
+        "name" : "Gary Peacock",
+        "type" : "artist",
+        "uri" : "spotify:artist:2k1Qcdf3sOJYCNZEPus58Y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7rDjbKTLlpNYJRWMm7QVxU",
+        "id" : "7rDjbKTLlpNYJRWMm7QVxU",
+        "name" : "Jack DeJohnette",
+        "type" : "artist",
+        "uri" : "spotify:artist:7rDjbKTLlpNYJRWMm7QVxU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6KCtVTAKemrqpVZLLdxB2c"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6KCtVTAKemrqpVZLLdxB2c",
+      "id" : "6KCtVTAKemrqpVZLLdxB2c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b0aba6f72c03d9fac830064",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b0aba6f72c03d9fac830064",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b0aba6f72c03d9fac830064",
+        "width" : 64
+      } ],
+      "name" : "After The Fall (Live)",
+      "release_date" : "2018-03-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6KCtVTAKemrqpVZLLdxB2c"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2k1Qcdf3sOJYCNZEPus58Y",
+      "id" : "2k1Qcdf3sOJYCNZEPus58Y",
+      "name" : "Gary Peacock",
+      "type" : "artist",
+      "uri" : "spotify:artist:2k1Qcdf3sOJYCNZEPus58Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rDjbKTLlpNYJRWMm7QVxU",
+      "id" : "7rDjbKTLlpNYJRWMm7QVxU",
+      "name" : "Jack DeJohnette",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rDjbKTLlpNYJRWMm7QVxU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 407586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB339859105"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1xKMxT6PFOr4RJWhoisP0t"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1xKMxT6PFOr4RJWhoisP0t",
+    "id" : "1xKMxT6PFOr4RJWhoisP0t",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One For Majid - Live",
+    "popularity" : 52,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1xKMxT6PFOr4RJWhoisP0t"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Pqc0ZFA20Y9zGJZ3ojUin",
+        "id" : "5Pqc0ZFA20Y9zGJZ3ojUin",
+        "name" : "Charlie Haden",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Pqc0ZFA20Y9zGJZ3ojUin"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0dlzYOzj8FqN3OXV3jXZye",
+      "id" : "0dlzYOzj8FqN3OXV3jXZye",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27379e3060043f4716b9b3547e4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0279e3060043f4716b9b3547e4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485179e3060043f4716b9b3547e4",
+        "width" : 64
+      } ],
+      "name" : "Jasmine",
+      "release_date" : "2010-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:0dlzYOzj8FqN3OXV3jXZye"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Pqc0ZFA20Y9zGJZ3ojUin",
+      "id" : "5Pqc0ZFA20Y9zGJZ3ojUin",
+      "name" : "Charlie Haden",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Pqc0ZFA20Y9zGJZ3ojUin"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 255226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB330716504"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6TCEJVBIrm9YysBGEVHFD0",
+    "id" : "6TCEJVBIrm9YysBGEVHFD0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One Day I'll Fly Away",
+    "popularity" : 51,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6TCEJVBIrm9YysBGEVHFD0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ID17PzjagQlFsc1KFha5v",
+      "id" : "6ID17PzjagQlFsc1KFha5v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c23c205d1d0bc1d5360ef2ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c23c205d1d0bc1d5360ef2ab",
+        "width" : 64
+      } ],
+      "name" : "My Song",
+      "release_date" : "1978-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6ID17PzjagQlFsc1KFha5v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MEyCD4G0Zl6kmikEAZsym",
+      "id" : "7MEyCD4G0Zl6kmikEAZsym",
+      "name" : "Jan Garbarek",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MEyCD4G0Zl6kmikEAZsym"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CyW7K2UrpjUNLVV698wvJ",
+      "id" : "7CyW7K2UrpjUNLVV698wvJ",
+      "name" : "Palle Danielsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CyW7K2UrpjUNLVV698wvJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Li0fvh4kEJOWbLYWfNrPr",
+      "id" : "5Li0fvh4kEJOWbLYWfNrPr",
+      "name" : "Jon Christensen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Li0fvh4kEJOWbLYWfNrPr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 369666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB337711502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1fZWZxwDpzMw9qkGv17d4c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1fZWZxwDpzMw9qkGv17d4c",
+    "id" : "1fZWZxwDpzMw9qkGv17d4c",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "My Song",
+    "popularity" : 51,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1fZWZxwDpzMw9qkGv17d4c"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Pqc0ZFA20Y9zGJZ3ojUin",
+        "id" : "5Pqc0ZFA20Y9zGJZ3ojUin",
+        "name" : "Charlie Haden",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Pqc0ZFA20Y9zGJZ3ojUin"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6SeF9urdp6Cw8aL11XwVEa",
+      "id" : "6SeF9urdp6Cw8aL11XwVEa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec814aec7bbfe018465622bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec814aec7bbfe018465622bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec814aec7bbfe018465622bf",
+        "width" : 64
+      } ],
+      "name" : "Last Dance",
+      "release_date" : "2014-06-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:6SeF9urdp6Cw8aL11XwVEa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Pqc0ZFA20Y9zGJZ3ojUin",
+      "id" : "5Pqc0ZFA20Y9zGJZ3ojUin",
+      "name" : "Charlie Haden",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Pqc0ZFA20Y9zGJZ3ojUin"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 572546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB330739907"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6WTaPOmjmElVLG7HD8nHkb",
+    "id" : "6WTaPOmjmElVLG7HD8nHkb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Where Can I Go Without You",
+    "popularity" : 50,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:6WTaPOmjmElVLG7HD8nHkb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Af5WzpGIm0AMNxNW4lUog"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Af5WzpGIm0AMNxNW4lUog",
+      "id" : "2Af5WzpGIm0AMNxNW4lUog",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273050dfa2e362c61175053de8d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02050dfa2e362c61175053de8d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851050dfa2e362c61175053de8d",
+        "width" : 64
+      } ],
+      "name" : "Budapest Concert (Live)",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2Af5WzpGIm0AMNxNW4lUog"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 269065,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB331870110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5vW6Lz4afRLr6ZmVTkRsI2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5vW6Lz4afRLr6ZmVTkRsI2",
+    "id" : "5vW6Lz4afRLr6ZmVTkRsI2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Answer Me - Live",
+    "popularity" : 27,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5vW6Lz4afRLr6ZmVTkRsI2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0I8vpSE1bSmysN2PhmHoQg",
+      "id" : "0I8vpSE1bSmysN2PhmHoQg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27364d8292b7825888183e4da28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0264d8292b7825888183e4da28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485164d8292b7825888183e4da28",
+        "width" : 64
+      } ],
+      "name" : "The Köln Concert",
+      "release_date" : "1975-11-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:0I8vpSE1bSmysN2PhmHoQg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 1561600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA097500010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0T4KV1pj8as2xvdHZAP5ae",
+    "id" : "0T4KV1pj8as2xvdHZAP5ae",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Köln, January 24, 1975, Pt. I - Live",
+    "popularity" : 48,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0T4KV1pj8as2xvdHZAP5ae"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2onXlqUvme77BeIcMIOz3M",
+      "id" : "2onXlqUvme77BeIcMIOz3M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b6534616d95facf42acee29",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b6534616d95facf42acee29",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b6534616d95facf42acee29",
+        "width" : 64
+      } ],
+      "name" : "The Melody At Night, With You",
+      "release_date" : "1999-10-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2onXlqUvme77BeIcMIOz3M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 344693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB339967501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6f5c2TrHJxscSjX1CVFlfR",
+    "id" : "6f5c2TrHJxscSjX1CVFlfR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Loves You Porgy",
+    "popularity" : 45,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6f5c2TrHJxscSjX1CVFlfR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+        "id" : "0F3Aew9DSd6fb6192K1K0Y",
+        "name" : "Keith Jarrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2onXlqUvme77BeIcMIOz3M",
+      "id" : "2onXlqUvme77BeIcMIOz3M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b6534616d95facf42acee29",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b6534616d95facf42acee29",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b6534616d95facf42acee29",
+        "width" : 64
+      } ],
+      "name" : "The Melody At Night, With You",
+      "release_date" : "1999-10-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2onXlqUvme77BeIcMIOz3M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+      "id" : "0F3Aew9DSd6fb6192K1K0Y",
+      "name" : "Keith Jarrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 426000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEB339967502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ZvxoSCkod7ABm7DFvFkX6",
+    "id" : "6ZvxoSCkod7ABm7DFvFkX6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Got It Bad And That Ain't Good",
+    "popularity" : 45,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6ZvxoSCkod7ABm7DFvFkX6"
+  } ]
+}

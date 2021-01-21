@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46VcvAWpybuvO2ZnShwC2N"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46VcvAWpybuvO2ZnShwC2N",
+      "id" : "46VcvAWpybuvO2ZnShwC2N",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731ed5ebb96f9a4fa7068dce9e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021ed5ebb96f9a4fa7068dce9e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511ed5ebb96f9a4fa7068dce9e",
+        "width" : 64
+      } ],
+      "name" : "Sigh No More (Deluxe)",
+      "release_date" : "2010-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 25,
+      "type" : "album",
+      "uri" : "spotify:album:46VcvAWpybuvO2ZnShwC2N"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 247000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBUM70909097"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3QjpO5xOB9ErJ95AxT0h0r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3QjpO5xOB9ErJ95AxT0h0r",
+    "id" : "3QjpO5xOB9ErJ95AxT0h0r",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Little Lion Man",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3QjpO5xOB9ErJ95AxT0h0r"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3cTGbD2EV2svwLfBh4ZG9S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3cTGbD2EV2svwLfBh4ZG9S",
+      "id" : "3cTGbD2EV2svwLfBh4ZG9S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ac96406b64019bc96ec6b956",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ac96406b64019bc96ec6b956",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ac96406b64019bc96ec6b956",
+        "width" : 64
+      } ],
+      "name" : "Babel (Deluxe Version)",
+      "release_date" : "2012-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3cTGbD2EV2svwLfBh4ZG9S"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 276720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71204769"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3nf8GgGCuSJryvwaeBRf6y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3nf8GgGCuSJryvwaeBRf6y",
+    "id" : "3nf8GgGCuSJryvwaeBRf6y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Will Wait",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3nf8GgGCuSJryvwaeBRf6y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46VcvAWpybuvO2ZnShwC2N"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46VcvAWpybuvO2ZnShwC2N",
+      "id" : "46VcvAWpybuvO2ZnShwC2N",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731ed5ebb96f9a4fa7068dce9e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021ed5ebb96f9a4fa7068dce9e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511ed5ebb96f9a4fa7068dce9e",
+        "width" : 64
+      } ],
+      "name" : "Sigh No More (Deluxe)",
+      "release_date" : "2010-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 25,
+      "type" : "album",
+      "uri" : "spotify:album:46VcvAWpybuvO2ZnShwC2N"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM70909075"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Ktt7hGxke6dEGNMDn5if2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Ktt7hGxke6dEGNMDn5if2",
+    "id" : "7Ktt7hGxke6dEGNMDn5if2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Cave",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7Ktt7hGxke6dEGNMDn5if2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Wmnkh4lzGy5rgkUPOjYbg",
+      "id" : "0Wmnkh4lzGy5rgkUPOjYbg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273848f9921a4abfd0da1618b3a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02848f9921a4abfd0da1618b3a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851848f9921a4abfd0da1618b3a",
+        "width" : 64
+      } ],
+      "name" : "Delta",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0Wmnkh4lzGy5rgkUPOjYbg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 274552,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71806304"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/47DKI4RxI8ZW0sBqDenMhO",
+    "id" : "47DKI4RxI8ZW0sBqDenMhO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Woman",
+    "popularity" : 62,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:47DKI4RxI8ZW0sBqDenMhO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Wmnkh4lzGy5rgkUPOjYbg",
+      "id" : "0Wmnkh4lzGy5rgkUPOjYbg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273848f9921a4abfd0da1618b3a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02848f9921a4abfd0da1618b3a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851848f9921a4abfd0da1618b3a",
+        "width" : 64
+      } ],
+      "name" : "Delta",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0Wmnkh4lzGy5rgkUPOjYbg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217633,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71805626"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3W3RQneS2yhA7E5l1dJW18",
+    "id" : "3W3RQneS2yhA7E5l1dJW18",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Guiding Light",
+    "popularity" : 61,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3W3RQneS2yhA7E5l1dJW18"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7LMz6ALQP2Jn9FdZmeeuiQ",
+      "id" : "7LMz6ALQP2Jn9FdZmeeuiQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b2bccd4f0dafab84faf216e7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b2bccd4f0dafab84faf216e7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b2bccd4f0dafab84faf216e7",
+        "width" : 64
+      } ],
+      "name" : "Wilder Mind",
+      "release_date" : "2015-05-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7LMz6ALQP2Jn9FdZmeeuiQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 220866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71500530"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3OgZdIAHaDMOtYq8Z5iCQ5",
+    "id" : "3OgZdIAHaDMOtYq8Z5iCQ5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Believe",
+    "popularity" : 59,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3OgZdIAHaDMOtYq8Z5iCQ5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "href" : "https://api.spotify.com/v1/albums/27AgSR4nCZSfMzb61JQ066",
+      "id" : "27AgSR4nCZSfMzb61JQ066",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273810e9a214b03b13201397b09",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02810e9a214b03b13201397b09",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851810e9a214b03b13201397b09",
+        "width" : 64
+      } ],
+      "name" : "Johannesburg",
+      "release_date" : "2016-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:27AgSR4nCZSfMzb61JQ066"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49z6oAiD2RpyUf5yLJs7Nf",
+      "id" : "49z6oAiD2RpyUf5yLJs7Nf",
+      "name" : "Baaba Maal",
+      "type" : "artist",
+      "uri" : "spotify:artist:49z6oAiD2RpyUf5yLJs7Nf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71507753"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3BqDKQg8onwppXlPw4SYnZ",
+    "id" : "3BqDKQg8onwppXlPw4SYnZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "There Will Be Time",
+    "popularity" : 59,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3BqDKQg8onwppXlPw4SYnZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1c2Ee269Rj9w8wn8s3qQu9",
+      "id" : "1c2Ee269Rj9w8wn8s3qQu9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff8fd758310f8dcd96e99a43",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff8fd758310f8dcd96e99a43",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff8fd758310f8dcd96e99a43",
+        "width" : 64
+      } ],
+      "name" : "Sigh No More",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1c2Ee269Rj9w8wn8s3qQu9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 255840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM70909100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1AbLS4CyyaCmrYCeYM5mTQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1AbLS4CyyaCmrYCeYM5mTQ",
+    "id" : "1AbLS4CyyaCmrYCeYM5mTQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Awake My Soul",
+    "popularity" : 50,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1AbLS4CyyaCmrYCeYM5mTQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Wmnkh4lzGy5rgkUPOjYbg",
+      "id" : "0Wmnkh4lzGy5rgkUPOjYbg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273848f9921a4abfd0da1618b3a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02848f9921a4abfd0da1618b3a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851848f9921a4abfd0da1618b3a",
+        "width" : 64
+      } ],
+      "name" : "Delta",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0Wmnkh4lzGy5rgkUPOjYbg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 265096,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71805627"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7HFgnF1oPMzkCqEMBOA2yI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7HFgnF1oPMzkCqEMBOA2yI",
+    "id" : "7HFgnF1oPMzkCqEMBOA2yI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Beloved",
+    "popularity" : 58,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7HFgnF1oPMzkCqEMBOA2yI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id" : "3gd8FJtBJtkRxdfbTu19U2",
+        "name" : "Mumford & Sons",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3cTGbD2EV2svwLfBh4ZG9S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3cTGbD2EV2svwLfBh4ZG9S",
+      "id" : "3cTGbD2EV2svwLfBh4ZG9S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ac96406b64019bc96ec6b956",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ac96406b64019bc96ec6b956",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ac96406b64019bc96ec6b956",
+        "width" : 64
+      } ],
+      "name" : "Babel (Deluxe Version)",
+      "release_date" : "2012-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3cTGbD2EV2svwLfBh4ZG9S"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+      "id" : "3gd8FJtBJtkRxdfbTu19U2",
+      "name" : "Mumford & Sons",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 307853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71204775"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0UEcewQ0Lev5GdnUvZQqdH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0UEcewQ0Lev5GdnUvZQqdH",
+    "id" : "0UEcewQ0Lev5GdnUvZQqdH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hopeless Wanderer",
+    "popularity" : 50,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0UEcewQ0Lev5GdnUvZQqdH"
+  } ]
+}

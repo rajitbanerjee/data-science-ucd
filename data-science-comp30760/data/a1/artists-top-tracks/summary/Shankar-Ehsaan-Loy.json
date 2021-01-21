@@ -1,0 +1,1078 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/778BLlKdQHXXzKm6XEiqTz",
+      "id" : "778BLlKdQHXXzKm6XEiqTz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d82f8ee55e79185ccf2427f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d82f8ee55e79185ccf2427f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d82f8ee55e79185ccf2427f",
+        "width" : 64
+      } ],
+      "name" : "Bandish Bandits (Original Motion Picture Soundtrack)",
+      "release_date" : "2020-07-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:778BLlKdQHXXzKm6XEiqTz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/235N4J1kQVI9kfqGF8Ntnl",
+      "id" : "235N4J1kQVI9kfqGF8Ntnl",
+      "name" : "Shivam Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:235N4J1kQVI9kfqGF8Ntnl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oGu3v9t2QMZhTLXm3Wb7P",
+      "id" : "3oGu3v9t2QMZhTLXm3Wb7P",
+      "name" : "Pratibha Singh Baghel",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oGu3v9t2QMZhTLXm3Wb7P"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198260,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS172002549"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30PPEJ1pEhtVnrgVNK5MEw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30PPEJ1pEhtVnrgVNK5MEw",
+    "id" : "30PPEJ1pEhtVnrgVNK5MEw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Chedkhaniyaan",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8f68a0f757741ee2857152dbff04c5fee38b12b8?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:30PPEJ1pEhtVnrgVNK5MEw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6H71erprmvRxnWs3XqC8uE",
+      "id" : "6H71erprmvRxnWs3XqC8uE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2055e0b847ff66fb5206099",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2055e0b847ff66fb5206099",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2055e0b847ff66fb5206099",
+        "width" : 64
+      } ],
+      "name" : "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+      "release_date" : "2003-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:6H71erprmvRxnWs3XqC8uE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dVygo6tRFXC8CSWURQJq2",
+      "id" : "1dVygo6tRFXC8CSWURQJq2",
+      "name" : "Sonu Nigam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dVygo6tRFXC8CSWURQJq2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 321240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS170300027"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/251PNRmJU9KcUnFQAB5t6I",
+    "id" : "251PNRmJU9KcUnFQAB5t6I",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kal Ho Naa Ho",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f8ab488c2309bf7e2f7fac927c121ad0c80962b3?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:251PNRmJU9KcUnFQAB5t6I"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/778BLlKdQHXXzKm6XEiqTz",
+      "id" : "778BLlKdQHXXzKm6XEiqTz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d82f8ee55e79185ccf2427f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d82f8ee55e79185ccf2427f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d82f8ee55e79185ccf2427f",
+        "width" : 64
+      } ],
+      "name" : "Bandish Bandits (Original Motion Picture Soundtrack)",
+      "release_date" : "2020-07-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:778BLlKdQHXXzKm6XEiqTz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/235N4J1kQVI9kfqGF8Ntnl",
+      "id" : "235N4J1kQVI9kfqGF8Ntnl",
+      "name" : "Shivam Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:235N4J1kQVI9kfqGF8Ntnl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
+      "id" : "00sCATpEvwH48ays7PlQFU",
+      "name" : "Jonita Gandhi",
+      "type" : "artist",
+      "uri" : "spotify:artist:00sCATpEvwH48ays7PlQFU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 194285,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS172002548"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1lUskB61Guv9LkWSV9ycWe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1lUskB61Guv9LkWSV9ycWe",
+    "id" : "1lUskB61Guv9LkWSV9ycWe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sajan Bin",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/80db2621e05a94b883019deaa40c981f3e49fd39?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1lUskB61Guv9LkWSV9ycWe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hYTERVUXY74XJdm8tyXBV",
+      "id" : "4hYTERVUXY74XJdm8tyXBV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273afbf50bfb7b032b69deabade",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02afbf50bfb7b032b69deabade",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851afbf50bfb7b032b69deabade",
+        "width" : 64
+      } ],
+      "name" : "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+      "release_date" : "2006-06-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:4hYTERVUXY74XJdm8tyXBV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+      "id" : "1SJOL9HJ08YOn92lFcYf8a",
+      "name" : "Shankar Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Yf4MRVpt0rcAd5y5h5ph1",
+      "id" : "2Yf4MRVpt0rcAd5y5h5ph1",
+      "name" : "Caralisa Monteiro",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Yf4MRVpt0rcAd5y5h5ph1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SuRAj1A9FEHj5NxS86YAm",
+      "id" : "5SuRAj1A9FEHj5NxS86YAm",
+      "name" : "Shafqat Amanat Ali",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 382973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS170600224"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4BTPzhEsyW3blWcxcuhLM0",
+    "id" : "4BTPzhEsyW3blWcxcuhLM0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mitwa",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1212f666309e8cca20f0688f86eba8ceea699c8a?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4BTPzhEsyW3blWcxcuhLM0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6H71erprmvRxnWs3XqC8uE",
+      "id" : "6H71erprmvRxnWs3XqC8uE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2055e0b847ff66fb5206099",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2055e0b847ff66fb5206099",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2055e0b847ff66fb5206099",
+        "width" : 64
+      } ],
+      "name" : "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+      "release_date" : "2003-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:6H71erprmvRxnWs3XqC8uE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HGMG8RHvcu1mfdM9MeTek",
+      "id" : "1HGMG8RHvcu1mfdM9MeTek",
+      "name" : "Sadhana Sargam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HGMG8RHvcu1mfdM9MeTek"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/63gr7tdupR56177ARreusx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/63gr7tdupR56177ARreusx",
+      "id" : "63gr7tdupR56177ARreusx",
+      "name" : "Sujata Bhattacharya",
+      "type" : "artist",
+      "uri" : "spotify:artist:63gr7tdupR56177ARreusx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/70B80Lwx2sxti0M1Ng9e8K",
+      "id" : "70B80Lwx2sxti0M1Ng9e8K",
+      "name" : "Udit Narayan",
+      "type" : "artist",
+      "uri" : "spotify:artist:70B80Lwx2sxti0M1Ng9e8K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dVygo6tRFXC8CSWURQJq2",
+      "id" : "1dVygo6tRFXC8CSWURQJq2",
+      "name" : "Sonu Nigam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dVygo6tRFXC8CSWURQJq2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 366853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS170300028"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Czm0vv2sYL5z4P51KY66e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Czm0vv2sYL5z4P51KY66e",
+    "id" : "7Czm0vv2sYL5z4P51KY66e",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Maahi Ve",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d435eadc05902723f3c3a6ccb16c3c1175a3ff51?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7Czm0vv2sYL5z4P51KY66e"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3U2w8t9JJNx2SrUkdY7XRa",
+      "id" : "3U2w8t9JJNx2SrUkdY7XRa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ead1372a95d29819105a7a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ead1372a95d29819105a7a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ead1372a95d29819105a7a7",
+        "width" : 64
+      } ],
+      "name" : "My Name Is Khan (Original Motion Picture Soundtrack)",
+      "release_date" : "2010-01-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3U2w8t9JJNx2SrUkdY7XRa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3OLGltG8UPIea8sA4w0yg0",
+      "id" : "3OLGltG8UPIea8sA4w0yg0",
+      "name" : "Rahat Fateh Ali Khan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3OLGltG8UPIea8sA4w0yg0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+      "id" : "1SJOL9HJ08YOn92lFcYf8a",
+      "name" : "Shankar Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hgViyN0RqyQQpfjIb0g3W",
+      "id" : "2hgViyN0RqyQQpfjIb0g3W",
+      "name" : "Richa Sharma",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hgViyN0RqyQQpfjIb0g3W"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 365706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS170900501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5upmbnXemLfPvs3d2eyHml"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5upmbnXemLfPvs3d2eyHml",
+    "id" : "5upmbnXemLfPvs3d2eyHml",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sajdaa",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d6f628b27b571af602fc91989243d7bab0480848?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5upmbnXemLfPvs3d2eyHml"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3m5FIubiCHr9mH3BU7ngY4",
+      "id" : "3m5FIubiCHr9mH3BU7ngY4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fd2df008046f04c32d9c0c2e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fd2df008046f04c32d9c0c2e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fd2df008046f04c32d9c0c2e",
+        "width" : 64
+      } ],
+      "name" : "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+      "release_date" : "2013-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:3m5FIubiCHr9mH3BU7ngY4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hwEGO7U6JwQ7M1teoO8GW",
+      "id" : "7hwEGO7U6JwQ7M1teoO8GW",
+      "name" : "Siddharth Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hwEGO7U6JwQ7M1teoO8GW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS171300367"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7vZz8oJ5qAqB9MghufRK5k",
+    "id" : "7vZz8oJ5qAqB9MghufRK5k",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Zinda",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e774050703d2a425911387f875ac16d9cfc4d435?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7vZz8oJ5qAqB9MghufRK5k"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5tyPxCCuXUuXfztVci3thi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5tyPxCCuXUuXfztVci3thi",
+      "id" : "5tyPxCCuXUuXfztVci3thi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ddb7b0aca55b90b0dd074c35",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ddb7b0aca55b90b0dd074c35",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ddb7b0aca55b90b0dd074c35",
+        "width" : 64
+      } ],
+      "name" : "Zero Hour Mashup 2015",
+      "release_date" : "2015-12-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5tyPxCCuXUuXfztVci3thi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76fuWYgIf3TVIopTs3vaJ6",
+      "id" : "76fuWYgIf3TVIopTs3vaJ6",
+      "name" : "Amaal Mallik",
+      "type" : "artist",
+      "uri" : "spotify:artist:76fuWYgIf3TVIopTs3vaJ6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
+      "id" : "2fMqTqiTxUDlmcOEPaQSsx",
+      "name" : "Amitabh Bhattacharya",
+      "type" : "artist",
+      "uri" : "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+      "id" : "2oSONSC9zQ4UonDKnLqksx",
+      "name" : "Atif Aslam",
+      "type" : "artist",
+      "uri" : "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1",
+      "id" : "0y59o4v8uw5crbN9M3JiL1",
+      "name" : "Badshah",
+      "type" : "artist",
+      "uri" : "spotify:artist:0y59o4v8uw5crbN9M3JiL1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/61if35zz1W11GejEkxTLEQ",
+      "id" : "61if35zz1W11GejEkxTLEQ",
+      "name" : "Benny Dayal",
+      "type" : "artist",
+      "uri" : "spotify:artist:61if35zz1W11GejEkxTLEQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sSzCxHtgL82pYDvx2QyEU",
+      "id" : "5sSzCxHtgL82pYDvx2QyEU",
+      "name" : "Devi Sri Prasad",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sSzCxHtgL82pYDvx2QyEU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fEkbug6kZzzJ8eYX6Kbbp",
+      "id" : "4fEkbug6kZzzJ8eYX6Kbbp",
+      "name" : "KK",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qcIg4IPLulyc03mWR87N8",
+      "id" : "6qcIg4IPLulyc03mWR87N8",
+      "name" : "Kanika Kapoor",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qcIg4IPLulyc03mWR87N8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qpsFfOT3SmdGmnyV6rOhS",
+      "id" : "0qpsFfOT3SmdGmnyV6rOhS",
+      "name" : "Meet Bros.",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qpsFfOT3SmdGmnyV6rOhS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5T2I75UlGBcWd5nVyfmL13",
+      "id" : "5T2I75UlGBcWd5nVyfmL13",
+      "name" : "Mika Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:5T2I75UlGBcWd5nVyfmL13"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tHD07u1ON4uHxmnT9rwqZ",
+      "id" : "3tHD07u1ON4uHxmnT9rwqZ",
+      "name" : "Neeraj Shridhar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tHD07u1ON4uHxmnT9rwqZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM",
+      "id" : "3ZxZ03fj3tXBZHZWzvaLSM",
+      "name" : "Neeti Mohan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+      "id" : "5f4QpKfy7ptCHwTqspnSJI",
+      "name" : "Neha Kakkar",
+      "type" : "artist",
+      "uri" : "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+      "id" : "1wRPtKGflJrBx9BmLsSwlU",
+      "name" : "Pritam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UdFr0GeO7jKIaNIJgwB36",
+      "id" : "5UdFr0GeO7jKIaNIJgwB36",
+      "name" : "Raftaar",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UdFr0GeO7jKIaNIJgwB36"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68ePdYvtRgq9CiPzv6fapI",
+      "id" : "68ePdYvtRgq9CiPzv6fapI",
+      "name" : "Salman Khan",
+      "type" : "artist",
+      "uri" : "spotify:artist:68ePdYvtRgq9CiPzv6fapI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+      "id" : "1SJOL9HJ08YOn92lFcYf8a",
+      "name" : "Shankar Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19MVxKZZdPj2X0F8pi0OCT",
+      "id" : "19MVxKZZdPj2X0F8pi0OCT",
+      "name" : "Sukhwinder Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:19MVxKZZdPj2X0F8pi0OCT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NZtn1Kyq08alpHCTRf3dv",
+      "id" : "0NZtn1Kyq08alpHCTRf3dv",
+      "name" : "Tony Kakkar",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NZtn1Kyq08alpHCTRf3dv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+      "id" : "7HCqGPJcQTyGJ2yqntbuyr",
+      "name" : "Amit Trivedi",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0sSxphmGskGCKlwB9xa6WU",
+      "id" : "0sSxphmGskGCKlwB9xa6WU",
+      "name" : "Himesh Reshammiya",
+      "type" : "artist",
+      "uri" : "spotify:artist:0sSxphmGskGCKlwB9xa6WU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Vx7iZ1loXjSgG0NNssDrD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Vx7iZ1loXjSgG0NNssDrD",
+      "id" : "0Vx7iZ1loXjSgG0NNssDrD",
+      "name" : "Anjjan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Vx7iZ1loXjSgG0NNssDrD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PpjqSKBer3obW6lDflOBx",
+      "id" : "3PpjqSKBer3obW6lDflOBx",
+      "name" : "Ram Sampath",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PpjqSKBer3obW6lDflOBx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qdu3XhzSzkRhbwdFKnSuw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qdu3XhzSzkRhbwdFKnSuw",
+      "id" : "3qdu3XhzSzkRhbwdFKnSuw",
+      "name" : "Sajid-Wajid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qdu3XhzSzkRhbwdFKnSuw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+      "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+      "name" : "Vishal-Shekhar",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7uIbLdzzSEqnX0Pkrb56cR",
+      "id" : "7uIbLdzzSEqnX0Pkrb56cR",
+      "name" : "Yo Yo Honey Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:7uIbLdzzSEqnX0Pkrb56cR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 259670,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181502179"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59nB7okW0qhj6924cjimOH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59nB7okW0qhj6924cjimOH",
+    "id" : "59nB7okW0qhj6924cjimOH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Zero Hour Mashup 2015(Remix By Dj Kiran Kamath)",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b7d7b389b11547ae83bf1470864ad76ffacad7c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:59nB7okW0qhj6924cjimOH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/778BLlKdQHXXzKm6XEiqTz",
+      "id" : "778BLlKdQHXXzKm6XEiqTz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d82f8ee55e79185ccf2427f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d82f8ee55e79185ccf2427f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d82f8ee55e79185ccf2427f",
+        "width" : 64
+      } ],
+      "name" : "Bandish Bandits (Original Motion Picture Soundtrack)",
+      "release_date" : "2020-07-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:778BLlKdQHXXzKm6XEiqTz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+      "id" : "4W91bbPB2CTSsHwt7eqNl7",
+      "name" : "Javed Ali",
+      "type" : "artist",
+      "uri" : "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 227553,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS172002551"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1H31HxfIHETvrQ02nWpsLO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1H31HxfIHETvrQ02nWpsLO",
+    "id" : "1H31HxfIHETvrQ02nWpsLO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Labb Par Aaye",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/897b73e69ec69d3c833f406b3f92f9f04fdf6547?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1H31HxfIHETvrQ02nWpsLO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/778BLlKdQHXXzKm6XEiqTz",
+      "id" : "778BLlKdQHXXzKm6XEiqTz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d82f8ee55e79185ccf2427f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d82f8ee55e79185ccf2427f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d82f8ee55e79185ccf2427f",
+        "width" : 64
+      } ],
+      "name" : "Bandish Bandits (Original Motion Picture Soundtrack)",
+      "release_date" : "2020-07-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:778BLlKdQHXXzKm6XEiqTz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+      "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+      "name" : "Shankar-Ehsaan-Loy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+      "id" : "1SJOL9HJ08YOn92lFcYf8a",
+      "name" : "Shankar Mahadevan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS172002552"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2IZxoVkMYXvSDZ9bJLKgZM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2IZxoVkMYXvSDZ9bJLKgZM",
+    "id" : "2IZxoVkMYXvSDZ9bJLKgZM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Virah",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/293d48c387caea4922fb4480625e40464ae4b923?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2IZxoVkMYXvSDZ9bJLKgZM"
+  } ]
+}

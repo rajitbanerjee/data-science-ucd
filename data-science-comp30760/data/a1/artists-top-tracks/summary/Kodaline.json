@@ -1,0 +1,691 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ttGpGzOEi6JDDOHO4qD1y",
+      "id" : "1ttGpGzOEi6JDDOHO4qD1y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733e42854096da9a3b1ca901c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023e42854096da9a3b1ca901c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513e42854096da9a3b1ca901c9",
+        "width" : 64
+      } ],
+      "name" : "In A Perfect World (Expanded Edition)",
+      "release_date" : "2013-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1ttGpGzOEi6JDDOHO4qD1y"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 305746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBDVX1200008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0NlGoUyOJSuSHmngoibVAs",
+    "id" : "0NlGoUyOJSuSHmngoibVAs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All I Want",
+    "popularity" : 83,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ee5e210cdea9f22e545ea435c0467dcecdeb41ca?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0NlGoUyOJSuSHmngoibVAs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18558bqLAhDW0UBIQxk0tQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18558bqLAhDW0UBIQxk0tQ",
+      "id" : "18558bqLAhDW0UBIQxk0tQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273070d4077732ffbfc675c0b9c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02070d4077732ffbfc675c0b9c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851070d4077732ffbfc675c0b9c",
+        "width" : 64
+      } ],
+      "name" : "One Day at a Time",
+      "release_date" : "2020-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:18558bqLAhDW0UBIQxk0tQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185004,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL1978984"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6cZ3yIYHjUVTW9be1QcWFe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6cZ3yIYHjUVTW9be1QcWFe",
+    "id" : "6cZ3yIYHjUVTW9be1QcWFe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wherever You Are",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b62efdd1234fd45ef2941f64565bafead203bb01?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6cZ3yIYHjUVTW9be1QcWFe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ttGpGzOEi6JDDOHO4qD1y",
+      "id" : "1ttGpGzOEi6JDDOHO4qD1y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733e42854096da9a3b1ca901c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023e42854096da9a3b1ca901c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513e42854096da9a3b1ca901c9",
+        "width" : 64
+      } ],
+      "name" : "In A Perfect World (Expanded Edition)",
+      "release_date" : "2013-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1ttGpGzOEi6JDDOHO4qD1y"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBDVX1200014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6KkyuDhrEhR5nJVKtv9mCf",
+    "id" : "6KkyuDhrEhR5nJVKtv9mCf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "High Hopes",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fca62ae6187ccf91bf981f7959ae6558caa601ee?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6KkyuDhrEhR5nJVKtv9mCf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ITjhViDumL9llxAJYdKiC",
+      "id" : "1ITjhViDumL9llxAJYdKiC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732112db8aa9dabc6cdd9e14d0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022112db8aa9dabc6cdd9e14d0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512112db8aa9dabc6cdd9e14d0",
+        "width" : 64
+      } ],
+      "name" : "Politics of Living",
+      "release_date" : "2018-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1ITjhViDumL9llxAJYdKiC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1700881"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/65gLJGey4u4KFFqoC5fzFJ",
+    "id" : "65gLJGey4u4KFFqoC5fzFJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Brother",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e4be7bddc51d40f8c56230725d7f77ca7f34ab57?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:65gLJGey4u4KFFqoC5fzFJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IJ5RDbQeiWIf7Fo601JwE",
+      "id" : "3IJ5RDbQeiWIf7Fo601JwE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27306ad5b8704d1a23c7649611c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0206ad5b8704d1a23c7649611c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485106ad5b8704d1a23c7649611c",
+        "width" : 64
+      } ],
+      "name" : "Coming Up for Air (Expanded Edition)",
+      "release_date" : "2015-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3IJ5RDbQeiWIf7Fo601JwE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1401580"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0My8NPmENHrN5W7OfgZnZJ",
+    "id" : "0My8NPmENHrN5W7OfgZnZJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The One",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d03f811871744799679f34ee055916d1bbb47e52?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0My8NPmENHrN5W7OfgZnZJ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2i9dapZV0tpWCBtqj9cA0Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2i9dapZV0tpWCBtqj9cA0Z",
+      "id" : "2i9dapZV0tpWCBtqj9cA0Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27364eb43b64ff6991d51ba50b4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0264eb43b64ff6991d51ba50b4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485164eb43b64ff6991d51ba50b4",
+        "width" : 64
+      } ],
+      "name" : "In A Perfect World (Collection)",
+      "release_date" : "2013-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:2i9dapZV0tpWCBtqj9cA0Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBVDX1300013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Wjf9NsW6QCmBiDIdVvMbP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Wjf9NsW6QCmBiDIdVvMbP",
+    "id" : "5Wjf9NsW6QCmBiDIdVvMbP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Like This - Acoustic",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a689a9650abf6918a809f60e1f6556159e6c8de5?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5Wjf9NsW6QCmBiDIdVvMbP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+        "id" : "3w6zswp5THsSKYLICUbDTZ",
+        "name" : "Gabrielle Aplin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0KJJKjXTLTss5wFEDIfTUS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0KJJKjXTLTss5wFEDIfTUS",
+      "id" : "0KJJKjXTLTss5wFEDIfTUS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fd5ac2dd201190126ed2a7b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fd5ac2dd201190126ed2a7b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fd5ac2dd201190126ed2a7b2",
+        "width" : 64
+      } ],
+      "name" : "Everyone Changes",
+      "release_date" : "2020-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0KJJKjXTLTss5wFEDIfTUS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+      "id" : "3w6zswp5THsSKYLICUbDTZ",
+      "name" : "Gabrielle Aplin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208956,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2022145"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2KaQEJkUtdhmHBc1ERzlRB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2KaQEJkUtdhmHBc1ERzlRB",
+    "id" : "2KaQEJkUtdhmHBc1ERzlRB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Everyone Changes",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/51c7bdfbbfdf8fb0cfa7e1c02d896847593a848d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2KaQEJkUtdhmHBc1ERzlRB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18558bqLAhDW0UBIQxk0tQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18558bqLAhDW0UBIQxk0tQ",
+      "id" : "18558bqLAhDW0UBIQxk0tQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273070d4077732ffbfc675c0b9c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02070d4077732ffbfc675c0b9c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851070d4077732ffbfc675c0b9c",
+        "width" : 64
+      } ],
+      "name" : "One Day at a Time",
+      "release_date" : "2020-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:18558bqLAhDW0UBIQxk0tQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233999,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2096476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kswR4VNp2z8f8VXUHfTSD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kswR4VNp2z8f8VXUHfTSD",
+    "id" : "3kswR4VNp2z8f8VXUHfTSD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Say Something",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/98afc119b7851f0788293c91ba2a492af705eb30?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3kswR4VNp2z8f8VXUHfTSD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IJ5RDbQeiWIf7Fo601JwE",
+      "id" : "3IJ5RDbQeiWIf7Fo601JwE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27306ad5b8704d1a23c7649611c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0206ad5b8704d1a23c7649611c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485106ad5b8704d1a23c7649611c",
+        "width" : 64
+      } ],
+      "name" : "Coming Up for Air (Expanded Edition)",
+      "release_date" : "2015-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3IJ5RDbQeiWIf7Fo601JwE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 265813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1401588"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3QFCL0dqEzXFIWlqWiVDJU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3QFCL0dqEzXFIWlqWiVDJU",
+    "id" : "3QFCL0dqEzXFIWlqWiVDJU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moving on",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1822797331bc69cfff54ae6187af97662e42bbcd?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3QFCL0dqEzXFIWlqWiVDJU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+        "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+        "name" : "Kodaline",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18558bqLAhDW0UBIQxk0tQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18558bqLAhDW0UBIQxk0tQ",
+      "id" : "18558bqLAhDW0UBIQxk0tQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273070d4077732ffbfc675c0b9c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02070d4077732ffbfc675c0b9c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851070d4077732ffbfc675c0b9c",
+        "width" : 64
+      } ],
+      "name" : "One Day at a Time",
+      "release_date" : "2020-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:18558bqLAhDW0UBIQxk0tQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 228275,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2089119"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2FxQTGqTVhAvsUAXbpCdh3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2FxQTGqTVhAvsUAXbpCdh3",
+    "id" : "2FxQTGqTVhAvsUAXbpCdh3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sometimes",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1d564c6312040c7dc1caae26e16397b678beb714?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2FxQTGqTVhAvsUAXbpCdh3"
+  } ]
+}

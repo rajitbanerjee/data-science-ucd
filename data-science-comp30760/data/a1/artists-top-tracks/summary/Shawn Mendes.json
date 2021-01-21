@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7vif3nVzXURIrjGjHeHytB",
+      "id" : "7vif3nVzXURIrjGjHeHytB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d9621bb2904dc57a60a6b36",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d9621bb2904dc57a60a6b36",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d9621bb2904dc57a60a6b36",
+        "width" : 64
+      } ],
+      "name" : "Wonder",
+      "release_date" : "2020-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7vif3nVzXURIrjGjHeHytB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172692,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM72018522"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5KCbr5ndeby4y4ggthdiAb",
+    "id" : "5KCbr5ndeby4y4ggthdiAb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wonder",
+    "popularity" : 92,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5KCbr5ndeby4y4ggthdiAb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0xzScN8P3hQAz3BT3YYX5w",
+      "id" : "0xzScN8P3hQAz3BT3YYX5w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c820f033bd82bef4355d1563",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c820f033bd82bef4355d1563",
+        "width" : 64
+      } ],
+      "name" : "Shawn Mendes (Deluxe)",
+      "release_date" : "2019-06-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0xzScN8P3hQAz3BT3YYX5w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+      "id" : "4nDoRrQiYLoBzwC5BhVJzF",
+      "name" : "Camila Cabello",
+      "type" : "artist",
+      "uri" : "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190799,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71911283"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6v3KW9xbzN5yKLt9YKDYA2",
+    "id" : "6v3KW9xbzN5yKLt9YKDYA2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Señorita",
+    "popularity" : 82,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ne2D0NxoGyZd31gAM4HNd",
+      "id" : "1ne2D0NxoGyZd31gAM4HNd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021376b4b16f4bfcba02dc571b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511376b4b16f4bfcba02dc571b",
+        "width" : 64
+      } ],
+      "name" : "Illuminate",
+      "release_date" : "2017-04-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:1ne2D0NxoGyZd31gAM4HNd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71604711"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3QGsuHI8jO1Rx4JWLUh9jd",
+    "id" : "3QGsuHI8jO1Rx4JWLUh9jd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Treat You Better",
+    "popularity" : 82,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3QGsuHI8jO1Rx4JWLUh9jd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3wBabo4pmzsYjALMSKY7Iq",
+      "id" : "3wBabo4pmzsYjALMSKY7Iq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ea3ef7697cfd5705b8f47521",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ea3ef7697cfd5705b8f47521",
+        "width" : 64
+      } ],
+      "name" : "Illuminate (Deluxe)",
+      "release_date" : "2017-04-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3wBabo4pmzsYjALMSKY7Iq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71702833"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7JJmb5XwzOO8jgpou264Ml",
+    "id" : "7JJmb5XwzOO8jgpou264Ml",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "There's Nothing Holdin' Me Back",
+    "popularity" : 81,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0xzScN8P3hQAz3BT3YYX5w",
+      "id" : "0xzScN8P3hQAz3BT3YYX5w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c820f033bd82bef4355d1563",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c820f033bd82bef4355d1563",
+        "width" : 64
+      } ],
+      "name" : "Shawn Mendes (Deluxe)",
+      "release_date" : "2019-06-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0xzScN8P3hQAz3BT3YYX5w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71907349"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2bT1PH7Cw3J9p3t7nlXCdh",
+    "id" : "2bT1PH7Cw3J9p3t7nlXCdh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "If I Can't Have You",
+    "popularity" : 76,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2bT1PH7Cw3J9p3t7nlXCdh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3wBabo4pmzsYjALMSKY7Iq",
+      "id" : "3wBabo4pmzsYjALMSKY7Iq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ea3ef7697cfd5705b8f47521",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ea3ef7697cfd5705b8f47521",
+        "width" : 64
+      } ],
+      "name" : "Illuminate (Deluxe)",
+      "release_date" : "2017-04-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3wBabo4pmzsYjALMSKY7Iq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71603531"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0AS63m1wHv9n4VVRizK6Hc",
+    "id" : "0AS63m1wHv9n4VVRizK6Hc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mercy",
+    "popularity" : 79,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0AS63m1wHv9n4VVRizK6Hc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2VP96XdMOKTXefI8Nui23s",
+      "id" : "2VP96XdMOKTXefI8Nui23s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02269423eb6467e308c0fbce24",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851269423eb6467e308c0fbce24",
+        "width" : 64
+      } ],
+      "name" : "Shawn Mendes",
+      "release_date" : "2018-05-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2VP96XdMOKTXefI8Nui23s"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71803183"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2QZ7WLBE8h2y1Y5Fb8RYbH",
+    "id" : "2QZ7WLBE8h2y1Y5Fb8RYbH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In My Blood",
+    "popularity" : 78,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0CnQ0JQajNswRjPkNYVG8m",
+      "id" : "0CnQ0JQajNswRjPkNYVG8m",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27375bd5306fb4669a15ee74eff",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0275bd5306fb4669a15ee74eff",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485175bd5306fb4669a15ee74eff",
+        "width" : 64
+      } ],
+      "name" : "Handwritten",
+      "release_date" : "2015-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0CnQ0JQajNswRjPkNYVG8m"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206880,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71500658"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3zkWCteF82vJwv0hRLba76",
+    "id" : "3zkWCteF82vJwv0hRLba76",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stitches",
+    "popularity" : 76,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3zkWCteF82vJwv0hRLba76"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2VP96XdMOKTXefI8Nui23s",
+      "id" : "2VP96XdMOKTXefI8Nui23s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02269423eb6467e308c0fbce24",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851269423eb6467e308c0fbce24",
+        "width" : 64
+      } ],
+      "name" : "Shawn Mendes",
+      "release_date" : "2018-05-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2VP96XdMOKTXefI8Nui23s"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71804960"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5EYBryPOgIEPB7r5QIy6eG",
+    "id" : "5EYBryPOgIEPB7r5QIy6eG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fallin' All In You",
+    "popularity" : 76,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5EYBryPOgIEPB7r5QIy6eG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5Jov5724Nz13A302HM2eKG",
+      "id" : "5Jov5724Nz13A302HM2eKG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d6a4125a1d62dc6185f74ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d6a4125a1d62dc6185f74ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d6a4125a1d62dc6185f74ea",
+        "width" : 64
+      } ],
+      "name" : "Handwritten (Deluxe)",
+      "release_date" : "2015-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:5Jov5724Nz13A302HM2eKG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+      "name" : "Shawn Mendes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71500655"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/21TcDbGosp7w9YhTjOszgA",
+    "id" : "21TcDbGosp7w9YhTjOszgA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Imagination",
+    "popularity" : 75,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:21TcDbGosp7w9YhTjOszgA"
+  } ]
+}

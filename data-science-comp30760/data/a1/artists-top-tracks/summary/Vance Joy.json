@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rIbiUMmZJfqJRnXhVxFvg",
+      "id" : "6rIbiUMmZJfqJRnXhVxFvg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3ce97395ff522b0d70c1094",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3ce97395ff522b0d70c1094",
+        "width" : 64
+      } ],
+      "name" : "Dream Your Life Away",
+      "release_date" : "2014-09-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6rIbiUMmZJfqJRnXhVxFvg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AULI01385760"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7yq4Qj7cqayVTp3FF9CWbm",
+    "id" : "7yq4Qj7cqayVTp3FF9CWbm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Riptide",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0dd45171d094ca8d374219054879662fe7982462?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7yq4Qj7cqayVTp3FF9CWbm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5f6Eu9QtujgGggq5qbbycV",
+      "id" : "5f6Eu9QtujgGggq5qbbycV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ac709b94022896013465886",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ac709b94022896013465886",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ac709b94022896013465886",
+        "width" : 64
+      } ],
+      "name" : "Nation of Two",
+      "release_date" : "2018-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5f6Eu9QtujgGggq5qbbycV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21705384"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2RiBogNRfulkNf7fVbPOrJ",
+    "id" : "2RiBogNRfulkNf7fVbPOrJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Saturday Sun",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bfa87c7c2e4493e4d8c108e3de2b9bbd26dd2256?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2RiBogNRfulkNf7fVbPOrJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rIbiUMmZJfqJRnXhVxFvg",
+      "id" : "6rIbiUMmZJfqJRnXhVxFvg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3ce97395ff522b0d70c1094",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3ce97395ff522b0d70c1094",
+        "width" : 64
+      } ],
+      "name" : "Dream Your Life Away",
+      "release_date" : "2014-09-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6rIbiUMmZJfqJRnXhVxFvg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21402869"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Fha6tXHkL3r9m9nNqQG8p",
+    "id" : "6Fha6tXHkL3r9m9nNqQG8p",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Georgia",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/56b0ed77bb0313edab50d2e62589fe7187de254a?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6Fha6tXHkL3r9m9nNqQG8p"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rIbiUMmZJfqJRnXhVxFvg",
+      "id" : "6rIbiUMmZJfqJRnXhVxFvg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3ce97395ff522b0d70c1094",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3ce97395ff522b0d70c1094",
+        "width" : 64
+      } ],
+      "name" : "Dream Your Life Away",
+      "release_date" : "2014-09-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6rIbiUMmZJfqJRnXhVxFvg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21402865"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BVwi9cIzSc6tpyxsp47vJ",
+    "id" : "7BVwi9cIzSc6tpyxsp47vJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mess Is Mine",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0bb48304530e1d8b5ad0f7e96c3c0064a7ba10dd?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7BVwi9cIzSc6tpyxsp47vJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5S9b8euumqMhQbMk0zzQdH",
+      "id" : "5S9b8euumqMhQbMk0zzQdH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9929deb093a6617d2493b03",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9929deb093a6617d2493b03",
+        "width" : 64
+      } ],
+      "name" : "Dream Your Life Away (Special Edition)",
+      "release_date" : "2014-09-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:5S9b8euumqMhQbMk0zzQdH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 249382,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21502316"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6liNJDyWJjyHAgDnAX95bw",
+    "id" : "6liNJDyWJjyHAgDnAX95bw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fire and the Flood",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9340a568afa0b830bcdde7f50f250f780d6d160c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:6liNJDyWJjyHAgDnAX95bw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5f6Eu9QtujgGggq5qbbycV",
+      "id" : "5f6Eu9QtujgGggq5qbbycV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ac709b94022896013465886",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ac709b94022896013465886",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ac709b94022896013465886",
+        "width" : 64
+      } ],
+      "name" : "Nation of Two",
+      "release_date" : "2018-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5f6Eu9QtujgGggq5qbbycV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239786,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21705386"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Qwuw0eOeszVlewLpu24gR",
+    "id" : "6Qwuw0eOeszVlewLpu24gR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I'm with You",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f2e73d0925294772aaae138b6e58790ad64ff2d2?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6Qwuw0eOeszVlewLpu24gR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5f6Eu9QtujgGggq5qbbycV",
+      "id" : "5f6Eu9QtujgGggq5qbbycV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ac709b94022896013465886",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ac709b94022896013465886",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ac709b94022896013465886",
+        "width" : 64
+      } ],
+      "name" : "Nation of Two",
+      "release_date" : "2018-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5f6Eu9QtujgGggq5qbbycV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21704658"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Od2OWvoT4embWAgIGeFRd",
+    "id" : "6Od2OWvoT4embWAgIGeFRd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Like Gold",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b52c4067a82a45fc91d65ec08f453c10f026b459?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:6Od2OWvoT4embWAgIGeFRd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5f6Eu9QtujgGggq5qbbycV",
+      "id" : "5f6Eu9QtujgGggq5qbbycV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ac709b94022896013465886",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ac709b94022896013465886",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ac709b94022896013465886",
+        "width" : 64
+      } ],
+      "name" : "Nation of Two",
+      "release_date" : "2018-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5f6Eu9QtujgGggq5qbbycV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21701955"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7oekneJCJO74ycdLzdk16v",
+    "id" : "7oekneJCJO74ycdLzdk16v",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lay It on Me",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7e9452cfb88b5036657679b7e0462c4d2500fcac?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7oekneJCJO74ycdLzdk16v"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5f6Eu9QtujgGggq5qbbycV",
+      "id" : "5f6Eu9QtujgGggq5qbbycV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ac709b94022896013465886",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ac709b94022896013465886",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ac709b94022896013465886",
+        "width" : 64
+      } ],
+      "name" : "Nation of Two",
+      "release_date" : "2018-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5f6Eu9QtujgGggq5qbbycV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21705315"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5J7zqPpQkN9JZiaELHNKSL",
+    "id" : "5J7zqPpQkN9JZiaELHNKSL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We're Going Home",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a17a72a76e49f6fc58fb08cc479010861e95266e?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5J7zqPpQkN9JZiaELHNKSL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+        "id" : "10exVja0key0uqUkk6LJRT",
+        "name" : "Vance Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5S9b8euumqMhQbMk0zzQdH",
+      "id" : "5S9b8euumqMhQbMk0zzQdH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9929deb093a6617d2493b03",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9929deb093a6617d2493b03",
+        "width" : 64
+      } ],
+      "name" : "Dream Your Life Away (Special Edition)",
+      "release_date" : "2014-09-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:5S9b8euumqMhQbMk0zzQdH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+      "id" : "10exVja0key0uqUkk6LJRT",
+      "name" : "Vance Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217156,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21502317"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ueeLdAauagzEJ9coJQMYt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ueeLdAauagzEJ9coJQMYt",
+    "id" : "1ueeLdAauagzEJ9coJQMYt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Straight into Your Arms - Bonus Track Version",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a9971f655f80ab8326bedf5d1bcc90bac442fa6b?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1ueeLdAauagzEJ9coJQMYt"
+  } ]
+}

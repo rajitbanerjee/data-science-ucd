@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1UwzOp5hn3lAbOqsAfXBw8",
+      "id" : "1UwzOp5hn3lAbOqsAfXBw8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733f911caa42c2ef00253efb70",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023f911caa42c2ef00253efb70",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513f911caa42c2ef00253efb70",
+        "width" : 64
+      } ],
+      "name" : "We Sing. We Dance. We Steal Things.",
+      "release_date" : "2008-05-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 26,
+      "type" : "album",
+      "uri" : "spotify:album:1UwzOp5hn3lAbOqsAfXBw8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 242186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE10800667"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3S0OXQeoh0w6AY8WQVckRW",
+    "id" : "3S0OXQeoh0w6AY8WQVckRW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I'm Yours",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c58f1bc9160754337b858a4eb824a6ac2321041d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3S0OXQeoh0w6AY8WQVckRW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1UwzOp5hn3lAbOqsAfXBw8",
+      "id" : "1UwzOp5hn3lAbOqsAfXBw8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733f911caa42c2ef00253efb70",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023f911caa42c2ef00253efb70",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513f911caa42c2ef00253efb70",
+        "width" : 64
+      } ],
+      "name" : "We Sing. We Dance. We Steal Things.",
+      "release_date" : "2008-05-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 26,
+      "type" : "album",
+      "uri" : "spotify:album:1UwzOp5hn3lAbOqsAfXBw8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6aZyMrc4doVtZyKNilOmwu",
+      "id" : "6aZyMrc4doVtZyKNilOmwu",
+      "name" : "Colbie Caillat",
+      "type" : "artist",
+      "uri" : "spotify:artist:6aZyMrc4doVtZyKNilOmwu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE10800806"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2qLMf6TuEC3ruGJg4SMMN6",
+    "id" : "2qLMf6TuEC3ruGJg4SMMN6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lucky",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6d11c0ffe71a18048e675c42c184efad8742f9fc?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2qLMf6TuEC3ruGJg4SMMN6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7oD9oCCtFhg5RoLtMR5TKl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7oD9oCCtFhg5RoLtMR5TKl",
+      "id" : "7oD9oCCtFhg5RoLtMR5TKl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ea5a0e8ea129cd71a7d9d9e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ea5a0e8ea129cd71a7d9d9e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ea5a0e8ea129cd71a7d9d9e",
+        "width" : 64
+      } ],
+      "name" : "Love Is a Four Letter Word",
+      "release_date" : "2012-04-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7oD9oCCtFhg5RoLtMR5TKl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240165,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE11100768"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ivF4eQBqJiVL5IAE9jRyl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ivF4eQBqJiVL5IAE9jRyl",
+    "id" : "5ivF4eQBqJiVL5IAE9jRyl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Won't Give Up",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1fc135f92f01b35c3c03b4dea2ca13ee15b5427d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5ivF4eQBqJiVL5IAE9jRyl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7oD9oCCtFhg5RoLtMR5TKl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7oD9oCCtFhg5RoLtMR5TKl",
+      "id" : "7oD9oCCtFhg5RoLtMR5TKl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ea5a0e8ea129cd71a7d9d9e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ea5a0e8ea129cd71a7d9d9e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ea5a0e8ea129cd71a7d9d9e",
+        "width" : 64
+      } ],
+      "name" : "Love Is a Four Letter Word",
+      "release_date" : "2012-04-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7oD9oCCtFhg5RoLtMR5TKl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE11200150"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/38jy6kRlPt8z1GUS9WXeNh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/38jy6kRlPt8z1GUS9WXeNh",
+    "id" : "38jy6kRlPt8z1GUS9WXeNh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "93 Million Miles",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/912438f38d6d8e36e9537e56541da07174497c04?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:38jy6kRlPt8z1GUS9WXeNh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dwIWyB2jdJgL3P2JEgRKm",
+      "id" : "7dwIWyB2jdJgL3P2JEgRKm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b84102f154deb7a798ed372",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b84102f154deb7a798ed372",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b84102f154deb7a798ed372",
+        "width" : 64
+      } ],
+      "name" : "Know.",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7dwIWyB2jdJgL3P2JEgRKm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21801510"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BXW1QCg56yzEBV8pW8pah",
+    "id" : "7BXW1QCg56yzEBV8pW8pah",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Have It All",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/af6a3e7fa8bf66090c837b3566a298fac3bb1b1e?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7BXW1QCg56yzEBV8pW8pah"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4eTkXKtjSt3N5FqFhu2GZy",
+      "id" : "4eTkXKtjSt3N5FqFhu2GZy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731838fae6c49eebe9edb80495",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021838fae6c49eebe9edb80495",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511838fae6c49eebe9edb80495",
+        "width" : 64
+      } ],
+      "name" : "Look For The Good",
+      "release_date" : "2020-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4eTkXKtjSt3N5FqFhu2GZy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239697,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMRSZ2000746"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4XI5GjQ6zcJXsDnuyOGGEa",
+    "id" : "4XI5GjQ6zcJXsDnuyOGGEa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Look For The Good - Single Version",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/346f378aa1f5cbb3e00f6aa13c5d8dbb6b5ccf77?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4XI5GjQ6zcJXsDnuyOGGEa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bqksLEQxw80lhxXp6Xtcz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bqksLEQxw80lhxXp6Xtcz",
+      "id" : "2bqksLEQxw80lhxXp6Xtcz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae5fd68f4cb1dfc80dc3bbda",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae5fd68f4cb1dfc80dc3bbda",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae5fd68f4cb1dfc80dc3bbda",
+        "width" : 64
+      } ],
+      "name" : "YES!",
+      "release_date" : "2014-07-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2bqksLEQxw80lhxXp6Xtcz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 256973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE11400514"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Bo6FwC7Oe9zywSZc6q7hO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Bo6FwC7Oe9zywSZc6q7hO",
+    "id" : "4Bo6FwC7Oe9zywSZc6q7hO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Someone",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a65ebb47c2ae64cf2dd936146498dc7b3cf1129?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4Bo6FwC7Oe9zywSZc6q7hO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6I9GBueBmRdHdDQjbL7El1",
+      "id" : "6I9GBueBmRdHdDQjbL7El1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733581944cbe3f08ef4636dfbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023581944cbe3f08ef4636dfbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513581944cbe3f08ef4636dfbc",
+        "width" : 64
+      } ],
+      "name" : "Waiting for My Rocket to Come",
+      "release_date" : "2002-10-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6I9GBueBmRdHdDQjbL7El1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 256440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE10240649"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4tK4ARuilOrBzwVQK73E0Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4tK4ARuilOrBzwVQK73E0Y",
+    "id" : "4tK4ARuilOrBzwVQK73E0Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Remedy (I Won't Worry)",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d4a9ff9a3280bde47760906ec826b0388db88e3f?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4tK4ARuilOrBzwVQK73E0Y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1PuBipBX8qqeUN3FOPIexs",
+      "id" : "1PuBipBX8qqeUN3FOPIexs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273acb117893afd6af49cc17afd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02acb117893afd6af49cc17afd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851acb117893afd6af49cc17afd",
+        "width" : 64
+      } ],
+      "name" : "Look For The Good",
+      "release_date" : "2020-06-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1PuBipBX8qqeUN3FOPIexs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 281546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMRSZ2000281"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6uvF15oBfR7kQBzF27vCtS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6uvF15oBfR7kQBzF27vCtS",
+    "id" : "6uvF15oBfR7kQBzF27vCtS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wise Woman",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec74a81ecaccb7901438cae62a1aff1a47dc24d3?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6uvF15oBfR7kQBzF27vCtS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id" : "4phGZZrJZRo4ElhRtViYdl",
+        "name" : "Jason Mraz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dwIWyB2jdJgL3P2JEgRKm",
+      "id" : "7dwIWyB2jdJgL3P2JEgRKm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b84102f154deb7a798ed372",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b84102f154deb7a798ed372",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b84102f154deb7a798ed372",
+        "width" : 64
+      } ],
+      "name" : "Know.",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7dwIWyB2jdJgL3P2JEgRKm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 245186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21802782"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3dglCYsVMjPbDlU2CC9Vq7",
+    "id" : "3dglCYsVMjPbDlU2CC9Vq7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let's See What The Night Can Do",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cf5fae334a3f9a9d04285411229317de961b2a26?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3dglCYsVMjPbDlU2CC9Vq7"
+  } ]
+}

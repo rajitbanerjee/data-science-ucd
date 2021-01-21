@@ -1,0 +1,700 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gPOWmWT0q7Ygp95Xiuw1v",
+      "id" : "3gPOWmWT0q7Ygp95Xiuw1v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273947b5cc535d76394a2d98e37",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02947b5cc535d76394a2d98e37",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851947b5cc535d76394a2d98e37",
+        "width" : 64
+      } ],
+      "name" : "Night Train (Expanded Edition)",
+      "release_date" : "1963-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3gPOWmWT0q7Ygp95Xiuw1v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 306226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USF096300380"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ol2UyMTiklHVujAWg02nE",
+    "id" : "4ol2UyMTiklHVujAWg02nE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Got It Bad And That Ain't Good",
+    "popularity" : 59,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4ol2UyMTiklHVujAWg02nE"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2j5Cb61i6HgSUQlwSj7y8a"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2j5Cb61i6HgSUQlwSj7y8a",
+      "id" : "2j5Cb61i6HgSUQlwSj7y8a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ced179804059c6506e032727",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ced179804059c6506e032727",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ced179804059c6506e032727",
+        "width" : 64
+      } ],
+      "name" : "Another Day (Remastered Anniversary Edition)",
+      "release_date" : "2014-01-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:2j5Cb61i6HgSUQlwSj7y8a"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 370384,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEN120407980"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3TSdkwPeUfvgLwNTF8gfC0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3TSdkwPeUfvgLwNTF8gfC0",
+    "id" : "3TSdkwPeUfvgLwNTF8gfC0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All the Things You Are",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4e4764b20498d16f1f0360470fe492d4726af272?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3TSdkwPeUfvgLwNTF8gfC0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05E3NBxNMdnrPtxF9oraJm",
+        "id" : "05E3NBxNMdnrPtxF9oraJm",
+        "name" : "Lester Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:05E3NBxNMdnrPtxF9oraJm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7JkisS9bjzaQCgJ9btGjfq",
+      "id" : "7JkisS9bjzaQCgJ9btGjfq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273560ea575b1d7f32eda29b0c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02560ea575b1d7f32eda29b0c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851560ea575b1d7f32eda29b0c9",
+        "width" : 64
+      } ],
+      "name" : "The President Plays With The Oscar Peterson Trio",
+      "release_date" : "1959-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7JkisS9bjzaQCgJ9btGjfq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05E3NBxNMdnrPtxF9oraJm",
+      "id" : "05E3NBxNMdnrPtxF9oraJm",
+      "name" : "Lester Young",
+      "type" : "artist",
+      "uri" : "spotify:artist:05E3NBxNMdnrPtxF9oraJm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR35252010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6oSm3mBWFxJHEnjE2IqhmA",
+    "id" : "6oSm3mBWFxJHEnjE2IqhmA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "There Will Never Be Another You",
+    "popularity" : 55,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6oSm3mBWFxJHEnjE2IqhmA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gPOWmWT0q7Ygp95Xiuw1v",
+      "id" : "3gPOWmWT0q7Ygp95Xiuw1v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273947b5cc535d76394a2d98e37",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02947b5cc535d76394a2d98e37",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851947b5cc535d76394a2d98e37",
+        "width" : 64
+      } ],
+      "name" : "Night Train (Expanded Edition)",
+      "release_date" : "1963-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3gPOWmWT0q7Ygp95Xiuw1v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USF096300320"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7p6ZeiNtEHJKmc4YWBZELG",
+    "id" : "7p6ZeiNtEHJKmc4YWBZELG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Georgia On My Mind",
+    "popularity" : 53,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7p6ZeiNtEHJKmc4YWBZELG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BVfV9OGD9tYdy7Jr5JLbt",
+      "id" : "7BVfV9OGD9tYdy7Jr5JLbt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aab54d8208b3d7f9d0ab3138",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aab54d8208b3d7f9d0ab3138",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aab54d8208b3d7f9d0ab3138",
+        "width" : 64
+      } ],
+      "name" : "We Get Requests",
+      "release_date" : "1964",
+      "release_date_precision" : "year",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7BVfV9OGD9tYdy7Jr5JLbt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USF096500120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6MH0J3KUfEVWpz7XEpHOJW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6MH0J3KUfEVWpz7XEpHOJW",
+    "id" : "6MH0J3KUfEVWpz7XEpHOJW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Quiet Nights Of Quiet Stars (Corcovado)",
+    "popularity" : 53,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6MH0J3KUfEVWpz7XEpHOJW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0aaUp9CN80QBCgtd792mly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0aaUp9CN80QBCgtd792mly",
+      "id" : "0aaUp9CN80QBCgtd792mly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f5f26354c29c697d19794eaa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f5f26354c29c697d19794eaa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f5f26354c29c697d19794eaa",
+        "width" : 64
+      } ],
+      "name" : "Hello Herbie",
+      "release_date" : "2014-09-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:0aaUp9CN80QBCgtd792mly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cE7UG46bdFd8gHHgzyQEz",
+      "id" : "3cE7UG46bdFd8gHHgzyQEz",
+      "name" : "Herb Ellis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cE7UG46bdFd8gHHgzyQEz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 286378,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEPI81302803"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1hqQD9G2qUMq3iiDhqhetT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1hqQD9G2qUMq3iiDhqhetT",
+    "id" : "1hqQD9G2qUMq3iiDhqhetT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Exactly Like You",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9eec17fc9c7486b95dae7107fd3e54dc3f9675c8?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1hqQD9G2qUMq3iiDhqhetT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/40pcBAvWoFC4aPdV8hHwV8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/40pcBAvWoFC4aPdV8hHwV8",
+      "id" : "40pcBAvWoFC4aPdV8hHwV8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d154d658d70aeeac6c96b9b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d154d658d70aeeac6c96b9b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d154d658d70aeeac6c96b9b2",
+        "width" : 64
+      } ],
+      "name" : "Tristeza on Piano",
+      "release_date" : "2014-09-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:40pcBAvWoFC4aPdV8hHwV8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 321157,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEPI81302797"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7z4EbJbnbvWcP9Bg15fpgC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7z4EbJbnbvWcP9Bg15fpgC",
+    "id" : "7z4EbJbnbvWcP9Bg15fpgC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Triste",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a06348428b47e18585d625d27874ad688a55b4b3?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7z4EbJbnbvWcP9Bg15fpgC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gPOWmWT0q7Ygp95Xiuw1v",
+      "id" : "3gPOWmWT0q7Ygp95Xiuw1v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273947b5cc535d76394a2d98e37",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02947b5cc535d76394a2d98e37",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851947b5cc535d76394a2d98e37",
+        "width" : 64
+      } ],
+      "name" : "Night Train (Expanded Edition)",
+      "release_date" : "1963-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3gPOWmWT0q7Ygp95Xiuw1v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 290160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPR36200014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4fGgxzrQRyBTMcxtXzXQZj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4fGgxzrQRyBTMcxtXzXQZj",
+    "id" : "4fGgxzrQRyBTMcxtXzXQZj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Night Train",
+    "popularity" : 49,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4fGgxzrQRyBTMcxtXzXQZj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BVfV9OGD9tYdy7Jr5JLbt",
+      "id" : "7BVfV9OGD9tYdy7Jr5JLbt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aab54d8208b3d7f9d0ab3138",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aab54d8208b3d7f9d0ab3138",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aab54d8208b3d7f9d0ab3138",
+        "width" : 64
+      } ],
+      "name" : "We Get Requests",
+      "release_date" : "1964",
+      "release_date_precision" : "year",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7BVfV9OGD9tYdy7Jr5JLbt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 292066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USF096500170"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QtTLCabjjQaBMblPdKeAu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QtTLCabjjQaBMblPdKeAu",
+    "id" : "4QtTLCabjjQaBMblPdKeAu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You Look Good To Me",
+    "popularity" : 48,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4QtTLCabjjQaBMblPdKeAu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+        "id" : "0ldU0QJm31y0d6f57R1G2A",
+        "name" : "Oscar Peterson Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BVfV9OGD9tYdy7Jr5JLbt",
+      "id" : "7BVfV9OGD9tYdy7Jr5JLbt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aab54d8208b3d7f9d0ab3138",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aab54d8208b3d7f9d0ab3138",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aab54d8208b3d7f9d0ab3138",
+        "width" : 64
+      } ],
+      "name" : "We Get Requests",
+      "release_date" : "1964",
+      "release_date_precision" : "year",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7BVfV9OGD9tYdy7Jr5JLbt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ldU0QJm31y0d6f57R1G2A",
+      "id" : "0ldU0QJm31y0d6f57R1G2A",
+      "name" : "Oscar Peterson Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ldU0QJm31y0d6f57R1G2A"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USF096425330"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/04n2zZCoMIw7r0NNTN1hMg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/04n2zZCoMIw7r0NNTN1hMg",
+    "id" : "04n2zZCoMIw7r0NNTN1hMg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Girl From Ipanema",
+    "popularity" : 45,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:04n2zZCoMIw7r0NNTN1hMg"
+  } ]
+}

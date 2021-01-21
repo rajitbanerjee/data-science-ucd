@@ -1,0 +1,691 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ei2X6ghPnw7YRwQtAH075",
+      "id" : "2ei2X6ghPnw7YRwQtAH075",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023009007708ab5134936a58b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513009007708ab5134936a58b3",
+        "width" : 64
+      } ],
+      "name" : "Honky Chateau",
+      "release_date" : "1972-05-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:2ei2X6ghPnw7YRwQtAH075"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 281613,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAMB7200006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3gdewACMIVMEWVbyb8O9sY",
+    "id" : "3gdewACMIVMEWVbyb8O9sY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+    "popularity" : 81,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3gdewACMIVMEWVbyb8O9sY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0OmYuz9hwn1XoqmDaU0yJ7",
+      "id" : "0OmYuz9hwn1XoqmDaU0yJ7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89",
+        "width" : 64
+      } ],
+      "name" : "Too Low For Zero",
+      "release_date" : "1983-05-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:0OmYuz9hwn1XoqmDaU0yJ7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBALX8300190"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1jDJFeK9x3OZboIAHsY9k2",
+    "id" : "1jDJFeK9x3OZboIAHsY9k2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I'm Still Standing",
+    "popularity" : 79,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1jDJFeK9x3OZboIAHsY9k2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2OZbaW9tgO62ndm375lFZr",
+      "id" : "2OZbaW9tgO62ndm375lFZr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d03ab2da904d8251a87bbc31",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31",
+        "width" : 64
+      } ],
+      "name" : "Madman Across The Water",
+      "release_date" : "1971-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:2OZbaW9tgO62ndm375lFZr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 377093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAMB7100001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2TVxnKdb3tqe1nhQWwwZCO",
+    "id" : "2TVxnKdb3tqe1nhQWwwZCO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tiny Dancer",
+    "popularity" : 79,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2TVxnKdb3tqe1nhQWwwZCO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/69P9Ro0W286yLFgYwrGVN0",
+      "id" : "69P9Ro0W286yLFgYwrGVN0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b292ed7c7360a04d3d6b74a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b292ed7c7360a04d3d6b74a",
+        "width" : 64
+      } ],
+      "name" : "Elton John",
+      "release_date" : "1970-04-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 30,
+      "type" : "album",
+      "uri" : "spotify:album:69P9Ro0W286yLFgYwrGVN0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241786,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAMB9500072"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/38zsOOcu31XbbYj9BIPUF1",
+    "id" : "38zsOOcu31XbbYj9BIPUF1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Your Song",
+    "popularity" : 76,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:38zsOOcu31XbbYj9BIPUF1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ObsEU7mIXbo2n9A31yfds",
+      "id" : "4ObsEU7mIXbo2n9A31yfds",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27342a15a4fe15a8a88ab728d5b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0242a15a4fe15a8a88ab728d5b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485142a15a4fe15a8a88ab728d5b",
+        "width" : 64
+      } ],
+      "name" : "Rock Of The Westies",
+      "release_date" : "1975-10-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4ObsEU7mIXbo2n9A31yfds"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4vjGlQWexbru6aOUCLTVir",
+      "id" : "4vjGlQWexbru6aOUCLTVir",
+      "name" : "Kiki Dee",
+      "type" : "artist",
+      "uri" : "spotify:artist:4vjGlQWexbru6aOUCLTVir"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 275440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBALX7600007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7HW5WIw7ZgZORCzUxv5gW5",
+    "id" : "7HW5WIw7ZgZORCzUxv5gW5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Don't Go Breaking My Heart",
+    "popularity" : 75,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:7HW5WIw7ZgZORCzUxv5gW5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WupqgR68HfuHt3BMJtgun",
+      "id" : "5WupqgR68HfuHt3BMJtgun",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f72f1e38e9bd48f18a17ed9b",
+        "width" : 64
+      } ],
+      "name" : "Goodbye Yellow Brick Road (Remastered)",
+      "release_date" : "1973-10-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5WupqgR68HfuHt3BMJtgun"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 322548,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71304955"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Wj1rJnCLpMHdLaxsFtJLs",
+    "id" : "5Wj1rJnCLpMHdLaxsFtJLs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bennie And The Jets - Remastered 2014",
+    "popularity" : 73,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5Wj1rJnCLpMHdLaxsFtJLs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0j12QW17dkUCCI7eOAiT1r",
+      "id" : "0j12QW17dkUCCI7eOAiT1r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735a0fca95bfacb33ca3580a29",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025a0fca95bfacb33ca3580a29",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515a0fca95bfacb33ca3580a29",
+        "width" : 64
+      } ],
+      "name" : "Sleeping With The Past (Remastered with bonus tracks)",
+      "release_date" : "1989-08-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:0j12QW17dkUCCI7eOAiT1r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 304133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBALX8900001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0e3yhVeNaTfKIWQRw9U9sY",
+    "id" : "0e3yhVeNaTfKIWQRw9U9sY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sacrifice",
+    "popularity" : 73,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0e3yhVeNaTfKIWQRw9U9sY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1reJ8DttK5EGwdyf7y9FBR",
+      "id" : "1reJ8DttK5EGwdyf7y9FBR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f67fbf0d465cca2b3e25af96",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f67fbf0d465cca2b3e25af96",
+        "width" : 64
+      } ],
+      "name" : "Don't Shoot Me I'm Only The Piano Player",
+      "release_date" : "1973-01-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:1reJ8DttK5EGwdyf7y9FBR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAMB7200001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6WCeFNVAXUtNczb7lqLiZU",
+    "id" : "6WCeFNVAXUtNczb7lqLiZU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crocodile Rock",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6WCeFNVAXUtNczb7lqLiZU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WupqgR68HfuHt3BMJtgun",
+      "id" : "5WupqgR68HfuHt3BMJtgun",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f72f1e38e9bd48f18a17ed9b",
+        "width" : 64
+      } ],
+      "name" : "Goodbye Yellow Brick Road (Remastered)",
+      "release_date" : "1973-10-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5WupqgR68HfuHt3BMJtgun"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71304956"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4IRHwIZHzlHT1FQpRa5RdE",
+    "id" : "4IRHwIZHzlHT1FQpRa5RdE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Goodbye Yellow Brick Road - Remastered 2014",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4IRHwIZHzlHT1FQpRa5RdE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id" : "1HY2Jd0NmPuamShAr6KMms",
+        "name" : "Lady Gaga",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/05c49JgPmL4Uz2ZeqRx5SP",
+      "id" : "05c49JgPmL4Uz2ZeqRx5SP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026040effba89b9b00a6f6743a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516040effba89b9b00a6f6743a",
+        "width" : 64
+      } ],
+      "name" : "Chromatica",
+      "release_date" : "2020-05-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:05c49JgPmL4Uz2ZeqRx5SP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id" : "1HY2Jd0NmPuamShAr6KMms",
+      "name" : "Lady Gaga",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id" : "3PhoLpVuITZKcymswpck5b",
+      "name" : "Elton John",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244880,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM72004312"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zzsyWc45eUcSjw4FNHxeN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zzsyWc45eUcSjw4FNHxeN",
+    "id" : "0zzsyWc45eUcSjw4FNHxeN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sine From Above (with Elton John)",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0zzsyWc45eUcSjw4FNHxeN"
+  } ]
+}

@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5y1YWb4OONEGbxZQLRNUwO",
+      "id" : "5y1YWb4OONEGbxZQLRNUwO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4c3db3e7ebfc22bc080f334",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4c3db3e7ebfc22bc080f334",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4c3db3e7ebfc22bc080f334",
+        "width" : 64
+      } ],
+      "name" : "Cleopatra",
+      "release_date" : "2016-04-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5y1YWb4OONEGbxZQLRNUwO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 160097,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1673802"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NORWMFC27ywGSZxi8uquP",
+    "id" : "5NORWMFC27ywGSZxi8uquP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ophelia",
+    "popularity" : 78,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5NORWMFC27ywGSZxi8uquP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0nRgsLe1she16l3pclpyy7",
+      "id" : "0nRgsLe1she16l3pclpyy7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27315784f5212050cf2e67f1935",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0215784f5212050cf2e67f1935",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485115784f5212050cf2e67f1935",
+        "width" : 64
+      } ],
+      "name" : "The Lumineers (Deluxe Edition)",
+      "release_date" : "2012",
+      "release_date_precision" : "year",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0nRgsLe1she16l3pclpyy7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 163133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1260805"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1K3LRUEcUz5FMtPYyg0F45",
+    "id" : "1K3LRUEcUz5FMtPYyg0F45",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ho Hey",
+    "popularity" : 74,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1K3LRUEcUz5FMtPYyg0F45"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5y1YWb4OONEGbxZQLRNUwO",
+      "id" : "5y1YWb4OONEGbxZQLRNUwO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4c3db3e7ebfc22bc080f334",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4c3db3e7ebfc22bc080f334",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4c3db3e7ebfc22bc080f334",
+        "width" : 64
+      } ],
+      "name" : "Cleopatra",
+      "release_date" : "2016-04-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5y1YWb4OONEGbxZQLRNUwO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211851,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1673801"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44uOreAESeRIBaxkuCW4wN",
+    "id" : "44uOreAESeRIBaxkuCW4wN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sleep On The Floor",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:44uOreAESeRIBaxkuCW4wN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0nRgsLe1she16l3pclpyy7",
+      "id" : "0nRgsLe1she16l3pclpyy7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27315784f5212050cf2e67f1935",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0215784f5212050cf2e67f1935",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485115784f5212050cf2e67f1935",
+        "width" : 64
+      } ],
+      "name" : "The Lumineers (Deluxe Edition)",
+      "release_date" : "2012",
+      "release_date_precision" : "year",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0nRgsLe1she16l3pclpyy7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 279000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1260807"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7x46YkKAwp3yZpaa72n5Mu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7x46YkKAwp3yZpaa72n5Mu",
+    "id" : "7x46YkKAwp3yZpaa72n5Mu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stubborn Love",
+    "popularity" : 65,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7x46YkKAwp3yZpaa72n5Mu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5DIgFG1fM76vmNYlvfv2JJ",
+      "id" : "5DIgFG1fM76vmNYlvfv2JJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a0597558ceea871c35de00ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a0597558ceea871c35de00ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a0597558ceea871c35de00ab",
+        "width" : 64
+      } ],
+      "name" : "III",
+      "release_date" : "2019-09-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5DIgFG1fM76vmNYlvfv2JJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1995103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3CN9WtSBqCI6TXne9XNomb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3CN9WtSBqCI6TXne9XNomb",
+    "id" : "3CN9WtSBqCI6TXne9XNomb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gloria",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3CN9WtSBqCI6TXne9XNomb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0nRgsLe1she16l3pclpyy7",
+      "id" : "0nRgsLe1she16l3pclpyy7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27315784f5212050cf2e67f1935",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0215784f5212050cf2e67f1935",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485115784f5212050cf2e67f1935",
+        "width" : 64
+      } ],
+      "name" : "The Lumineers (Deluxe Edition)",
+      "release_date" : "2012",
+      "release_date_precision" : "year",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0nRgsLe1she16l3pclpyy7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 110560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1260801"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7thzIJfxiZNZaPFA5OR9s1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7thzIJfxiZNZaPFA5OR9s1",
+    "id" : "7thzIJfxiZNZaPFA5OR9s1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flowers In Your Hair",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7thzIJfxiZNZaPFA5OR9s1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5y1YWb4OONEGbxZQLRNUwO",
+      "id" : "5y1YWb4OONEGbxZQLRNUwO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4c3db3e7ebfc22bc080f334",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4c3db3e7ebfc22bc080f334",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4c3db3e7ebfc22bc080f334",
+        "width" : 64
+      } ],
+      "name" : "Cleopatra",
+      "release_date" : "2016-04-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5y1YWb4OONEGbxZQLRNUwO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 201413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1673803"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5bzf1xrbqr1ttjAJuRz2xY",
+    "id" : "5bzf1xrbqr1ttjAJuRz2xY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cleopatra",
+    "popularity" : 62,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5bzf1xrbqr1ttjAJuRz2xY"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YrocR69AHthl982tykNpQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YrocR69AHthl982tykNpQ",
+      "id" : "1YrocR69AHthl982tykNpQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ae27cc6d91ecd074807db6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ae27cc6d91ecd074807db6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ae27cc6d91ecd074807db6d",
+        "width" : 64
+      } ],
+      "name" : "Pete's Dragon (Original Motion Picture Soundtrack)",
+      "release_date" : "2016-08-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:1YrocR69AHthl982tykNpQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWD11676804"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7A0FGrZsLgOUmeNtMTnt4z",
+    "id" : "7A0FGrZsLgOUmeNtMTnt4z",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nobody Knows",
+    "popularity" : 61,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7A0FGrZsLgOUmeNtMTnt4z"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5y1YWb4OONEGbxZQLRNUwO",
+      "id" : "5y1YWb4OONEGbxZQLRNUwO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4c3db3e7ebfc22bc080f334",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4c3db3e7ebfc22bc080f334",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4c3db3e7ebfc22bc080f334",
+        "width" : 64
+      } ],
+      "name" : "Cleopatra",
+      "release_date" : "2016-04-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5y1YWb4OONEGbxZQLRNUwO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 201785,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1673805"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Zz5CiVpQk2Fz2nV8m3YQm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Zz5CiVpQk2Fz2nV8m3YQm",
+    "id" : "6Zz5CiVpQk2Fz2nV8m3YQm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Angela",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6Zz5CiVpQk2Fz2nV8m3YQm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6fK4HdJrzRSVwr6h71vWDS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6fK4HdJrzRSVwr6h71vWDS",
+      "id" : "6fK4HdJrzRSVwr6h71vWDS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bd5c3c74566326da3795980f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bd5c3c74566326da3795980f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bd5c3c74566326da3795980f",
+        "width" : 64
+      } ],
+      "name" : "Walls",
+      "release_date" : "2018-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6fK4HdJrzRSVwr6h71vWDS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199118,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDMG1895301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55OslhCKptoOWToLXZsPLz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55OslhCKptoOWToLXZsPLz",
+    "id" : "55OslhCKptoOWToLXZsPLz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Walls",
+    "popularity" : 54,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:55OslhCKptoOWToLXZsPLz"
+  } ]
+}

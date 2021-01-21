@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6gQAZg2DCWSjFnFaRzr4O5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6gQAZg2DCWSjFnFaRzr4O5",
+      "id" : "6gQAZg2DCWSjFnFaRzr4O5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273526603f637abbb18655e5683",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02526603f637abbb18655e5683",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851526603f637abbb18655e5683",
+        "width" : 64
+      } ],
+      "name" : "The Vogues",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6gQAZg2DCWSjFnFaRzr4O5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 131440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAFM0901190"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/29Xdknl9fhRsV0oOYyQOKy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/29Xdknl9fhRsV0oOYyQOKy",
+    "id" : "29Xdknl9fhRsV0oOYyQOKy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You're the One",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fe1a3d55a6366bab6fc5080fbd50115002f2bc8c?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:29Xdknl9fhRsV0oOYyQOKy"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6gQAZg2DCWSjFnFaRzr4O5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6gQAZg2DCWSjFnFaRzr4O5",
+      "id" : "6gQAZg2DCWSjFnFaRzr4O5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273526603f637abbb18655e5683",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02526603f637abbb18655e5683",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851526603f637abbb18655e5683",
+        "width" : 64
+      } ],
+      "name" : "The Vogues",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6gQAZg2DCWSjFnFaRzr4O5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 137613,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAFM0901189"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4lg6bxu4GlsfFDWit7V4jM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4lg6bxu4GlsfFDWit7V4jM",
+    "id" : "4lg6bxu4GlsfFDWit7V4jM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Five O'Clock World",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/69ab8b4391827992f487a7067405e0bb5248b9d9?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4lg6bxu4GlsfFDWit7V4jM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5bq7lXvSaFD4xlhb8FQjbM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5bq7lXvSaFD4xlhb8FQjbM",
+      "id" : "5bq7lXvSaFD4xlhb8FQjbM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e6f2aa5d3f9752647eba8e32",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e6f2aa5d3f9752647eba8e32",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e6f2aa5d3f9752647eba8e32",
+        "width" : 64
+      } ],
+      "name" : "Turn Around, Look At Me",
+      "release_date" : "1968-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5bq7lXvSaFD4xlhb8FQjbM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180613,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10102018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2mIa7yUMZyREQXxrRpkefS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2mIa7yUMZyREQXxrRpkefS",
+    "id" : "2mIa7yUMZyREQXxrRpkefS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "My Special Angel",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5c2884d7d24ca00b0705b51a6e8a7a613f61416f?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2mIa7yUMZyREQXxrRpkefS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5bq7lXvSaFD4xlhb8FQjbM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5bq7lXvSaFD4xlhb8FQjbM",
+      "id" : "5bq7lXvSaFD4xlhb8FQjbM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e6f2aa5d3f9752647eba8e32",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e6f2aa5d3f9752647eba8e32",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e6f2aa5d3f9752647eba8e32",
+        "width" : 64
+      } ],
+      "name" : "Turn Around, Look At Me",
+      "release_date" : "1968-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5bq7lXvSaFD4xlhb8FQjbM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10102024"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6w8Pnj2aUSJysc0b5FSJyr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6w8Pnj2aUSJysc0b5FSJyr",
+    "id" : "6w8Pnj2aUSJysc0b5FSJyr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Turn Around, Look at Me",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bb5d0a018a8ae1d9003db5157e2481865f34f69d?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6w8Pnj2aUSJysc0b5FSJyr"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1kyJQVfmsMffdhpgDRujit"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1kyJQVfmsMffdhpgDRujit",
+      "id" : "1kyJQVfmsMffdhpgDRujit",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383c9da22b4bb9d56576eebe2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283c9da22b4bb9d56576eebe2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183c9da22b4bb9d56576eebe2",
+        "width" : 64
+      } ],
+      "name" : "Greatest Hits",
+      "release_date" : "1965-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1kyJQVfmsMffdhpgDRujit"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 142510,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TX1875491"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5DKTMAg1Wzhim6DB0QPwyJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5DKTMAg1Wzhim6DB0QPwyJ",
+    "id" : "5DKTMAg1Wzhim6DB0QPwyJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Five O'clock World",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bb8c608c45a02af2963331a6f844600718755793?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5DKTMAg1Wzhim6DB0QPwyJ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/72cjI2sqr5VN3ihYd7Gfq5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/72cjI2sqr5VN3ihYd7Gfq5",
+      "id" : "72cjI2sqr5VN3ihYd7Gfq5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c810509795c639701fbc01c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c810509795c639701fbc01c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c810509795c639701fbc01c6",
+        "width" : 64
+      } ],
+      "name" : "26 Greatest Hits",
+      "release_date" : "2018-01-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 26,
+      "type" : "album",
+      "uri" : "spotify:album:72cjI2sqr5VN3ihYd7Gfq5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 196440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRP621570230"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2DTTay2tPKDKUb1UYDgTnC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2DTTay2tPKDKUb1UYDgTnC",
+    "id" : "2DTTay2tPKDKUb1UYDgTnC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Magic Town",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4e1068b30d5bac31b9a44b993caf91a3c907fd18?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2DTTay2tPKDKUb1UYDgTnC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6gQAZg2DCWSjFnFaRzr4O5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6gQAZg2DCWSjFnFaRzr4O5",
+      "id" : "6gQAZg2DCWSjFnFaRzr4O5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273526603f637abbb18655e5683",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02526603f637abbb18655e5683",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851526603f637abbb18655e5683",
+        "width" : 64
+      } ],
+      "name" : "The Vogues",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6gQAZg2DCWSjFnFaRzr4O5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 155093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAFM0901191"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QuVfrUvdmmOOWDXAoX04C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QuVfrUvdmmOOWDXAoX04C",
+    "id" : "0QuVfrUvdmmOOWDXAoX04C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Turn Around and Look at Me",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0115fb8988ef5c443eafae9f6105a7a069a85b09?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0QuVfrUvdmmOOWDXAoX04C"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1c9Qox4OkhcXpLbX7FzE1k"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1c9Qox4OkhcXpLbX7FzE1k",
+      "id" : "1c9Qox4OkhcXpLbX7FzE1k",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731153db3817305abd266dbf89",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021153db3817305abd266dbf89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511153db3817305abd266dbf89",
+        "width" : 64
+      } ],
+      "name" : "Till",
+      "release_date" : "1969-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1c9Qox4OkhcXpLbX7FzE1k"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 140146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10102030"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6tvckgDPw0S2ZGw2fEySkv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6tvckgDPw0S2ZGw2fEySkv",
+    "id" : "6tvckgDPw0S2ZGw2fEySkv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Till - Remastered Version",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a196c84b19f7590e4d32f59a818172fd6dd55ec6?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6tvckgDPw0S2ZGw2fEySkv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0l7TxYWNUtEgWocjz8IaOt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0l7TxYWNUtEgWocjz8IaOt",
+        "id" : "0l7TxYWNUtEgWocjz8IaOt",
+        "name" : "The Equals",
+        "type" : "artist",
+        "uri" : "spotify:artist:0l7TxYWNUtEgWocjz8IaOt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4JCq0h2KtfXEXQ5isExMMa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4JCq0h2KtfXEXQ5isExMMa",
+      "id" : "4JCq0h2KtfXEXQ5isExMMa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d830e7d49bb1ba49965c58e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d830e7d49bb1ba49965c58e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d830e7d49bb1ba49965c58e",
+        "width" : 64
+      } ],
+      "name" : "Back to Back: The Vogues & The Equals",
+      "release_date" : "2004-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:4JCq0h2KtfXEXQ5isExMMa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 126080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TX1875089"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SOx8k8eKw44M7GgatDV69"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SOx8k8eKw44M7GgatDV69",
+    "id" : "4SOx8k8eKw44M7GgatDV69",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Five O'clock World",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/660c094e48a1e6608c60ab693796b4fdc89a2882?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4SOx8k8eKw44M7GgatDV69"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+        "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+        "name" : "The Vogues",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5bq7lXvSaFD4xlhb8FQjbM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5bq7lXvSaFD4xlhb8FQjbM",
+      "id" : "5bq7lXvSaFD4xlhb8FQjbM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e6f2aa5d3f9752647eba8e32",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e6f2aa5d3f9752647eba8e32",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e6f2aa5d3f9752647eba8e32",
+        "width" : 64
+      } ],
+      "name" : "Turn Around, Look At Me",
+      "release_date" : "1968-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5bq7lXvSaFD4xlhb8FQjbM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ma8KxtvoIDSU5fHtuTS9F",
+      "id" : "0Ma8KxtvoIDSU5fHtuTS9F",
+      "name" : "The Vogues",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ma8KxtvoIDSU5fHtuTS9F"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRE10102017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5pdQsbNLritrpbzoTxtsqr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5pdQsbNLritrpbzoTxtsqr",
+    "id" : "5pdQsbNLritrpbzoTxtsqr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Impossible Dream",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec584de23bb70a4143a082baf37e9ee7334b6df7?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5pdQsbNLritrpbzoTxtsqr"
+  } ]
+}

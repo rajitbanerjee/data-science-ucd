@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4E1itnJOhTMRSATNaxh0Sq",
+      "id" : "4E1itnJOhTMRSATNaxh0Sq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e447b59bd3e2cbefaa31d91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e447b59bd3e2cbefaa31d91",
+        "width" : 64
+      } ],
+      "name" : "The Definitive Collection",
+      "release_date" : "2002-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:4E1itnJOhTMRSATNaxh0Sq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 245493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO10000310"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1h2xVEoJORqrg71HocgqXd",
+    "id" : "1h2xVEoJORqrg71HocgqXd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Superstition - Single Version",
+    "popularity" : 78,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1h2xVEoJORqrg71HocgqXd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/54ootLtDyMZFr9obtWQvvO",
+      "id" : "54ootLtDyMZFr9obtWQvvO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c5e9e847ca9c0982b4c91d4b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c5e9e847ca9c0982b4c91d4b",
+        "width" : 64
+      } ],
+      "name" : "Signed, Sealed And Delivered",
+      "release_date" : "1970-08-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:54ootLtDyMZFr9obtWQvvO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 161160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO17082643"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2eF8pWbiivYsYRpbntYsnc",
+    "id" : "2eF8pWbiivYsYRpbntYsnc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Signed, Sealed, Delivered (I'm Yours)",
+    "popularity" : 77,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2eF8pWbiivYsYRpbntYsnc"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04giHQ9zptJUHUvtIyxL9Z",
+      "id" : "04giHQ9zptJUHUvtIyxL9Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f97219e49a23bfdd4de7eed1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f97219e49a23bfdd4de7eed1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f97219e49a23bfdd4de7eed1",
+        "width" : 64
+      } ],
+      "name" : "At The Close Of A Century",
+      "release_date" : "1999-11-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 70,
+      "type" : "album",
+      "uri" : "spotify:album:04giHQ9zptJUHUvtIyxL9Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 4,
+    "duration_ms" : 262240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUMG9900476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6RNDeRnWsRMjPdNVgupZCs",
+    "id" : "6RNDeRnWsRMjPdNVgupZCs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Just Called To Say I Love You",
+    "popularity" : 75,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6RNDeRnWsRMjPdNVgupZCs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3pPBbp1Nl9n1AM9xFpdKtZ",
+      "id" : "3pPBbp1Nl9n1AM9xFpdKtZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cab4dfee401a04dacfa11784",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cab4dfee401a04dacfa11784",
+        "width" : 64
+      } ],
+      "name" : "For Once In My Life",
+      "release_date" : "1968-12-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3pPBbp1Nl9n1AM9xFpdKtZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 169800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO16800531"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4kP69y3GKHi9tXckfgp4bK",
+    "id" : "4kP69y3GKHi9tXckfgp4bK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "For Once In My Life",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4kP69y3GKHi9tXckfgp4bK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6YUCc2RiXcEKS9ibuZxjt0",
+      "id" : "6YUCc2RiXcEKS9ibuZxjt0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512fee61bfec596bb6f5447c50",
+        "width" : 64
+      } ],
+      "name" : "Songs In The Key Of Life",
+      "release_date" : "1976-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:6YUCc2RiXcEKS9ibuZxjt0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232760,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO17600526"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4pNiE4LCVV74vfIBaUHm1b",
+    "id" : "4pNiE4LCVV74vfIBaUHm1b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sir Duke",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4pNiE4LCVV74vfIBaUHm1b"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3PResMqFgQYBfzTnqTKwQw",
+      "id" : "3PResMqFgQYBfzTnqTKwQw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a14b08b9a6616e121df5e8b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a14b08b9a6616e121df5e8b0",
+        "width" : 64
+      } ],
+      "name" : "Talking Book",
+      "release_date" : "1972-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3PResMqFgQYBfzTnqTKwQw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO17282852"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0n2pjCIMKwHSXoYfEbYMfX",
+    "id" : "0n2pjCIMKwHSXoYfEbYMfX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You Are The Sunshine Of My Life",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0n2pjCIMKwHSXoYfEbYMfX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6YUCc2RiXcEKS9ibuZxjt0",
+      "id" : "6YUCc2RiXcEKS9ibuZxjt0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512fee61bfec596bb6f5447c50",
+        "width" : 64
+      } ],
+      "name" : "Songs In The Key Of Life",
+      "release_date" : "1976-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:6YUCc2RiXcEKS9ibuZxjt0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 2,
+    "duration_ms" : 394266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO17682655"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6RANU8AS5ICU5PEHh8BYtH",
+    "id" : "6RANU8AS5ICU5PEHh8BYtH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Isn't She Lovely",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6RANU8AS5ICU5PEHh8BYtH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nLKZqTGA48v3I8dNFkvQt",
+      "id" : "1nLKZqTGA48v3I8dNFkvQt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ed0ddbe4b2590f448e9845be",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ed0ddbe4b2590f448e9845be",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ed0ddbe4b2590f448e9845be",
+        "width" : 64
+      } ],
+      "name" : "In Square Circle",
+      "release_date" : "1985-09-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1nLKZqTGA48v3I8dNFkvQt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO18500543"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Dm43YLUlGdePpSbI1ct8h",
+    "id" : "0Dm43YLUlGdePpSbI1ct8h",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Part-Time Lover",
+    "popularity" : 67,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Dm43YLUlGdePpSbI1ct8h"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5jgI8Eminx9MmLBontDWq8",
+      "id" : "5jgI8Eminx9MmLBontDWq8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ea8ab1a548312b79ac955266",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ea8ab1a548312b79ac955266",
+        "width" : 64
+      } ],
+      "name" : "Innervisions",
+      "release_date" : "1973-08-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:5jgI8Eminx9MmLBontDWq8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO17382652"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dMd4rilfd6gPbXaLpNYhu",
+    "id" : "0dMd4rilfd6gPbXaLpNYhu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Higher Ground",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0dMd4rilfd6gPbXaLpNYhu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+        "id" : "7guDJrEfX3qb6FEbdPA5qi",
+        "name" : "Stevie Wonder",
+        "type" : "artist",
+        "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6YUCc2RiXcEKS9ibuZxjt0",
+      "id" : "6YUCc2RiXcEKS9ibuZxjt0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512fee61bfec596bb6f5447c50",
+        "width" : 64
+      } ],
+      "name" : "Songs In The Key Of Life",
+      "release_date" : "1976-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:6YUCc2RiXcEKS9ibuZxjt0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USMO17682657"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/687YZan9Gol1UVvbpUSO6Y",
+    "id" : "687YZan9Gol1UVvbpUSO6Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Wish",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:687YZan9Gol1UVvbpUSO6Y"
+  } ]
+}

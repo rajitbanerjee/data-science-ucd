@@ -1,0 +1,736 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12gXA8pXYzj9bycyyKSGAa",
+      "id" : "12gXA8pXYzj9bycyyKSGAa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029f89b8390933e9ccb3673c89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519f89b8390933e9ccb3673c89",
+        "width" : 64
+      } ],
+      "name" : "Meet The Vamps",
+      "release_date" : "2014-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:12gXA8pXYzj9bycyyKSGAa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185097,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71401330"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6VrLYoQKdhu1Jruei06t65",
+    "id" : "6VrLYoQKdhu1Jruei06t65",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Somebody To You",
+    "popularity" : 76,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6VrLYoQKdhu1Jruei06t65"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/69Pj3ce9XFZUi3XuQylLKf",
+      "id" : "69Pj3ce9XFZUi3XuQylLKf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36a4e2e1687e678f29328cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36a4e2e1687e678f29328cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36a4e2e1687e678f29328cb",
+        "width" : 64
+      } ],
+      "name" : "Night & Day (Night Edition)",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:69Pj3ce9XFZUi3XuQylLKf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YXycRbyyAE0wozTk7QMEq",
+      "id" : "4YXycRbyyAE0wozTk7QMEq",
+      "name" : "Matoma",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YXycRbyyAE0wozTk7QMEq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 197640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71605342"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dXNQ8dckG4eYfEtq9zcva"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dXNQ8dckG4eYfEtq9zcva",
+    "id" : "0dXNQ8dckG4eYfEtq9zcva",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All Night",
+    "popularity" : 75,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0dXNQ8dckG4eYfEtq9zcva"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DOC4Vu1nbDlVetELknFhP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DOC4Vu1nbDlVetELknFhP",
+      "id" : "4DOC4Vu1nbDlVetELknFhP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273478621f2e8eae44631ce0813",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02478621f2e8eae44631ce0813",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851478621f2e8eae44631ce0813",
+        "width" : 64
+      } ],
+      "name" : "Missing You - EP",
+      "release_date" : "2019-04-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4DOC4Vu1nbDlVetELknFhP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71900664"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0LcNMuOiULmxJK3bdHTfDF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0LcNMuOiULmxJK3bdHTfDF",
+    "id" : "0LcNMuOiULmxJK3bdHTfDF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Missing You",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0LcNMuOiULmxJK3bdHTfDF"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+        "id" : "0NGAZxHanS9e0iNHpR8f2W",
+        "name" : "Alok",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+        "id" : "4bL2B6hmLlMWnUEZnorEtG",
+        "name" : "Felix Jaehn",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4fPfnp90F94F1Ab8UANpHL",
+      "id" : "4fPfnp90F94F1Ab8UANpHL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a6a039cef539a1cdedd2edec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a6a039cef539a1cdedd2edec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a6a039cef539a1cdedd2edec",
+        "width" : 64
+      } ],
+      "name" : "All The Lies (with Felix Jaehn & The Vamps)",
+      "release_date" : "2019-03-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4fPfnp90F94F1Ab8UANpHL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+      "id" : "0NGAZxHanS9e0iNHpR8f2W",
+      "name" : "Alok",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+      "id" : "4bL2B6hmLlMWnUEZnorEtG",
+      "name" : "Felix Jaehn",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179456,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEUM71900846"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Cy5f4JsH1yoeGks7FnoHw",
+    "id" : "4Cy5f4JsH1yoeGks7FnoHw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All The Lies (with Felix Jaehn & The Vamps)",
+    "popularity" : 61,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Cy5f4JsH1yoeGks7FnoHw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0VKcOEVdDLf95KdHfBw9AR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0VKcOEVdDLf95KdHfBw9AR",
+      "id" : "0VKcOEVdDLf95KdHfBw9AR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c232fde2858d83554d58841",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c232fde2858d83554d58841",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c232fde2858d83554d58841",
+        "width" : 64
+      } ],
+      "name" : "Night & Day (Day Edition)",
+      "release_date" : "2018-07-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:0VKcOEVdDLf95KdHfBw9AR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71801469"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/29VLdEqFvd0l4JFscCnrp7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/29VLdEqFvd0l4JFscCnrp7",
+    "id" : "29VLdEqFvd0l4JFscCnrp7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Just My Type",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:29VLdEqFvd0l4JFscCnrp7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3fshReYna7OJ7cl3Rn8h2W",
+      "id" : "3fshReYna7OJ7cl3Rn8h2W",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27317fe9c020cc2ada26a29f63f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0217fe9c020cc2ada26a29f63f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485117fe9c020cc2ada26a29f63f",
+        "width" : 64
+      } ],
+      "name" : "Cherry Blossom",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:3fshReYna7OJ7cl3Rn8h2W"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72003757"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0vqSBTfsm9ExINnYp8tNA8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0vqSBTfsm9ExINnYp8tNA8",
+    "id" : "0vqSBTfsm9ExINnYp8tNA8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Married In Vegas",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0vqSBTfsm9ExINnYp8tNA8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/606l8giVZ24kgJ64sYlX7d",
+      "id" : "606l8giVZ24kgJ64sYlX7d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338458f37374eb0f34c204af5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238458f37374eb0f34c204af5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138458f37374eb0f34c204af5",
+        "width" : 64
+      } ],
+      "name" : "Cherry Blossom",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:606l8giVZ24kgJ64sYlX7d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72003925"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24u37Wx6wCOeBAi8g203KC",
+    "id" : "24u37Wx6wCOeBAi8g203KC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Would You",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:24u37Wx6wCOeBAi8g203KC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/69Pj3ce9XFZUi3XuQylLKf",
+      "id" : "69Pj3ce9XFZUi3XuQylLKf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36a4e2e1687e678f29328cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36a4e2e1687e678f29328cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36a4e2e1687e678f29328cb",
+        "width" : 64
+      } ],
+      "name" : "Night & Day (Night Edition)",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:69Pj3ce9XFZUi3XuQylLKf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ehtJnVumNf6xzSCDk8aLB",
+      "id" : "4ehtJnVumNf6xzSCDk8aLB",
+      "name" : "Martin Jensen",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ehtJnVumNf6xzSCDk8aLB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71701537"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/74vs7PD7iG2GnWUGnb8Yuq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/74vs7PD7iG2GnWUGnb8Yuq",
+    "id" : "74vs7PD7iG2GnWUGnb8Yuq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Middle Of The Night",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:74vs7PD7iG2GnWUGnb8Yuq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+        "id" : "7gAppWoH7pcYmphCVTXkzs",
+        "name" : "The Vamps",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12gXA8pXYzj9bycyyKSGAa",
+      "id" : "12gXA8pXYzj9bycyyKSGAa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029f89b8390933e9ccb3673c89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519f89b8390933e9ccb3673c89",
+        "width" : 64
+      } ],
+      "name" : "Meet The Vamps",
+      "release_date" : "2014-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:12gXA8pXYzj9bycyyKSGAa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192710,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71304973"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2kqAtjOtQPAR0OiYUJR43k"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2kqAtjOtQPAR0OiYUJR43k",
+    "id" : "2kqAtjOtQPAR0OiYUJR43k",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Can We Dance",
+    "popularity" : 63,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2kqAtjOtQPAR0OiYUJR43k"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IueXOQyABrMOprrzwQJWN",
+        "id" : "1IueXOQyABrMOprrzwQJWN",
+        "name" : "Sigala",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IueXOQyABrMOprrzwQJWN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5rr0xAQfk01cPi1N37jX11",
+      "id" : "5rr0xAQfk01cPi1N37jX11",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738628a25112cea8ea240d44a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028628a25112cea8ea240d44a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518628a25112cea8ea240d44a1",
+        "width" : 64
+      } ],
+      "name" : "Brighter Days",
+      "release_date" : "2018-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:5rr0xAQfk01cPi1N37jX11"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1IueXOQyABrMOprrzwQJWN",
+      "id" : "1IueXOQyABrMOprrzwQJWN",
+      "name" : "Sigala",
+      "type" : "artist",
+      "uri" : "spotify:artist:1IueXOQyABrMOprrzwQJWN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+      "id" : "7gAppWoH7pcYmphCVTXkzs",
+      "name" : "The Vamps",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCEN1800096"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6THwtgImf1ZAR2w3iknjeS",
+    "id" : "6THwtgImf1ZAR2w3iknjeS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We Don't Care",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/893bca5eb7f90017390e26a88c584edd79492539?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6THwtgImf1ZAR2w3iknjeS"
+  } ]
+}

@@ -1,0 +1,10 @@
+name: ds-env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - seaborn
+  - jupyterlab
+  - python=3.6
+  - autopep8
+prefix: /home/banerjee/.local/share/conda/envs/ds-env

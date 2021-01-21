@@ -1,0 +1,700 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7xe8VI48TxUpU1IIo0RfGi",
+      "id" : "7xe8VI48TxUpU1IIo0RfGi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f96cefb0197694ad440c3314",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f96cefb0197694ad440c3314",
+        "width" : 64
+      } ],
+      "name" : "Blue Hawaii",
+      "release_date" : "1961-10-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:7xe8VI48TxUpU1IIo0RfGi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC16101350"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44AyOl4qVkzS48vBsbNXaC",
+    "id" : "44AyOl4qVkzS48vBsbNXaC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Can't Help Falling in Love",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/994ebd7f49e4e935df56d450b0c12d8bad8bb9f4?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:44AyOl4qVkzS48vBsbNXaC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0C3t1htEDTFKcg7F2rNbek",
+      "id" : "0C3t1htEDTFKcg7F2rNbek",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0220ee3e86e17f17239bef1f76",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485120ee3e86e17f17239bef1f76",
+        "width" : 64
+      } ],
+      "name" : "Elvis' Golden Records",
+      "release_date" : "1958-03-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0C3t1htEDTFKcg7F2rNbek"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 146480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC15705223"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4gphxUgq0JSFv2BCLhNDiE",
+    "id" : "4gphxUgq0JSFv2BCLhNDiE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jailhouse Rock",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/29990f669b5328b6c40320596a2b14d8660cdb54?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4gphxUgq0JSFv2BCLhNDiE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ekkFrfotMsEAKc5g71GHk",
+      "id" : "3ekkFrfotMsEAKc5g71GHk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdc0aa7765f3197ac9179ec7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdc0aa7765f3197ac9179ec7",
+        "width" : 64
+      } ],
+      "name" : "From Elvis in Memphis",
+      "release_date" : "1969-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3ekkFrfotMsEAKc5g71GHk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 261279,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC16901355"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1H5IfYyIIAlgDX8zguUzns",
+    "id" : "1H5IfYyIIAlgDX8zguUzns",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Suspicious Minds",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a298f247198d8736393e166cb9f9e32227f1886?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1H5IfYyIIAlgDX8zguUzns"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0C3t1htEDTFKcg7F2rNbek",
+      "id" : "0C3t1htEDTFKcg7F2rNbek",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0220ee3e86e17f17239bef1f76",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485120ee3e86e17f17239bef1f76",
+        "width" : 64
+      } ],
+      "name" : "Elvis' Golden Records",
+      "release_date" : "1958-03-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0C3t1htEDTFKcg7F2rNbek"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 136026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC15602857"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/64Ny7djQ6rNJspquof2KoX",
+    "id" : "64Ny7djQ6rNJspquof2KoX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hound Dog",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f683997c027a50649aa3b6c627cd67bd1a9364f5?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:64Ny7djQ6rNJspquof2KoX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gpHiNAmT5oXVxe6ewTGuN",
+      "id" : "3gpHiNAmT5oXVxe6ewTGuN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273524e9e45a2e0067b8189a92e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02524e9e45a2e0067b8189a92e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851524e9e45a2e0067b8189a92e",
+        "width" : 64
+      } ],
+      "name" : "Elvis (Fool)",
+      "release_date" : "1973-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3gpHiNAmT5oXVxe6ewTGuN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 170293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC18705934"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7zMUCLm1TN9o9JlLISztxO",
+    "id" : "7zMUCLm1TN9o9JlLISztxO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Burning Love",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8120be95b750b8783840768f7d458ba8a4a972fb?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7zMUCLm1TN9o9JlLISztxO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ufobt4J5vaT3z7lgUub6a",
+      "id" : "3ufobt4J5vaT3z7lgUub6a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273615da669de17a4432e5a4824",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02615da669de17a4432e5a4824",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851615da669de17a4432e5a4824",
+        "width" : 64
+      } ],
+      "name" : "Elvis' Gold Records, Vol. 4",
+      "release_date" : "1968-01-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:3ufobt4J5vaT3z7lgUub6a"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 140680,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC16305834"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2hEwjc5DZVPcC4cVVBuMr5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2hEwjc5DZVPcC4cVVBuMr5",
+    "id" : "2hEwjc5DZVPcC4cVVBuMr5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "(You're The) Devil In Disguise",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e5dcc97ff306a1d3bb53acef8b1d71cb92179201?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2hEwjc5DZVPcC4cVVBuMr5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gpHiNAmT5oXVxe6ewTGuN",
+      "id" : "3gpHiNAmT5oXVxe6ewTGuN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273524e9e45a2e0067b8189a92e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02524e9e45a2e0067b8189a92e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851524e9e45a2e0067b8189a92e",
+        "width" : 64
+      } ],
+      "name" : "Elvis (Fool)",
+      "release_date" : "1973-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3gpHiNAmT5oXVxe6ewTGuN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC10202061"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1B5Tp2Ml9nLlmTSJx8xVfI",
+    "id" : "1B5Tp2Ml9nLlmTSJx8xVfI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Always On My Mind",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/352a3bdd17d9f0ed6bf3636d8fdacad2548398f4?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1B5Tp2Ml9nLlmTSJx8xVfI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ekkFrfotMsEAKc5g71GHk",
+      "id" : "3ekkFrfotMsEAKc5g71GHk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdc0aa7765f3197ac9179ec7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdc0aa7765f3197ac9179ec7",
+        "width" : 64
+      } ],
+      "name" : "From Elvis in Memphis",
+      "release_date" : "1969-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3ekkFrfotMsEAKc5g71GHk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 167413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC16906016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KWoeBqSdZHEloYKVxssfG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KWoeBqSdZHEloYKVxssfG",
+    "id" : "7KWoeBqSdZHEloYKVxssfG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In the Ghetto",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/126d53f28cc5a0da9527e58ecd61d3a8b77ecd37?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7KWoeBqSdZHEloYKVxssfG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0MvSBMGRQJY3mRwIbJsqF1",
+        "id" : "0MvSBMGRQJY3mRwIbJsqF1",
+        "name" : "Royal Philharmonic Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:0MvSBMGRQJY3mRwIbJsqF1"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6oWz2hJ89n9mKarg3SO9ou",
+      "id" : "6oWz2hJ89n9mKarg3SO9ou",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ee18f491fc7ac61b1dc02dcf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ee18f491fc7ac61b1dc02dcf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ee18f491fc7ac61b1dc02dcf",
+        "width" : 64
+      } ],
+      "name" : "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
+      "release_date" : "2016-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:6oWz2hJ89n9mKarg3SO9ou"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0MvSBMGRQJY3mRwIbJsqF1",
+      "id" : "0MvSBMGRQJY3mRwIbJsqF1",
+      "name" : "Royal Philharmonic Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:0MvSBMGRQJY3mRwIbJsqF1"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC11601778"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1EIvjDvoKjwhokJsigvleb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1EIvjDvoKjwhokJsigvleb",
+    "id" : "1EIvjDvoKjwhokJsigvleb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Always on My Mind - with The Royal Philharmonic Orchestra",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9da2ce8476d942c9f8e24ae98a975b68f0a0a30f?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1EIvjDvoKjwhokJsigvleb"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+        "id" : "43ZHCT0cAZBISjO8DG9PnE",
+        "name" : "Elvis Presley",
+        "type" : "artist",
+        "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3nZRriUOOM8Gvv3ox8ybn1",
+      "id" : "3nZRriUOOM8Gvv3ox8ybn1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff186ce2c8d8cdfe4e65d710",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff186ce2c8d8cdfe4e65d710",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff186ce2c8d8cdfe4e65d710",
+        "width" : 64
+      } ],
+      "name" : "A Little Less Conversation: Elvis vs JXL",
+      "release_date" : "2002-08-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:3nZRriUOOM8Gvv3ox8ybn1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5svDnd8joFhbpbA3Ar0CfN",
+      "id" : "5svDnd8joFhbpbA3Ar0CfN",
+      "name" : "Junkie XL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5svDnd8joFhbpbA3Ar0CfN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC10200288"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4rr0gWiMrF4sOIefs3IEvZ",
+    "id" : "4rr0gWiMrF4sOIefs3IEvZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "A Little Less Conversation - JXL Radio Edit Remix",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5c61f8c314cffada4fccbc23a99080d53db5cc27?cid=be7bf93d831d42e2b9e239d3fc1f8a8e",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4rr0gWiMrF4sOIefs3IEvZ"
+  } ]
+}
