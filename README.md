@@ -4,13 +4,13 @@
   <h4>A collection of projects and coursework from Data Science modules.</h4>
 </div>
 
-- [COMP30760 Data Science in Python](./README.md#comp30760-data-science-in-python)
+- [COMP30760 Data Science in Python](https://github.com/rajitbanerjee/data-science-ucd#comp30760-data-science-in-python)
   - [Getting Started](https://github.com/rajitbanerjee/data-science-ucd#getting-started)
   - [A1: Spotify Analysis](https://github.com/rajitbanerjee/data-science-ucd#a1-spotify-analysis)
   - [A2: COVID-19 Mobility Data Analysis](https://github.com/rajitbanerjee/data-science-ucd#a2-covid-19-mobility-data-analysis)
-- [COMP30770 Programming for Big Data](./README.md#comp30770-programming-for-big-data)
-- [COMP30850 Network Analysis](./README.md#comp30850-network-analysis)
-- [Acknowledgements](./README.md#acknowledgements)
+- [COMP30770 Programming for Big Data](https://github.com/rajitbanerjee/data-science-ucd#comp30770-programming-for-big-data)
+- [COMP30850 Network Analysis](https://github.com/rajitbanerjee/data-science-ucd#comp30850-network-analysis)
+- [Acknowledgements](https://github.com/rajitbanerjee/data-science-ucd#acknowledgements)
 
 ---
 
