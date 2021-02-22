@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./ucdcs.jpg" width="250">
   <h2> Data Science @ UCD </h2>
-  <h4>A collection of projects and coursework from Data Science modules.</h4>
+  <h4>A collection of projects from selected Data Science modules.</h4>
 </div>
 
 - [COMP30760 Data Science in Python](https://github.com/rajitbanerjee/data-science-ucd#comp30760-data-science-in-python)
