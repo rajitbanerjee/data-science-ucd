@@ -128,7 +128,7 @@ between actors in these two dataset - i.e. the collaboration network of actors w
 
 - **Data:** [network-analysis-comp30850/a1-co-stardom-network/data/](./network-analysis-comp30850/a1-co-stardom-network/data/)
 - **Notebook:** [a1-co-stardom-network.ipynb](./network-analysis-comp30850/a1-co-stardom-network/a1-co-stardom-network.ipynb) 
-- **GEXF and PNG Files:** [net1.gexf](./network-analysis-comp30850/a1-co-stardom-network/net1.gexf), [net2.gexf](./network-analysis-comp30850/a1-co-stardom-network/get2.gexf), [net1.png](./network-analysis-comp30850/a1-co-stardom-network/net1.png), [net2.png](./network-analysis-comp30850/a1-co-stardom-network/net2.png)
+- **GEXF and PNG Files:** [net1.gexf](./network-analysis-comp30850/a1-co-stardom-network/net1.gexf), [net2.gexf](./network-analysis-comp30850/a1-co-stardom-network/net2.gexf), [net1.png](./network-analysis-comp30850/a1-co-stardom-network/net1.png), [net2.png](./network-analysis-comp30850/a1-co-stardom-network/net2.png)
 - **Gephi Project:** [costardom.gephi](./network-analysis-comp30850/a1-co-stardom-network/costardom.gephi)
 
 Set up `conda` environment and start Jupyter Notebook.
@@ -144,7 +144,7 @@ $ jupyter notebook
 For each dataset:
 
 - Network Construction
-  - Parse the JSON data and create an appropriate co-starring network using NetworkX, where nodes represent individual actors.  
+  - Parse the JSON data and create an appropriate co-starring network using [NetworkX](https://networkx.org/), where nodes represent individual actors.  
   - Identify and remove any isolated nodes from the network. 
 - Network Chracterisation
   - Apply a range of different methods to characterise the structure and connectivity of the network.
