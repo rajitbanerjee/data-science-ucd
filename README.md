@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./ucdcs.jpg" width="250">
   <h2> Data Science @ UCD </h2>
-  <h4>A collection of projects and coursework from Data Science modules.</h4>
+  <h4>A collection of projects from selected Data Science modules.</h4>
 </div>
 
 - [COMP30760 Data Science in Python](https://github.com/rajitbanerjee/data-science-ucd#comp30760-data-science-in-python)
@@ -29,6 +29,8 @@ Autumn Trimester, 2020
 
 ### A1: Spotify Analysis
 
+<img src="python-comp30760/images/spotify-logo.jpg" width=500>
+
 The objective of this assignment is to collect a dataset from one or more open web APIs, and use Python to prepare, analyse, and derive insights from the collected data.  
 - **Source:** <http://mlg.ucd.ie/modules/COMP30760/assignment1.html>
 - **API chosen:** [Spotify Web API](https://developer.spotify.com/documentation/web-api/)   
@@ -48,6 +50,8 @@ The objective of this assignment is to collect a dataset from one or more open w
     -   Summarise any insights which you gained from your analysis of the dataset, and suggest ideas for further analysis.
 
 ### A2: COVID-19 Mobility Data Analysis
+
+<img src="python-comp30760/images/title.jpg" width=500>
 
 Increasingly, large-scale mobility datasets are being made publicly available for research purposes. This type of data describes the aggregated movement of people across a region or an entire country over time. Mobility data can naturally be represented using a time series, where each day is a different observation. Recently, Google made mobility data available to help researchers to understand the effects of COVID-19 and associated government policies on public behaviour. This data charts movement patterns across different location categories (e.g. work, retail etc). The objective of this assignment is construct different time series representations for a number of countries based on the supplied mobility data, and analyse and compare the resulting series.
 
