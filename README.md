@@ -10,6 +10,7 @@
   - [A2: COVID-19 Mobility Data Analysis](https://github.com/rajitbanerjee/data-science-ucd#a2-covid-19-mobility-data-analysis)
 - [COMP30770 Programming for Big Data](https://github.com/rajitbanerjee/data-science-ucd#comp30770-programming-for-big-data)
 - [COMP30850 Network Analysis](https://github.com/rajitbanerjee/data-science-ucd#comp30850-network-analysis)
+  - [A1: Co-stardom Network](https://github.com/rajitbanerjee/data-science-ucd#a1-co-stardom-network) 
 - [Acknowledgements](https://github.com/rajitbanerjee/data-science-ucd#acknowledgements)
 
 ---
@@ -44,10 +45,10 @@ The objective of this assignment is to collect a dataset from one or more open w
     - Collect data from your API(s) using Python. 
     - Save the collected dataset in JSON format for subsequent analysis.
 - Data Preparation and Analysis:
-    -   Load the stored JSON dataset, and represent it using an appropriate structure.
-    -   Apply any preprocessing steps that might be required to clean, filter or engineer the dataset before analysis.
-    -   Analyse, characterise, and summarise the cleaned dataset, using tables and visualisations where appropriate. 
-    -   Summarise any insights which you gained from your analysis of the dataset, and suggest ideas for further analysis.
+    - Load the stored JSON dataset, and represent it using an appropriate structure.
+    - Apply any preprocessing steps that might be required to clean, filter or engineer the dataset before analysis.
+    - Analyse, characterise, and summarise the cleaned dataset, using tables and visualisations where appropriate. 
+    - Summarise any insights which you gained from your analysis of the dataset, and suggest ideas for further analysis.
 
 ### A2: COVID-19 Mobility Data Analysis
 
@@ -113,9 +114,54 @@ Increasingly, large-scale mobility datasets are being made publicly available fo
   </li>
 </ul>
 
+
 ## COMP30770 Programming for Big Data
 
+
 ## COMP30850 Network Analysis
+Spring Trimester, 2021
+
+### A1: Co-stardom Network
+
+The goal of this assignment is to construct and characterise network representations of two movie-related datasets. The networks should model the co-starring relations
+between actors in these two dataset - i.e. the collaboration network of actors who appear together in the same movies.
+
+- **Data:** [network-analysis-comp30850/a1-co-stardom-network/data/](./network-analysis-comp30850/a1-co-stardom-network/data/)
+- **Notebook:** [a1-co-stardom-network.ipynb](./network-analysis-comp30850/a1-co-stardom-network/a1-co-stardom-network.ipynb) 
+- **GEXF and PNG Files:** [net1.gexf](./network-analysis-comp30850/a1-co-stardom-network/net1.gexf), [net2.gexf](./network-analysis-comp30850/a1-co-stardom-network/get2.gexf), [net1.png](./network-analysis-comp30850/a1-co-stardom-network/net1.png), [net2.png](./network-analysis-comp30850/a1-co-stardom-network/net2.png)
+- **Gephi Project:** [costardom.gephi](./network-analysis-comp30850/a1-co-stardom-network/costardom.gephi)
+
+Set up `conda` environment and start Jupyter Notebook.
+```
+$ conda create -n a1-comp30850 python=3.8 jupyterlab networkx seaborn
+$ conda activate a1-comp30850
+$ cd network-analysis-comp30850/a1-co-stardom-network/
+$ jupyter notebook
+```
+
+#### Tasks:
+
+For each dataset:
+
+- Network Construction
+  - Parse the JSON data and create an appropriate co-starring network using NetworkX, where nodes represent individual actors.  
+  - Identify and remove any isolated nodes from the network. 
+- Network Chracterisation
+  - Apply a range of different methods to characterise the structure and connectivity of the network.
+  - Apply different centrality measures to identify important nodes in the network. 
+- Ego-centric Analysis
+  - Select one of the important nodes in the network and generate an ego network for this node.
+- Network Visualisation
+  - Export the network as a GEXF file and use [Gephi](https://github.com/gephi/gephi) to produce a useful visualisation.
+
+<table>
+  <tr><td>
+    <img src="./network-analysis-comp30850/a1-co-stardom-network/net1.png">
+   </td><td>
+    <img src="./network-analysis-comp30850/a1-co-stardom-network/net2.png">
+    </td></tr>
+</table>
+
 
 ## Acknowledgements
 - [Dr. Derek Greene](https://people.ucd.ie/derek.greene)
