@@ -31,8 +31,8 @@ Autumn Trimester, 2020
 
 <img src="python-comp30760/images/spotify-logo.jpg" width=500>
 
-The objective of this assignment is to collect a dataset from one or more open web APIs, and use Python to prepare, analyse, and derive insights from the collected data.  
-- **Source:** <http://mlg.ucd.ie/modules/COMP30760/assignment1.html>
+The objective of this assignment is to collect a dataset from one or more open web APIs, and use Python to prepare, analyse, and derive insights from the collected data.
+
 - **API chosen:** [Spotify Web API](https://developer.spotify.com/documentation/web-api/)   
 - **Data:** [python-comp30760/data/a1/](./python-comp30760/data/a1/) (pre-collected to avoid calling the API with secret tokens which are not included).
 - **Notebook:** [a1-spotify-analysis.ipynb](./python-comp30760/notebooks/a1-spotify-analysis.ipynb) 
@@ -55,7 +55,6 @@ The objective of this assignment is to collect a dataset from one or more open w
 
 Increasingly, large-scale mobility datasets are being made publicly available for research purposes. This type of data describes the aggregated movement of people across a region or an entire country over time. Mobility data can naturally be represented using a time series, where each day is a different observation. Recently, Google made mobility data available to help researchers to understand the effects of COVID-19 and associated government policies on public behaviour. This data charts movement patterns across different location categories (e.g. work, retail etc). The objective of this assignment is construct different time series representations for a number of countries based on the supplied mobility data, and analyse and compare the resulting series.
 
-- **Source:** <http://mlg.ucd.ie/modules/COMP30760/mobility.html>  
 - **Data:** [python-comp30760/data/a2/](./python-comp30760/data/a2/) (three countries selected: _Ireland, New Zealand, USA_)
 - **Notebook:** [a2-covid-19-mobility.ipynb](./python-comp30760/notebooks/a2-covid-19-mobility.ipynb) 
 
@@ -120,3 +119,4 @@ Increasingly, large-scale mobility datasets are being made publicly available fo
 ## Acknowledgements
 - [Dr. Derek Greene](https://people.ucd.ie/derek.greene)
 - [Dr. Anthony Ventresque](https://people.ucd.ie/anthony.ventresque)
+- [Thomas Laurent (TA)](https://csl.ucd.ie/index.php/thomas-laurent/)
