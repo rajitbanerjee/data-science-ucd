@@ -46,7 +46,7 @@ The objective of this assignment is to collect a dataset from one or more open w
     - Save the collected dataset in JSON format for subsequent analysis.
 - Data Preparation and Analysis:
     - Load the stored JSON dataset, and represent it using an appropriate structure.
-    - Apply any preprocessing steps that might be required to clean, filter or engineer the dataset before analysis.
+    - Apply any pre-processing steps that might be required to clean, filter or engineer the dataset before analysis.
     - Analyse, characterise, and summarise the cleaned dataset, using tables and visualisations where appropriate. 
     - Summarise any insights which you gained from your analysis of the dataset, and suggest ideas for further analysis.
 
@@ -72,7 +72,7 @@ Increasingly, large-scale mobility datasets are being made publicly available fo
       </li>
       <li>
         Characterise and visualise each of these time series. You may choose to apply
-        resampling and/or smoothing in order to provide a clearer picture of the trends
+        re-sampling and/or smoothing in order to provide a clearer picture of the trends
         in the series.
       </li>
       <li>
@@ -97,7 +97,7 @@ Increasingly, large-scale mobility datasets are being made publicly available fo
         </li>
         <li>
           Characterise and visualise each of these time series. You may choose to apply
-          resampling and/or smoothing in order to provide a clearer picture of the trends
+          re-sampling and/or smoothing in order to provide a clearer picture of the trends
           in the series.
         </li>
         <li>
@@ -145,7 +145,7 @@ For each dataset:
 - Network Construction
   - Parse the JSON data and create an appropriate co-starring network using [NetworkX](https://networkx.org/), where nodes represent individual actors.  
   - Identify and remove any isolated nodes from the network. 
-- Network Chracterisation
+- Network Characterisation
   - Apply a range of different methods to characterise the structure and connectivity of the network.
   - Apply different centrality measures to identify important nodes in the network. 
 - Ego-centric Analysis
