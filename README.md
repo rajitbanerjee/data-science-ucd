@@ -122,6 +122,8 @@ Spring Trimester, 2021
 
 ### Project 1: CLI (Bash) and Data Management for Big Data
 
+<img src="./big-data-comp30770/proj1-bash-data-management/bash.png" width="100">
+
 For a detailed report, please see [proj1-report.pdf](./big-data-comp30770/proj1-bash-data-management/proj1-report.pdf).
 
 #### 1. Cleaning a Dataset with Bash
@@ -182,6 +184,8 @@ Image used: `registry.gitlab.com/roddhjav/ucd-bigdata/db`.
 - Review on 'Dynamo: Amazon's highly available key-value store'
 
 ### Project 2: Spark
+
+<img src="./big-data-comp30770/proj2-spark/spark.png" width="100">
 
 For a detailed report, please see [proj2-report.pdf](./big-data-comp30770/proj2-spark/proj2-report.pdf).
 
@@ -267,6 +271,8 @@ Sample visualisations (see notebook for details):
 </table>
 
 ### A2: Twitter Networks
+
+<img src="./network-analysis-comp30850/a2-twitter-networks/twitter.png" width="100">
 
 The goal of this assignment is to construct and characterise a range of network representations, created from pre-collected Twitter data for a specific Twitter List of user accounts which relate to a particular topic (e.g. technology, sports news etc).
 
