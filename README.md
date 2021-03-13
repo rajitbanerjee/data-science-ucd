@@ -5,12 +5,11 @@
 </div>
 
 - [COMP30760 Data Science in Python](https://github.com/rajitbanerjee/data-science-ucd#comp30760-data-science-in-python)
-  - [Getting Started](https://github.com/rajitbanerjee/data-science-ucd#getting-started)
   - [A1: Spotify Analysis](https://github.com/rajitbanerjee/data-science-ucd#a1-spotify-analysis)
   - [A2: COVID-19 Mobility Data Analysis](https://github.com/rajitbanerjee/data-science-ucd#a2-covid-19-mobility-data-analysis)
 - [COMP30770 Programming for Big Data](https://github.com/rajitbanerjee/data-science-ucd#comp30770-programming-for-big-data)
-  - [Project 1: CLI (Bash) and Data Management for Big Data](<https://github.com/rajitbanerjee/data-science-ucd#project-1-cli-(bash)-and-data-management-for-big-data>)
-  - [Project 2: Spark](https://github.com/rajitbanerjee/data-science-ucd#project-1-spark)
+  - [Project 1: CLI (Bash) and Data Management for Big Data](https://github.com/rajitbanerjee/data-science-ucd#project-1-cli-bash-and-data-management-for-big-data)
+  - [Project 2: Spark](https://github.com/rajitbanerjee/data-science-ucd#project-2-spark)
 - [COMP30850 Network Analysis](https://github.com/rajitbanerjee/data-science-ucd#comp30850-network-analysis)
   - [A1: Co-stardom Network](https://github.com/rajitbanerjee/data-science-ucd#a1-co-stardom-network)
   - [A2: Twitter Networks](https://github.com/rajitbanerjee/data-science-ucd#a2-twitter-networks)
