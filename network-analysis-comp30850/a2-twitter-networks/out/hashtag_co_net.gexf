@@ -1,0 +1,1936 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-11">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#microsoft" label="#microsoft" />
+      <node id="#google" label="#google" />
+      <node id="#devops" label="#devops" />
+      <node id="#devsecops" label="#devsecops" />
+      <node id="#softwaredevelopment" label="#softwaredevelopment" />
+      <node id="#cicd" label="#cicd" />
+      <node id="#value" label="#value" />
+      <node id="#datacenters" label="#datacenters" />
+      <node id="#cpu" label="#cpu" />
+      <node id="#gpu" label="#gpu" />
+      <node id="#datastorage" label="#datastorage" />
+      <node id="#nvmeof" label="#nvmeof" />
+      <node id="#technology" label="#technology" />
+      <node id="#blackfriday" label="#blackfriday" />
+      <node id="#development" label="#development" />
+      <node id="#operations" label="#operations" />
+      <node id="#datawarehouse" label="#datawarehouse" />
+      <node id="#datatransformation" label="#datatransformation" />
+      <node id="#digitaltransformation" label="#digitaltransformation" />
+      <node id="#network" label="#network" />
+      <node id="#naas" label="#naas" />
+      <node id="#pandemic" label="#pandemic" />
+      <node id="#branding" label="#branding" />
+      <node id="#business" label="#business" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#visibility" label="#visibility" />
+      <node id="#iphone12" label="#iphone12" />
+      <node id="#virtual" label="#virtual" />
+      <node id="#management" label="#management" />
+      <node id="#k8s" label="#k8s" />
+      <node id="#kubernetes" label="#kubernetes" />
+      <node id="#hybridcloud" label="#hybridcloud" />
+      <node id="#iot" label="#iot" />
+      <node id="#elt" label="#elt" />
+      <node id="#etl" label="#etl" />
+      <node id="#datalake" label="#datalake" />
+      <node id="#enterpriseit" label="#enterpriseit" />
+      <node id="#it" label="#it" />
+      <node id="#ad" label="#ad" />
+      <node id="#wiredhq" label="#wiredhq" />
+      <node id="#workspaces" label="#workspaces" />
+      <node id="#windows" label="#windows" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#sql" label="#sql" />
+      <node id="#apple" label="#apple" />
+      <node id="#appstore" label="#appstore" />
+      <node id="#online" label="#online" />
+      <node id="#updates" label="#updates" />
+      <node id="#election2020" label="#election2020" />
+      <node id="#elections2020" label="#elections2020" />
+      <node id="#rpa" label="#rpa" />
+      <node id="#automation" label="#automation" />
+      <node id="#virtualassistants" label="#virtualassistants" />
+      <node id="#smarttechnology" label="#smarttechnology" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#observability" label="#observability" />
+      <node id="#automating" label="#automating" />
+      <node id="#networkobservability" label="#networkobservability" />
+      <node id="#blockstorage" label="#blockstorage" />
+      <node id="#workflow" label="#workflow" />
+      <node id="#productivity" label="#productivity" />
+      <node id="#containers" label="#containers" />
+      <node id="#advice" label="#advice" />
+      <node id="#deployment" label="#deployment" />
+      <node id="#raspberrypi" label="#raspberrypi" />
+      <node id="#pico" label="#pico" />
+      <node id="#chip" label="#chip" />
+      <node id="#lowcode" label="#lowcode" />
+      <node id="#nocode" label="#nocode" />
+      <node id="#workforcemanagement" label="#workforcemanagement" />
+      <node id="#workmanagement" label="#workmanagement" />
+      <node id="#unstructureddata" label="#unstructureddata" />
+      <node id="#datamanagement" label="#datamanagement" />
+      <node id="#datalakes" label="#datalakes" />
+      <node id="#windows10" label="#windows10" />
+      <node id="#recruitment" label="#recruitment" />
+      <node id="#tips" label="#tips" />
+      <node id="#finances" label="#finances" />
+      <node id="#cryptocurrency" label="#cryptocurrency" />
+      <node id="#workloads" label="#workloads" />
+      <node id="#devcommunity" label="#devcommunity" />
+      <node id="#softwaredev" label="#softwaredev" />
+      <node id="#datapreparation" label="#datapreparation" />
+      <node id="#kitchens" label="#kitchens" />
+      <node id="#colocation" label="#colocation" />
+      <node id="#5g" label="#5g" />
+      <node id="#datacenter" label="#datacenter" />
+      <node id="#colo" label="#colo" />
+      <node id="#cybermonday" label="#cybermonday" />
+      <node id="#freebiealert" label="#freebiealert" />
+      <node id="#jeopardy" label="#jeopardy" />
+      <node id="#trebek" label="#trebek" />
+      <node id="#migration" label="#migration" />
+      <node id="#azure" label="#azure" />
+      <node id="#aws" label="#aws" />
+      <node id="#vmware" label="#vmware" />
+      <node id="#internet" label="#internet" />
+      <node id="#amazon" label="#amazon" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#whiteboarding" label="#whiteboarding" />
+      <node id="#socialtools" label="#socialtools" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#wfh" label="#wfh" />
+      <node id="#fortnite" label="#fortnite" />
+      <node id="#subscription" label="#subscription" />
+      <node id="#vehicles" label="#vehicles" />
+      <node id="#market" label="#market" />
+      <node id="#artificialintelligence" label="#artificialintelligence" />
+      <node id="#quarantine" label="#quarantine" />
+      <node id="#safety" label="#safety" />
+      <node id="#ai" label="#ai" />
+      <node id="#vendors" label="#vendors" />
+      <node id="#health" label="#health" />
+      <node id="#led" label="#led" />
+      <node id="#dataanalysis" label="#dataanalysis" />
+      <node id="#dataanalytics" label="#dataanalytics" />
+      <node id="#deepdiveintoai" label="#deepdiveintoai" />
+      <node id="#security" label="#security" />
+      <node id="#sdwan" label="#sdwan" />
+      <node id="#evolvingtechnology" label="#evolvingtechnology" />
+      <node id="#valuestreammanagement" label="#valuestreammanagement" />
+      <node id="#valuestreammeasurement" label="#valuestreammeasurement" />
+      <node id="#dora" label="#dora" />
+      <node id="#sd" label="#sd" />
+      <node id="#router" label="#router" />
+      <node id="#zerotrust" label="#zerotrust" />
+      <node id="#wan" label="#wan" />
+      <node id="#sdn" label="#sdn" />
+      <node id="#aes" label="#aes" />
+      <node id="#datanalaytics" label="#datanalaytics" />
+      <node id="#operationaldatabase" label="#operationaldatabase" />
+      <node id="#developers" label="#developers" />
+      <node id="#datascience" label="#datascience" />
+      <node id="#itops" label="#itops" />
+      <node id="#aiops" label="#aiops" />
+      <node id="#artificialintellience" label="#artificialintellience" />
+      <node id="#b2b" label="#b2b" />
+      <node id="#sales" label="#sales" />
+      <node id="#cyberweek" label="#cyberweek" />
+      <node id="#deals" label="#deals" />
+      <node id="#brain" label="#brain" />
+      <node id="#workout" label="#workout" />
+      <node id="#programming" label="#programming" />
+      <node id="#cloudops" label="#cloudops" />
+      <node id="#googleplaymusic" label="#googleplaymusic" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#healthtech" label="#healthtech" />
+      <node id="#carpool" label="#carpool" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#edge" label="#edge" />
+      <node id="#edgecolocation" label="#edgecolocation" />
+      <node id="#edgecomputing" label="#edgecomputing" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#appleevent" label="#appleevent" />
+      <node id="#navalny" label="#navalny" />
+      <node id="#23января" label="#23января" />
+      <node id="#unstructureddatamanagement" label="#unstructureddatamanagement" />
+      <node id="#sfd19" label="#sfd19" />
+      <node id="#mario" label="#mario" />
+      <node id="#streaming" label="#streaming" />
+      <node id="#gamers" label="#gamers" />
+      <node id="#workplace" label="#workplace" />
+      <node id="#futureofwork" label="#futureofwork" />
+      <node id="#googlechrome" label="#googlechrome" />
+      <node id="#buzzwords" label="#buzzwords" />
+      <node id="#vsm" label="#vsm" />
+      <node id="#valuestream" label="#valuestream" />
+      <node id="#thread" label="#thread" />
+      <node id="#ti100" label="#ti100" />
+      <node id="#lighting" label="#lighting" />
+      <node id="#kitchen" label="#kitchen" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#ps5" label="#ps5" />
+      <node id="#xboxseriesx" label="#xboxseriesx" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#ddosattacks" label="#ddosattacks" />
+      <node id="#linux" label="#linux" />
+      <node id="#multicloud" label="#multicloud" />
+      <node id="#cloudstorage" label="#cloudstorage" />
+      <node id="#datamangement" label="#datamangement" />
+      <node id="#scaleout" label="#scaleout" />
+      <node id="#money" label="#money" />
+      <node id="#deepfakes" label="#deepfakes" />
+      <node id="#techintel20" label="#techintel20" />
+      <node id="#hr" label="#hr" />
+      <node id="#peopleanalytics" label="#peopleanalytics" />
+      <node id="#employeerelations" label="#employeerelations" />
+      <node id="#data" label="#data" />
+      <node id="#software" label="#software" />
+      <node id="#ec2" label="#ec2" />
+      <node id="#iaas" label="#iaas" />
+      <node id="#storage" label="#storage" />
+      <node id="#ml" label="#ml" />
+      <node id="#objectstorage" label="#objectstorage" />
+      <node id="#provisioning" label="#provisioning" />
+      <node id="#usage" label="#usage" />
+      <node id="#apps" label="#apps" />
+      <node id="#netapps" label="#netapps" />
+      <node id="#appmigration" label="#appmigration" />
+      <node id="#cloudmigration" label="#cloudmigration" />
+      <node id="#datapipeline" label="#datapipeline" />
+      <node id="#hyperconvergedinfrastructure" label="#hyperconvergedinfrastructure" />
+      <node id="#enterprise" label="#enterprise" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#instagram" label="#instagram" />
+      <node id="#federatedk8s" label="#federatedk8s" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#photography" label="#photography" />
+      <node id="#research" label="#research" />
+      <node id="#intranets" label="#intranets" />
+      <node id="#spreadbases" label="#spreadbases" />
+      <node id="#events" label="#events" />
+      <node id="#onlineevents" label="#onlineevents" />
+      <node id="#spacex" label="#spacex" />
+      <node id="#starship" label="#starship" />
+      <node id="#datacentre" label="#datacentre" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#softwaredefinedstorage" label="#softwaredefinedstorage" />
+      <node id="#nvme" label="#nvme" />
+      <node id="#ssds" label="#ssds" />
+      <node id="#edgeinfrastructure" label="#edgeinfrastructure" />
+      <node id="#emergingtech" label="#emergingtech" />
+      <node id="#attheedge" label="#attheedge" />
+      <node id="#startup" label="#startup" />
+      <node id="#baking" label="#baking" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#machinelearning" label="#machinelearning" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#blockchain" label="#blockchain" />
+      <node id="#retail" label="#retail" />
+      <node id="#ces" label="#ces" />
+      <node id="#covid19" label="#covid19" />
+      <node id="#workflowmanagement" label="#workflowmanagement" />
+      <node id="#digitalwork" label="#digitalwork" />
+      <node id="#serverless" label="#serverless" />
+      <node id="#cloudcomputing" label="#cloudcomputing" />
+      <node id="#samsung" label="#samsung" />
+      <node id="#review" label="#review" />
+      <node id="#gifts" label="#gifts" />
+      <node id="#education" label="#education" />
+      <node id="#macs" label="#macs" />
+      <node id="#documentaries" label="#documentaries" />
+      <node id="#netflix" label="#netflix" />
+      <node id="#dataprotection" label="#dataprotection" />
+      <node id="#aftercovid" label="#aftercovid" />
+      <node id="#postcovid" label="#postcovid" />
+      <node id="#gaming" label="#gaming" />
+      <node id="#employeeexperience" label="#employeeexperience" />
+      <node id="#humanresources" label="#humanresources" />
+      <node id="#airpods" label="#airpods" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#givingback" label="#givingback" />
+      <node id="#wordpress" label="#wordpress" />
+      <node id="#python" label="#python" />
+      <node id="#programminglanguage" label="#programminglanguage" />
+      <node id="#electionresults2020" label="#electionresults2020" />
+      <node id="#games" label="#games" />
+      <node id="#science" label="#science" />
+      <node id="#tech" label="#tech" />
+      <node id="#community" label="#community" />
+      <node id="#enterprisetechnology" label="#enterprisetechnology" />
+      <node id="#mlops" label="#mlops" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#hci" label="#hci" />
+      <node id="#bitcoin" label="#bitcoin" />
+      <node id="#malware" label="#malware" />
+      <node id="#ransomeware" label="#ransomeware" />
+      <node id="#cyberattack" label="#cyberattack" />
+      <node id="#youtube" label="#youtube" />
+      <node id="#livestream" label="#livestream" />
+      <node id="#ops" label="#ops" />
+      <node id="#uselection2020" label="#uselection2020" />
+      <node id="#actianavalanche" label="#actianavalanche" />
+      <node id="#azuresynapse" label="#azuresynapse" />
+      <node id="#snowflake" label="#snowflake" />
+      <node id="#amazonredshift" label="#amazonredshift" />
+      <node id="#bigquery" label="#bigquery" />
+      <node id="#videomarketing" label="#videomarketing" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#electionday" label="#electionday" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#enterpriseoperations" label="#enterpriseoperations" />
+      <node id="#smallbusinesssaturday" label="#smallbusinesssaturday" />
+      <node id="#zoom" label="#zoom" />
+      <node id="#airtable" label="#airtable" />
+      <node id="#trends" label="#trends" />
+      <node id="#intelligentautomation" label="#intelligentautomation" />
+      <node id="#ces2021" label="#ces2021" />
+      <node id="#podcast" label="#podcast" />
+      <node id="#information" label="#information" />
+      <node id="#hyperdistribution" label="#hyperdistribution" />
+      <node id="#facemask" label="#facemask" />
+      <node id="#nasa" label="#nasa" />
+      <node id="#sls" label="#sls" />
+      <node id="#onpremises" label="#onpremises" />
+      <node id="#cloudapps" label="#cloudapps" />
+      <node id="#developer" label="#developer" />
+      <node id="#videoconferencing" label="#videoconferencing" />
+      <node id="#googlemeet" label="#googlemeet" />
+      <node id="#gmail" label="#gmail" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#gigaomradar" label="#gigaomradar" />
+      <node id="#enterprisesolutions" label="#enterprisesolutions" />
+      <node id="#data_storage" label="#data_storage" />
+      <node id="#datamanagment" label="#datamanagment" />
+      <node id="#opensource" label="#opensource" />
+      <node id="#stocks" label="#stocks" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#networks" label="#networks" />
+      <node id="#digital" label="#digital" />
+      <node id="#vdi" label="#vdi" />
+      <node id="#workingfromhome" label="#workingfromhome" />
+      <node id="#cfd7" label="#cfd7" />
+      <node id="#appmarketplace" label="#appmarketplace" />
+      <node id="#s3" label="#s3" />
+      <node id="#wasabi" label="#wasabi" />
+      <node id="#zadara" label="#zadara" />
+      <node id="#ibm" label="#ibm" />
+      <node id="#oracle" label="#oracle" />
+      <node id="#alibaba" label="#alibaba" />
+      <node id="#screentime" label="#screentime" />
+      <node id="#onemorething" label="#onemorething" />
+      <node id="#cloudfieldday7" label="#cloudfieldday7" />
+      <node id="#vdiaas" label="#vdiaas" />
+      <node id="#internetofthings" label="#internetofthings" />
+      <node id="#future" label="#future" />
+      <node id="#galaxys21" label="#galaxys21" />
+      <node id="#smartphones" label="#smartphones" />
+      <node id="#upgrade" label="#upgrade" />
+      <node id="#roboticprocessautomation" label="#roboticprocessautomation" />
+      <node id="#scaleoutstorage" label="#scaleoutstorage" />
+      <node id="#filestorage" label="#filestorage" />
+      <node id="#itautomation" label="#itautomation" />
+      <node id="#airpodspro" label="#airpodspro" />
+      <node id="#economy" label="#economy" />
+      <node id="#spiderman" label="#spiderman" />
+      <node id="#artificiaiinteligence" label="#artificiaiinteligence" />
+      <node id="#applicationperformancemanagement" label="#applicationperformancemanagement" />
+      <node id="#newsletter" label="#newsletter" />
+      <node id="#softwaredeveopment" label="#softwaredeveopment" />
+      <node id="#failfast" label="#failfast" />
+      <node id="#explainer" label="#explainer" />
+      <node id="#workfromhome" label="#workfromhome" />
+      <node id="#worktech" label="#worktech" />
+      <node id="#networking" label="#networking" />
+      <node id="#voicesininnovation" label="#voicesininnovation" />
+      <node id="#agile" label="#agile" />
+      <node id="#agiledevelopment" label="#agiledevelopment" />
+      <node id="#developercommunity" label="#developercommunity" />
+      <node id="#webcam" label="#webcam" />
+      <node id="#virtualevents" label="#virtualevents" />
+      <node id="#covid" label="#covid" />
+      <node id="#coronavirus" label="#coronavirus" />
+      <node id="#serveless" label="#serveless" />
+      <node id="#brainhacks" label="#brainhacks" />
+      <node id="#remotework" label="#remotework" />
+      <node id="#distributedsystems" label="#distributedsystems" />
+      <node id="#chatbots" label="#chatbots" />
+      <node id="#bluetooth" label="#bluetooth" />
+      <node id="#speaker" label="#speaker" />
+      <node id="#ps4" label="#ps4" />
+      <node id="#xboxone" label="#xboxone" />
+      <node id="#intelligence" label="#intelligence" />
+      <node id="#lockdown" label="#lockdown" />
+      <node id="#homeschooling" label="#homeschooling" />
+      <node id="#centralization" label="#centralization" />
+      <node id="#consolidation" label="#consolidation" />
+      <node id="#grc" label="#grc" />
+      <node id="#datagovernance" label="#datagovernance" />
+      <node id="#datascientists" label="#datascientists" />
+      <node id="#gigaom" label="#gigaom" />
+      <node id="#technologies" label="#technologies" />
+      <node id="#paas" label="#paas" />
+      <node id="#kube" label="#kube" />
+      <node id="#cio" label="#cio" />
+      <node id="#custom" label="#custom" />
+      <node id="#networkasaservice" label="#networkasaservice" />
+      <node id="#isps" label="#isps" />
+      <node id="#routing" label="#routing" />
+      <node id="#customers" label="#customers" />
+      <node id="#clouddatabase" label="#clouddatabase" />
+      <node id="#videocontent" label="#videocontent" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#applewatch" label="#applewatch" />
+      <node id="#appdev" label="#appdev" />
+      <node id="#ipaas" label="#ipaas" />
+      <node id="#advertising" label="#advertising" />
+      <node id="#referrals" label="#referrals" />
+      <node id="#scaleoutfilestorage" label="#scaleoutfilestorage" />
+      <node id="#phishing" label="#phishing" />
+      <node id="#hack" label="#hack" />
+      <node id="#creditcards" label="#creditcards" />
+      <node id="#payments" label="#payments" />
+      <node id="#healthcareinnovation" label="#healthcareinnovation" />
+      <node id="#itoperations" label="#itoperations" />
+      <node id="#itcontracts" label="#itcontracts" />
+      <node id="#startups" label="#startups" />
+      <node id="#technologicalthinking" label="#technologicalthinking" />
+      <node id="#videogames" label="#videogames" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#techpodcast" label="#techpodcast" />
+      <node id="#hitachivantara" label="#hitachivantara" />
+      <node id="#e990" label="#e990" />
+      <node id="#cloudinfrastructure" label="#cloudinfrastructure" />
+      <node id="#advancedanalytics" label="#advancedanalytics" />
+      <node id="#customerexperience" label="#customerexperience" />
+      <node id="#reviews" label="#reviews" />
+      <node id="#latency" label="#latency" />
+      <node id="#datatransfer" label="#datatransfer" />
+      <node id="#macbook" label="#macbook" />
+      <node id="#cloudbound" label="#cloudbound" />
+      <node id="#whiteboards" label="#whiteboards" />
+      <node id="#worktools" label="#worktools" />
+      <node id="#mobilecomputing" label="#mobilecomputing" />
+      <node id="#magic" label="#magic" />
+      <node id="#customerservice" label="#customerservice" />
+      <node id="#technologyresearch" label="#technologyresearch" />
+      <node id="#tech4good" label="#tech4good" />
+      <node id="#yeti" label="#yeti" />
+      <node id="#cooler" label="#cooler" />
+      <node id="#thoughtleadership" label="#thoughtleadership" />
+      <node id="#supplychain" label="#supplychain" />
+      <node id="#itunes" label="#itunes" />
+      <node id="#cortana" label="#cortana" />
+      <node id="#photos" label="#photos" />
+      <node id="#databases" label="#databases" />
+      <node id="#microservices" label="#microservices" />
+      <node id="#ebook" label="#ebook" />
+      <node id="#readers" label="#readers" />
+      <node id="#work" label="#work" />
+      <node id="#hotels" label="#hotels" />
+      <node id="#wifi" label="#wifi" />
+      <node id="#facebookdown" label="#facebookdown" />
+      <node id="#sofacebook" label="#sofacebook" />
+      <node id="#microsoftteams" label="#microsoftteams" />
+      <node id="#microsoft365" label="#microsoft365" />
+      <node id="#durability" label="#durability" />
+      <node id="#keycriteria" label="#keycriteria" />
+      <node id="#onlinecontent" label="#onlinecontent" />
+      <node id="#taskmanagement" label="#taskmanagement" />
+      <node id="#wunderlist" label="#wunderlist" />
+      <node id="#ads" label="#ads" />
+      <node id="#ciso" label="#ciso" />
+      <node id="#howto" label="#howto" />
+      <node id="#passwords" label="#passwords" />
+      <node id="#gigaomresearch" label="#gigaomresearch" />
+      <node id="#unito" label="#unito" />
+      <node id="#siem" label="#siem" />
+      <node id="#emailsecurity" label="#emailsecurity" />
+      <node id="#enterpriseemail" label="#enterpriseemail" />
+      <node id="#intel" label="#intel" />
+      <node id="#retirement" label="#retirement" />
+      <node id="#401k" label="#401k" />
+      <node id="#enterprisesecurity" label="#enterprisesecurity" />
+      <node id="#peopleops" label="#peopleops" />
+      <node id="#personnelmanagement" label="#personnelmanagement" />
+      <node id="#api" label="#api" />
+      <node id="#sds" label="#sds" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#cars" label="#cars" />
+      <node id="#budget" label="#budget" />
+      <node id="#home" label="#home" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#emergingtechnologies" label="#emergingtechnologies" />
+      <node id="#securityandrisk" label="#securityandrisk" />
+      <node id="#businessit" label="#businessit" />
+      <node id="#optane" label="#optane" />
+      <node id="#nonvolatilememory" label="#nonvolatilememory" />
+      <node id="#emoji" label="#emoji" />
+      <node id="#behavioraldata" label="#behavioraldata" />
+      <node id="#governance" label="#governance" />
+      <node id="#projectmanagement" label="#projectmanagement" />
+      <node id="#containermanagement" label="#containermanagement" />
+      <node id="#servless" label="#servless" />
+      <node id="#containerization" label="#containerization" />
+      <node id="#code" label="#code" />
+      <node id="#finastra" label="#finastra" />
+      <node id="#workboards" label="#workboards" />
+      <node id="#usaelection2020" label="#usaelection2020" />
+      <node id="#topics" label="#topics" />
+      <node id="#splunk" label="#splunk" />
+      <node id="#datastrategy" label="#datastrategy" />
+      <node id="#snapchat" label="#snapchat" />
+      <node id="#predictions" label="#predictions" />
+      <node id="#finance" label="#finance" />
+      <node id="#datacatalog" label="#datacatalog" />
+      <node id="#alation" label="#alation" />
+      <node id="#shoppinglocal" label="#shoppinglocal" />
+      <node id="#disasterrecovery" label="#disasterrecovery" />
+      <node id="#playstation5" label="#playstation5" />
+      <node id="#ps5uk" label="#ps5uk" />
+      <node id="#mobilesecurity" label="#mobilesecurity" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#workflows" label="#workflows" />
+      <node id="#cisco" label="#cisco" />
+      <node id="#cloudgenix" label="#cloudgenix" />
+      <node id="#fortinet" label="#fortinet" />
+      <node id="#silverpeak" label="#silverpeak" />
+      <node id="#digtialtransformation" label="#digtialtransformation" />
+      <node id="#digitalworkflows" label="#digitalworkflows" />
+      <node id="#investing" label="#investing" />
+      <node id="#construction" label="#construction" />
+      <node id="#3d" label="#3d" />
+      <node id="#composability" label="#composability" />
+      <node id="#saas" label="#saas" />
+      <node id="#spu" label="#spu" />
+      <node id="#applemusic" label="#applemusic" />
+      <node id="#ex" label="#ex" />
+      <node id="#cx" label="#cx" />
+      <node id="#tedlexa" label="#tedlexa" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#remotelearning" label="#remotelearning" />
+      <node id="#musthave" label="#musthave" />
+      <node id="#crm" label="#crm" />
+      <node id="#collaborativewhiteboards" label="#collaborativewhiteboards" />
+      <node id="#filesharing" label="#filesharing" />
+      <node id="#digitalwhiteboards" label="#digitalwhiteboards" />
+      <node id="#spacecraft" label="#spacecraft" />
+      <node id="#appmirgation" label="#appmirgation" />
+      <node id="#panzurastorage" label="#panzurastorage" />
+      <node id="#paymentprocessing" label="#paymentprocessing" />
+      <node id="#disease" label="#disease" />
+      <node id="#communication" label="#communication" />
+      <node id="#governanceriskcompliance" label="#governanceriskcompliance" />
+      <node id="#datasecurity" label="#datasecurity" />
+      <node id="#digitalrisk" label="#digitalrisk" />
+      <node id="#digitalworkboards" label="#digitalworkboards" />
+      <node id="#processautomation" label="#processautomation" />
+      <node id="#space" label="#space" />
+      <node id="#tco" label="#tco" />
+      <node id="#creditcard" label="#creditcard" />
+      <node id="#tbr" label="#tbr" />
+      <node id="#thealchemyofus" label="#thealchemyofus" />
+      <node id="#tools" label="#tools" />
+      <node id="#techmanagement" label="#techmanagement" />
+      <node id="#property" label="#property" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#augmentedreality" label="#augmentedreality" />
+      <node id="#homeworking" label="#homeworking" />
+      <node id="#wearables" label="#wearables" />
+      <node id="#solar" label="#solar" />
+      <node id="#candleday" label="#candleday" />
+      <node id="#bathbodyworks" label="#bathbodyworks" />
+      <node id="#users" label="#users" />
+      <node id="#remoteworking" label="#remoteworking" />
+      <node id="#analyst" label="#analyst" />
+      <node id="#fleetops" label="#fleetops" />
+      <node id="#biden" label="#biden" />
+      <node id="#climate" label="#climate" />
+      <node id="#energy" label="#energy" />
+      <node id="#cloudnative" label="#cloudnative" />
+      <node id="#database" label="#database" />
+      <node id="#dbaas" label="#dbaas" />
+      <node id="#googlehome5" label="#googlehome5" />
+      <node id="#smarthome" label="#smarthome" />
+      <node id="#applications" label="#applications" />
+      <node id="#deepfake" label="#deepfake" />
+      <node id="#2021predictions" label="#2021predictions" />
+      <node id="#valuestreamamanagement" label="#valuestreamamanagement" />
+      <node id="#insiderthreat" label="#insiderthreat" />
+      <node id="#uber" label="#uber" />
+      <node id="#postmates" label="#postmates" />
+      <node id="#success" label="#success" />
+      <node id="#employers" label="#employers" />
+      <node id="#benefits" label="#benefits" />
+      <node id="#macbookair" label="#macbookair" />
+      <node id="#surfaceduo" label="#surfaceduo" />
+    </nodes>
+    <edges>
+      <edge source="#microsoft" target="#google" id="0" weight="5" />
+      <edge source="#microsoft" target="#windows" id="1" weight="3" />
+      <edge source="#microsoft" target="#windows10" id="2" weight="5" />
+      <edge source="#microsoft" target="#azure" id="3" weight="5" />
+      <edge source="#microsoft" target="#aws" id="4" weight="4" />
+      <edge source="#microsoft" target="#cloudapps" id="5" weight="2" />
+      <edge source="#microsoft" target="#s3" id="6" weight="1" />
+      <edge source="#microsoft" target="#wasabi" id="7" weight="1" />
+      <edge source="#microsoft" target="#zadara" id="8" weight="1" />
+      <edge source="#microsoft" target="#ibm" id="9" weight="1" />
+      <edge source="#microsoft" target="#oracle" id="10" weight="1" />
+      <edge source="#microsoft" target="#alibaba" id="11" weight="1" />
+      <edge source="#microsoft" target="#technology" id="12" weight="1" />
+      <edge source="#microsoft" target="#paas" id="13" weight="1" />
+      <edge source="#microsoft" target="#cloud" id="14" weight="3" />
+      <edge source="#microsoft" target="#ces" id="15" weight="1" />
+      <edge source="#microsoft" target="#migration" id="16" weight="1" />
+      <edge source="#microsoft" target="#developers" id="17" weight="1" />
+      <edge source="#microsoft" target="#cloudcomputing" id="18" weight="1" />
+      <edge source="#microsoft" target="#tco" id="19" weight="1" />
+      <edge source="#google" target="#googleplaymusic" id="20" weight="1" />
+      <edge source="#google" target="#business" id="21" weight="1" />
+      <edge source="#google" target="#s3" id="22" weight="1" />
+      <edge source="#google" target="#azure" id="23" weight="1" />
+      <edge source="#google" target="#wasabi" id="24" weight="1" />
+      <edge source="#google" target="#zadara" id="25" weight="1" />
+      <edge source="#google" target="#ibm" id="26" weight="1" />
+      <edge source="#google" target="#oracle" id="27" weight="1" />
+      <edge source="#google" target="#alibaba" id="28" weight="1" />
+      <edge source="#google" target="#collaboration" id="29" weight="1" />
+      <edge source="#google" target="#apple" id="30" weight="1" />
+      <edge source="#google" target="#photos" id="31" weight="1" />
+      <edge source="#devops" target="#devsecops" id="32" weight="14" />
+      <edge source="#devops" target="#softwaredevelopment" id="33" weight="17" />
+      <edge source="#devops" target="#cicd" id="34" weight="4" />
+      <edge source="#devops" target="#value" id="35" weight="2" />
+      <edge source="#devops" target="#technology" id="36" weight="1" />
+      <edge source="#devops" target="#development" id="37" weight="2" />
+      <edge source="#devops" target="#operations" id="38" weight="3" />
+      <edge source="#devops" target="#visibility" id="39" weight="7" />
+      <edge source="#devops" target="#vendors" id="40" weight="1" />
+      <edge source="#devops" target="#valuestreammanagement" id="41" weight="14" />
+      <edge source="#devops" target="#valuestreammeasurement" id="42" weight="2" />
+      <edge source="#devops" target="#dora" id="43" weight="2" />
+      <edge source="#devops" target="#digitaltransformation" id="44" weight="2" />
+      <edge source="#devops" target="#vsm" id="45" weight="14" />
+      <edge source="#devops" target="#valuestream" id="46" weight="4" />
+      <edge source="#devops" target="#iot" id="47" weight="2" />
+      <edge source="#devops" target="#cloud" id="48" weight="2" />
+      <edge source="#devops" target="#ai" id="49" weight="5" />
+      <edge source="#devops" target="#developers" id="50" weight="6" />
+      <edge source="#devops" target="#aiops" id="51" weight="2" />
+      <edge source="#devops" target="#ops" id="52" weight="1" />
+      <edge source="#devops" target="#it" id="53" weight="1" />
+      <edge source="#devops" target="#enterpriseoperations" id="54" weight="1" />
+      <edge source="#devops" target="#itautomation" id="55" weight="1" />
+      <edge source="#devops" target="#softwaredeveopment" id="56" weight="1" />
+      <edge source="#devops" target="#failfast" id="57" weight="1" />
+      <edge source="#devops" target="#explainer" id="58" weight="1" />
+      <edge source="#devops" target="#emergingtech" id="59" weight="2" />
+      <edge source="#devops" target="#voicesininnovation" id="60" weight="1" />
+      <edge source="#devops" target="#agile" id="61" weight="4" />
+      <edge source="#devops" target="#agiledevelopment" id="62" weight="1" />
+      <edge source="#devops" target="#developercommunity" id="63" weight="1" />
+      <edge source="#devops" target="#enterpriseit" id="64" weight="1" />
+      <edge source="#devops" target="#cio" id="65" weight="2" />
+      <edge source="#devops" target="#devcommunity" id="66" weight="3" />
+      <edge source="#devops" target="#appdev" id="67" weight="2" />
+      <edge source="#devops" target="#programming" id="68" weight="1" />
+      <edge source="#devops" target="#itoperations" id="69" weight="1" />
+      <edge source="#devops" target="#automation" id="70" weight="2" />
+      <edge source="#devops" target="#cybersecurity" id="71" weight="1" />
+      <edge source="#devops" target="#enterprisesecurity" id="72" weight="1" />
+      <edge source="#devops" target="#devops" id="73" weight="1" />
+      <edge source="#devops" target="#emergingtechnologies" id="74" weight="1" />
+      <edge source="#devops" target="#data" id="75" weight="1" />
+      <edge source="#devops" target="#analytics" id="76" weight="1" />
+      <edge source="#devops" target="#ml" id="77" weight="2" />
+      <edge source="#devops" target="#securityandrisk" id="78" weight="1" />
+      <edge source="#devops" target="#edge" id="79" weight="1" />
+      <edge source="#devops" target="#projectmanagement" id="80" weight="1" />
+      <edge source="#devops" target="#code" id="81" weight="2" />
+      <edge source="#devops" target="#finastra" id="82" weight="1" />
+      <edge source="#devops" target="#splunk" id="83" weight="1" />
+      <edge source="#devops" target="#cloudapps" id="84" weight="1" />
+      <edge source="#devops" target="#datastrategy" id="85" weight="1" />
+      <edge source="#devops" target="#finance" id="86" weight="1" />
+      <edge source="#devops" target="#enterprise" id="87" weight="1" />
+      <edge source="#devops" target="#developer" id="88" weight="2" />
+      <edge source="#devops" target="#techpodcast" id="89" weight="1" />
+      <edge source="#devops" target="#observability" id="90" weight="1" />
+      <edge source="#devops" target="#fleetops" id="91" weight="1" />
+      <edge source="#devops" target="#security" id="92" weight="1" />
+      <edge source="#devops" target="#software" id="93" weight="1" />
+      <edge source="#devsecops" target="#softwaredevelopment" id="94" weight="8" />
+      <edge source="#devsecops" target="#vendors" id="95" weight="1" />
+      <edge source="#devsecops" target="#vsm" id="96" weight="3" />
+      <edge source="#devsecops" target="#valuestream" id="97" weight="1" />
+      <edge source="#devsecops" target="#valuestreammanagement" id="98" weight="3" />
+      <edge source="#devsecops" target="#devsecops" id="99" weight="2" />
+      <edge source="#devsecops" target="#developers" id="100" weight="4" />
+      <edge source="#devsecops" target="#itoperations" id="101" weight="1" />
+      <edge source="#devsecops" target="#keycriteria" id="102" weight="1" />
+      <edge source="#devsecops" target="#agile" id="103" weight="1" />
+      <edge source="#devsecops" target="#security" id="104" weight="1" />
+      <edge source="#softwaredevelopment" target="#technology" id="105" weight="1" />
+      <edge source="#softwaredevelopment" target="#development" id="106" weight="1" />
+      <edge source="#softwaredevelopment" target="#operations" id="107" weight="1" />
+      <edge source="#softwaredevelopment" target="#visibility" id="108" weight="3" />
+      <edge source="#softwaredevelopment" target="#valuestreammanagement" id="109" weight="3" />
+      <edge source="#softwaredevelopment" target="#vsm" id="110" weight="3" />
+      <edge source="#softwaredevelopment" target="#itoperations" id="111" weight="1" />
+      <edge source="#softwaredevelopment" target="#agile" id="112" weight="2" />
+      <edge source="#softwaredevelopment" target="#automation" id="113" weight="1" />
+      <edge source="#softwaredevelopment" target="#ai" id="114" weight="1" />
+      <edge source="#softwaredevelopment" target="#ml" id="115" weight="1" />
+      <edge source="#softwaredevelopment" target="#code" id="116" weight="1" />
+      <edge source="#softwaredevelopment" target="#finance" id="117" weight="1" />
+      <edge source="#softwaredevelopment" target="#enterprise" id="118" weight="1" />
+      <edge source="#softwaredevelopment" target="#developer" id="119" weight="1" />
+      <edge source="#softwaredevelopment" target="#apps" id="120" weight="1" />
+      <edge source="#softwaredevelopment" target="#cloud" id="121" weight="1" />
+      <edge source="#softwaredevelopment" target="#appmigration" id="122" weight="1" />
+      <edge source="#softwaredevelopment" target="#security" id="123" weight="1" />
+      <edge source="#cicd" target="#value" id="124" weight="1" />
+      <edge source="#cicd" target="#cybersecurity" id="125" weight="1" />
+      <edge source="#cicd" target="#enterprisesecurity" id="126" weight="1" />
+      <edge source="#cicd" target="#techpodcast" id="127" weight="1" />
+      <edge source="#cicd" target="#emergingtech" id="128" weight="1" />
+      <edge source="#value" target="#visibility" id="129" weight="3" />
+      <edge source="#value" target="#valuestreammanagement" id="130" weight="1" />
+      <edge source="#value" target="#vsm" id="131" weight="1" />
+      <edge source="#datacenters" target="#cpu" id="132" weight="1" />
+      <edge source="#datacenters" target="#gpu" id="133" weight="1" />
+      <edge source="#datacenters" target="#datastorage" id="134" weight="2" />
+      <edge source="#datacenters" target="#nvmeof" id="135" weight="1" />
+      <edge source="#datacenters" target="#enterpriseit" id="136" weight="1" />
+      <edge source="#datacenters" target="#multicloud" id="137" weight="1" />
+      <edge source="#datacenters" target="#datamanagement" id="138" weight="3" />
+      <edge source="#datacenters" target="#softwaredefinedstorage" id="139" weight="2" />
+      <edge source="#datacenters" target="#nvme" id="140" weight="1" />
+      <edge source="#datacenters" target="#ssds" id="141" weight="1" />
+      <edge source="#datacenters" target="#edge" id="142" weight="1" />
+      <edge source="#datacenters" target="#mobile" id="143" weight="1" />
+      <edge source="#datacenters" target="#scaleoutstorage" id="144" weight="2" />
+      <edge source="#datacenters" target="#filestorage" id="145" weight="1" />
+      <edge source="#datacenters" target="#kubernetes" id="146" weight="1" />
+      <edge source="#datacenters" target="#k8s" id="147" weight="1" />
+      <edge source="#datacenters" target="#hci" id="148" weight="1" />
+      <edge source="#datacenters" target="#security" id="149" weight="1" />
+      <edge source="#datacenters" target="#cloud" id="150" weight="3" />
+      <edge source="#datacenters" target="#scaleoutfilestorage" id="151" weight="1" />
+      <edge source="#datacenters" target="#elt" id="152" weight="1" />
+      <edge source="#datacenters" target="#etl" id="153" weight="1" />
+      <edge source="#datacenters" target="#dataanalytics" id="154" weight="2" />
+      <edge source="#datacenters" target="#datatransformation" id="155" weight="1" />
+      <edge source="#datacenters" target="#sds" id="156" weight="1" />
+      <edge source="#datacenters" target="#storage" id="157" weight="2" />
+      <edge source="#datacenters" target="#unstructureddata" id="158" weight="1" />
+      <edge source="#datacenters" target="#machinelearning" id="159" weight="1" />
+      <edge source="#datacenters" target="#ai" id="160" weight="1" />
+      <edge source="#datacenters" target="#bigdata" id="161" weight="1" />
+      <edge source="#datacenters" target="#nonvolatilememory" id="162" weight="1" />
+      <edge source="#cpu" target="#gpu" id="163" weight="1" />
+      <edge source="#cpu" target="#datastorage" id="164" weight="1" />
+      <edge source="#cpu" target="#nvmeof" id="165" weight="1" />
+      <edge source="#gpu" target="#datastorage" id="166" weight="1" />
+      <edge source="#gpu" target="#nvmeof" id="167" weight="1" />
+      <edge source="#datastorage" target="#nvmeof" id="168" weight="1" />
+      <edge source="#datastorage" target="#blockstorage" id="169" weight="3" />
+      <edge source="#datastorage" target="#sfd19" id="170" weight="3" />
+      <edge source="#datastorage" target="#kubernetes" id="171" weight="3" />
+      <edge source="#datastorage" target="#cloudstorage" id="172" weight="3" />
+      <edge source="#datastorage" target="#cloud" id="173" weight="3" />
+      <edge source="#datastorage" target="#datamanagement" id="174" weight="4" />
+      <edge source="#datastorage" target="#data" id="175" weight="3" />
+      <edge source="#datastorage" target="#enterpriseit" id="176" weight="1" />
+      <edge source="#datastorage" target="#nvme" id="177" weight="1" />
+      <edge source="#datastorage" target="#scaleoutfilestorage" id="178" weight="1" />
+      <edge source="#datastorage" target="#hitachivantara" id="179" weight="2" />
+      <edge source="#datastorage" target="#emergingtech" id="180" weight="2" />
+      <edge source="#datastorage" target="#e990" id="181" weight="2" />
+      <edge source="#datastorage" target="#cloudbound" id="182" weight="1" />
+      <edge source="#datastorage" target="#hybridcloud" id="183" weight="2" />
+      <edge source="#datastorage" target="#multicloud" id="184" weight="2" />
+      <edge source="#datastorage" target="#ai" id="185" weight="1" />
+      <edge source="#datastorage" target="#machinelearning" id="186" weight="1" />
+      <edge source="#datastorage" target="#k8s" id="187" weight="1" />
+      <edge source="#datastorage" target="#containers" id="188" weight="1" />
+      <edge source="#datastorage" target="#scaleoutstorage" id="189" weight="1" />
+      <edge source="#datastorage" target="#optane" id="190" weight="1" />
+      <edge source="#datastorage" target="#dataprotection" id="191" weight="1" />
+      <edge source="#datastorage" target="#disasterrecovery" id="192" weight="1" />
+      <edge source="#datastorage" target="#composability" id="193" weight="1" />
+      <edge source="#datastorage" target="#saas" id="194" weight="1" />
+      <edge source="#datastorage" target="#spu" id="195" weight="1" />
+      <edge source="#datastorage" target="#covid19" id="196" weight="1" />
+      <edge source="#datastorage" target="#panzurastorage" id="197" weight="1" />
+      <edge source="#datastorage" target="#filestorage" id="198" weight="1" />
+      <edge source="#datastorage" target="#storage" id="199" weight="1" />
+      <edge source="#technology" target="#blackfriday" id="200" weight="1" />
+      <edge source="#technology" target="#development" id="201" weight="1" />
+      <edge source="#technology" target="#operations" id="202" weight="1" />
+      <edge source="#technology" target="#iot" id="203" weight="1" />
+      <edge source="#technology" target="#virtualassistants" id="204" weight="1" />
+      <edge source="#technology" target="#smarttechnology" id="205" weight="1" />
+      <edge source="#technology" target="#kitchens" id="206" weight="1" />
+      <edge source="#technology" target="#artificialintelligence" id="207" weight="2" />
+      <edge source="#technology" target="#ai" id="208" weight="2" />
+      <edge source="#technology" target="#health" id="209" weight="3" />
+      <edge source="#technology" target="#led" id="210" weight="1" />
+      <edge source="#technology" target="#mario" id="211" weight="1" />
+      <edge source="#technology" target="#it" id="212" weight="4" />
+      <edge source="#technology" target="#buzzwords" id="213" weight="1" />
+      <edge source="#technology" target="#lighting" id="214" weight="1" />
+      <edge source="#technology" target="#software" id="215" weight="1" />
+      <edge source="#technology" target="#enterpriseit" id="216" weight="1" />
+      <edge source="#technology" target="#research" id="217" weight="3" />
+      <edge source="#technology" target="#security" id="218" weight="1" />
+      <edge source="#technology" target="#entrepreneurs" id="219" weight="3" />
+      <edge source="#technology" target="#education" id="220" weight="2" />
+      <edge source="#technology" target="#community" id="221" weight="1" />
+      <edge source="#technology" target="#enterprisetechnology" id="222" weight="1" />
+      <edge source="#technology" target="#enterprise" id="223" weight="3" />
+      <edge source="#technology" target="#instagram" id="224" weight="2" />
+      <edge source="#technology" target="#facebook" id="225" weight="3" />
+      <edge source="#technology" target="#information" id="226" weight="1" />
+      <edge source="#technology" target="#facemask" id="227" weight="2" />
+      <edge source="#technology" target="#gigaomradar" id="228" weight="1" />
+      <edge source="#technology" target="#enterprisesolutions" id="229" weight="1" />
+      <edge source="#technology" target="#stocks" id="230" weight="2" />
+      <edge source="#technology" target="#emergingtech" id="231" weight="2" />
+      <edge source="#technology" target="#screentime" id="232" weight="2" />
+      <edge source="#technology" target="#internetofthings" id="233" weight="1" />
+      <edge source="#technology" target="#healthcare" id="234" weight="2" />
+      <edge source="#technology" target="#gaming" id="235" weight="1" />
+      <edge source="#technology" target="#galaxys21" id="236" weight="1" />
+      <edge source="#technology" target="#smartphones" id="237" weight="1" />
+      <edge source="#technology" target="#upgrade" id="238" weight="1" />
+      <edge source="#technology" target="#fitness" id="239" weight="1" />
+      <edge source="#technology" target="#applewatch" id="240" weight="2" />
+      <edge source="#technology" target="#hack" id="241" weight="1" />
+      <edge source="#technology" target="#healthcareinnovation" id="242" weight="1" />
+      <edge source="#technology" target="#technologicalthinking" id="243" weight="2" />
+      <edge source="#technology" target="#magic" id="244" weight="1" />
+      <edge source="#technology" target="#tech4good" id="245" weight="1" />
+      <edge source="#technology" target="#techintel20" id="246" weight="1" />
+      <edge source="#technology" target="#cybersecurity" id="247" weight="2" />
+      <edge source="#technology" target="#covid19" id="248" weight="2" />
+      <edge source="#technology" target="#business" id="249" weight="1" />
+      <edge source="#technology" target="#cars" id="250" weight="1" />
+      <edge source="#technology" target="#budget" id="251" weight="1" />
+      <edge source="#technology" target="#businessit" id="252" weight="1" />
+      <edge source="#technology" target="#future" id="253" weight="1" />
+      <edge source="#technology" target="#innovation" id="254" weight="3" />
+      <edge source="#technology" target="#ps5" id="255" weight="1" />
+      <edge source="#technology" target="#wfh" id="256" weight="1" />
+      <edge source="#technology" target="#investing" id="257" weight="1" />
+      <edge source="#technology" target="#remotelearning" id="258" weight="1" />
+      <edge source="#technology" target="#musthave" id="259" weight="2" />
+      <edge source="#technology" target="#spacecraft" id="260" weight="1" />
+      <edge source="#technology" target="#sales" id="261" weight="1" />
+      <edge source="#technology" target="#marketing" id="262" weight="1" />
+      <edge source="#technology" target="#disease" id="263" weight="1" />
+      <edge source="#technology" target="#tools" id="264" weight="1" />
+      <edge source="#technology" target="#augmentedreality" id="265" weight="1" />
+      <edge source="#technology" target="#wearables" id="266" weight="1" />
+      <edge source="#technology" target="#gifts" id="267" weight="1" />
+      <edge source="#technology" target="#communication" id="268" weight="1" />
+      <edge source="#technology" target="#surfaceduo" id="269" weight="1" />
+      <edge source="#blackfriday" target="#iphone12" id="270" weight="1" />
+      <edge source="#blackfriday" target="#amazon" id="271" weight="1" />
+      <edge source="#blackfriday" target="#smallbusinesssaturday" id="272" weight="1" />
+      <edge source="#blackfriday" target="#cybermonday" id="273" weight="1" />
+      <edge source="#blackfriday" target="#deals" id="274" weight="1" />
+      <edge source="#development" target="#operations" id="275" weight="1" />
+      <edge source="#development" target="#visibility" id="276" weight="1" />
+      <edge source="#development" target="#observability" id="277" weight="1" />
+      <edge source="#operations" target="#observability" id="278" weight="1" />
+      <edge source="#operations" target="#automating" id="279" weight="1" />
+      <edge source="#operations" target="#aiops" id="280" weight="8" />
+      <edge source="#operations" target="#ai" id="281" weight="7" />
+      <edge source="#operations" target="#ops" id="282" weight="1" />
+      <edge source="#operations" target="#it" id="283" weight="1" />
+      <edge source="#operations" target="#enterpriseoperations" id="284" weight="1" />
+      <edge source="#operations" target="#itops" id="285" weight="1" />
+      <edge source="#operations" target="#ml" id="286" weight="2" />
+      <edge source="#operations" target="#applicationperformancemanagement" id="287" weight="1" />
+      <edge source="#operations" target="#covid" id="288" weight="1" />
+      <edge source="#operations" target="#itoperations" id="289" weight="1" />
+      <edge source="#operations" target="#enterpriseit" id="290" weight="1" />
+      <edge source="#operations" target="#cloud" id="291" weight="1" />
+      <edge source="#operations" target="#automation" id="292" weight="1" />
+      <edge source="#datawarehouse" target="#datatransformation" id="293" weight="2" />
+      <edge source="#datawarehouse" target="#elt" id="294" weight="1" />
+      <edge source="#datawarehouse" target="#etl" id="295" weight="1" />
+      <edge source="#datawarehouse" target="#datalake" id="296" weight="1" />
+      <edge source="#datawarehouse" target="#cloud" id="297" weight="2" />
+      <edge source="#datawarehouse" target="#databases" id="298" weight="1" />
+      <edge source="#datawarehouse" target="#analytics" id="299" weight="1" />
+      <edge source="#datatransformation" target="#elt" id="300" weight="2" />
+      <edge source="#datatransformation" target="#etl" id="301" weight="2" />
+      <edge source="#datatransformation" target="#dataanalysis" id="302" weight="1" />
+      <edge source="#datatransformation" target="#dataanalytics" id="303" weight="3" />
+      <edge source="#datatransformation" target="#data" id="304" weight="1" />
+      <edge source="#datatransformation" target="#datamanagement" id="305" weight="2" />
+      <edge source="#datatransformation" target="#datapipeline" id="306" weight="1" />
+      <edge source="#datatransformation" target="#bigdata" id="307" weight="1" />
+      <edge source="#datatransformation" target="#machinelearning" id="308" weight="1" />
+      <edge source="#digitaltransformation" target="#network" id="309" weight="1" />
+      <edge source="#digitaltransformation" target="#naas" id="310" weight="1" />
+      <edge source="#digitaltransformation" target="#valuestreammanagement" id="311" weight="2" />
+      <edge source="#digitaltransformation" target="#valuestreammeasurement" id="312" weight="2" />
+      <edge source="#digitaltransformation" target="#dora" id="313" weight="2" />
+      <edge source="#digitaltransformation" target="#workflowmanagement" id="314" weight="1" />
+      <edge source="#digitaltransformation" target="#rpa" id="315" weight="1" />
+      <edge source="#digitaltransformation" target="#automation" id="316" weight="1" />
+      <edge source="#digitaltransformation" target="#machinelearning" id="317" weight="1" />
+      <edge source="#digitaltransformation" target="#ai" id="318" weight="1" />
+      <edge source="#network" target="#naas" id="319" weight="1" />
+      <edge source="#network" target="#k8s" id="320" weight="1" />
+      <edge source="#network" target="#kubernetes" id="321" weight="1" />
+      <edge source="#network" target="#containermanagement" id="322" weight="1" />
+      <edge source="#pandemic" target="#branding" id="323" weight="1" />
+      <edge source="#branding" target="#videomarketing" id="324" weight="2" />
+      <edge source="#business" target="#leadership" id="325" weight="1" />
+      <edge source="#business" target="#innovation" id="326" weight="1" />
+      <edge source="#business" target="#motivation" id="327" weight="2" />
+      <edge source="#business" target="#online" id="328" weight="2" />
+      <edge source="#business" target="#aftercovid" id="329" weight="1" />
+      <edge source="#business" target="#it" id="330" weight="1" />
+      <edge source="#business" target="#enterprise" id="331" weight="1" />
+      <edge source="#business" target="#postcovid" id="332" weight="1" />
+      <edge source="#business" target="#digital" id="333" weight="1" />
+      <edge source="#business" target="#workplace" id="334" weight="1" />
+      <edge source="#business" target="#tech" id="335" weight="1" />
+      <edge source="#business" target="#intelligence" id="336" weight="1" />
+      <edge source="#business" target="#covid19" id="337" weight="2" />
+      <edge source="#business" target="#advertising" id="338" weight="1" />
+      <edge source="#business" target="#referrals" id="339" weight="1" />
+      <edge source="#business" target="#startups" id="340" weight="2" />
+      <edge source="#business" target="#supplychain" id="341" weight="1" />
+      <edge source="#business" target="#creditcard" id="342" weight="1" />
+      <edge source="#business" target="#payments" id="343" weight="1" />
+      <edge source="#business" target="#software" id="344" weight="2" />
+      <edge source="#leadership" target="#innovation" id="345" weight="1" />
+      <edge source="#leadership" target="#artificialintelligence" id="346" weight="1" />
+      <edge source="#innovation" target="#enterpriseit" id="347" weight="1" />
+      <edge source="#innovation" target="#it" id="348" weight="1" />
+      <edge source="#innovation" target="#gigaom" id="349" weight="1" />
+      <edge source="#innovation" target="#enterprise" id="350" weight="1" />
+      <edge source="#innovation" target="#technologies" id="351" weight="1" />
+      <edge source="#innovation" target="#digital" id="352" weight="1" />
+      <edge source="#innovation" target="#success" id="353" weight="1" />
+      <edge source="#visibility" target="#valuestreammanagement" id="354" weight="3" />
+      <edge source="#visibility" target="#visibility" id="355" weight="1" />
+      <edge source="#visibility" target="#vsm" id="356" weight="3" />
+      <edge source="#visibility" target="#observability" id="357" weight="1" />
+      <edge source="#iphone12" target="#appleevent" id="358" weight="1" />
+      <edge source="#iphone12" target="#ces2021" id="359" weight="7" />
+      <edge source="#iphone12" target="#durability" id="360" weight="1" />
+      <edge source="#iphone12" target="#apple" id="361" weight="1" />
+      <edge source="#virtual" target="#management" id="362" weight="1" />
+      <edge source="#k8s" target="#kubernetes" id="363" weight="13" />
+      <edge source="#k8s" target="#hybridcloud" id="364" weight="1" />
+      <edge source="#k8s" target="#containers" id="365" weight="6" />
+      <edge source="#k8s" target="#advice" id="366" weight="1" />
+      <edge source="#k8s" target="#deployment" id="367" weight="1" />
+      <edge source="#k8s" target="#federatedk8s" id="368" weight="1" />
+      <edge source="#k8s" target="#hci" id="369" weight="2" />
+      <edge source="#k8s" target="#hyperconvergedinfrastructure" id="370" weight="1" />
+      <edge source="#k8s" target="#storage" id="371" weight="3" />
+      <edge source="#k8s" target="#cloud" id="372" weight="2" />
+      <edge source="#k8s" target="#data_storage" id="373" weight="1" />
+      <edge source="#k8s" target="#datamanagment" id="374" weight="1" />
+      <edge source="#k8s" target="#datamanagement" id="375" weight="2" />
+      <edge source="#k8s" target="#distributedsystems" id="376" weight="1" />
+      <edge source="#k8s" target="#containermanagement" id="377" weight="1" />
+      <edge source="#kubernetes" target="#hybridcloud" id="378" weight="2" />
+      <edge source="#kubernetes" target="#containers" id="379" weight="7" />
+      <edge source="#kubernetes" target="#advice" id="380" weight="1" />
+      <edge source="#kubernetes" target="#deployment" id="381" weight="1" />
+      <edge source="#kubernetes" target="#federatedk8s" id="382" weight="1" />
+      <edge source="#kubernetes" target="#hci" id="383" weight="3" />
+      <edge source="#kubernetes" target="#hyperconvergedinfrastructure" id="384" weight="1" />
+      <edge source="#kubernetes" target="#dataprotection" id="385" weight="3" />
+      <edge source="#kubernetes" target="#cloud" id="386" weight="6" />
+      <edge source="#kubernetes" target="#storage" id="387" weight="6" />
+      <edge source="#kubernetes" target="#data_storage" id="388" weight="1" />
+      <edge source="#kubernetes" target="#datamanagment" id="389" weight="1" />
+      <edge source="#kubernetes" target="#opensource" id="390" weight="3" />
+      <edge source="#kubernetes" target="#webinar" id="391" weight="1" />
+      <edge source="#kubernetes" target="#data" id="392" weight="2" />
+      <edge source="#kubernetes" target="#serveless" id="393" weight="1" />
+      <edge source="#kubernetes" target="#datamanagement" id="394" weight="2" />
+      <edge source="#kubernetes" target="#distributedsystems" id="395" weight="1" />
+      <edge source="#kubernetes" target="#kube" id="396" weight="1" />
+      <edge source="#kubernetes" target="#containermanagement" id="397" weight="1" />
+      <edge source="#kubernetes" target="#servless" id="398" weight="1" />
+      <edge source="#kubernetes" target="#containerization" id="399" weight="1" />
+      <edge source="#kubernetes" target="#microservices" id="400" weight="1" />
+      <edge source="#hybridcloud" target="#datalake" id="401" weight="1" />
+      <edge source="#hybridcloud" target="#datanalaytics" id="402" weight="1" />
+      <edge source="#hybridcloud" target="#dataprotection" id="403" weight="1" />
+      <edge source="#hybridcloud" target="#covid19" id="404" weight="1" />
+      <edge source="#hybridcloud" target="#data" id="405" weight="2" />
+      <edge source="#hybridcloud" target="#multicloud" id="406" weight="1" />
+      <edge source="#iot" target="#edge" id="407" weight="3" />
+      <edge source="#iot" target="#edgecolocation" id="408" weight="4" />
+      <edge source="#iot" target="#5g" id="409" weight="3" />
+      <edge source="#iot" target="#edgecomputing" id="410" weight="4" />
+      <edge source="#iot" target="#cloud" id="411" weight="3" />
+      <edge source="#iot" target="#ai" id="412" weight="3" />
+      <edge source="#iot" target="#datacenter" id="413" weight="2" />
+      <edge source="#iot" target="#mobilecomputing" id="414" weight="1" />
+      <edge source="#iot" target="#mobile" id="415" weight="1" />
+      <edge source="#iot" target="#aiops" id="416" weight="1" />
+      <edge source="#iot" target="#emergingtechnologies" id="417" weight="1" />
+      <edge source="#iot" target="#data" id="418" weight="1" />
+      <edge source="#iot" target="#analytics" id="419" weight="1" />
+      <edge source="#iot" target="#ml" id="420" weight="1" />
+      <edge source="#iot" target="#securityandrisk" id="421" weight="1" />
+      <edge source="#elt" target="#etl" id="422" weight="5" />
+      <edge source="#elt" target="#datalake" id="423" weight="1" />
+      <edge source="#elt" target="#dataanalysis" id="424" weight="1" />
+      <edge source="#elt" target="#dataanalytics" id="425" weight="4" />
+      <edge source="#elt" target="#datapipeline" id="426" weight="1" />
+      <edge source="#elt" target="#datamanagement" id="427" weight="2" />
+      <edge source="#elt" target="#machinelearning" id="428" weight="1" />
+      <edge source="#elt" target="#objectstorage" id="429" weight="1" />
+      <edge source="#etl" target="#datalake" id="430" weight="1" />
+      <edge source="#etl" target="#dataanalysis" id="431" weight="1" />
+      <edge source="#etl" target="#dataanalytics" id="432" weight="2" />
+      <edge source="#etl" target="#datapipeline" id="433" weight="1" />
+      <edge source="#etl" target="#datamanagement" id="434" weight="2" />
+      <edge source="#etl" target="#machinelearning" id="435" weight="1" />
+      <edge source="#etl" target="#objectstorage" id="436" weight="1" />
+      <edge source="#datalake" target="#datanalaytics" id="437" weight="1" />
+      <edge source="#datalake" target="#machinelearning" id="438" weight="1" />
+      <edge source="#datalake" target="#analytics" id="439" weight="1" />
+      <edge source="#datalake" target="#cloud" id="440" weight="2" />
+      <edge source="#datalake" target="#ml" id="441" weight="1" />
+      <edge source="#enterpriseit" target="#it" id="442" weight="1" />
+      <edge source="#enterpriseit" target="#workspaces" id="443" weight="1" />
+      <edge source="#enterpriseit" target="#networkobservability" id="444" weight="1" />
+      <edge source="#enterpriseit" target="#ai" id="445" weight="3" />
+      <edge source="#enterpriseit" target="#rpa" id="446" weight="2" />
+      <edge source="#enterpriseit" target="#automation" id="447" weight="2" />
+      <edge source="#enterpriseit" target="#research" id="448" weight="5" />
+      <edge source="#enterpriseit" target="#vdi" id="449" weight="1" />
+      <edge source="#enterpriseit" target="#wfh" id="450" weight="1" />
+      <edge source="#enterpriseit" target="#workingfromhome" id="451" weight="1" />
+      <edge source="#enterpriseit" target="#roboticprocessautomation" id="452" weight="1" />
+      <edge source="#enterpriseit" target="#newsletter" id="453" weight="2" />
+      <edge source="#enterpriseit" target="#nvme" id="454" weight="1" />
+      <edge source="#enterpriseit" target="#enterprise" id="455" weight="1" />
+      <edge source="#enterpriseit" target="#phishing" id="456" weight="1" />
+      <edge source="#enterpriseit" target="#security" id="457" weight="1" />
+      <edge source="#enterpriseit" target="#itcontracts" id="458" weight="1" />
+      <edge source="#enterpriseit" target="#technologyresearch" id="459" weight="1" />
+      <edge source="#enterpriseit" target="#podcast" id="460" weight="1" />
+      <edge source="#enterpriseit" target="#aiops" id="461" weight="1" />
+      <edge source="#enterpriseit" target="#enterprisetechnology" id="462" weight="1" />
+      <edge source="#enterpriseit" target="#predictions" id="463" weight="1" />
+      <edge source="#it" target="#buzzwords" id="464" weight="1" />
+      <edge source="#it" target="#aftercovid" id="465" weight="1" />
+      <edge source="#it" target="#enterprise" id="466" weight="4" />
+      <edge source="#it" target="#postcovid" id="467" weight="1" />
+      <edge source="#it" target="#community" id="468" weight="1" />
+      <edge source="#it" target="#enterprisetechnology" id="469" weight="1" />
+      <edge source="#it" target="#aiops" id="470" weight="2" />
+      <edge source="#it" target="#enterpriseoperations" id="471" weight="1" />
+      <edge source="#it" target="#emergingtech" id="472" weight="2" />
+      <edge source="#it" target="#workspaces" id="473" weight="1" />
+      <edge source="#it" target="#tech" id="474" weight="1" />
+      <edge source="#it" target="#research" id="475" weight="1" />
+      <edge source="#it" target="#predictions" id="476" weight="1" />
+      <edge source="#it" target="#wfh" id="477" weight="1" />
+      <edge source="#it" target="#analyst" id="478" weight="1" />
+      <edge source="#it" target="#machinelearning" id="479" weight="1" />
+      <edge source="#it" target="#ai" id="480" weight="1" />
+      <edge source="#it" target="#itops" id="481" weight="1" />
+      <edge source="#ad" target="#wiredhq" id="482" weight="2" />
+      <edge source="#wiredhq" target="#ces" id="483" weight="5" />
+      <edge source="#wiredhq" target="#wiredhq" id="484" weight="1" />
+      <edge source="#workspaces" target="#enterprise" id="485" weight="1" />
+      <edge source="#workspaces" target="#workboards" id="486" weight="4" />
+      <edge source="#workspaces" target="#collaboration" id="487" weight="3" />
+      <edge source="#workspaces" target="#wfh" id="488" weight="3" />
+      <edge source="#workspaces" target="#work" id="489" weight="2" />
+      <edge source="#workspaces" target="#covid19" id="490" weight="1" />
+      <edge source="#workspaces" target="#whiteboards" id="491" weight="1" />
+      <edge source="#workspaces" target="#digitalwhiteboards" id="492" weight="1" />
+      <edge source="#workspaces" target="#digitalworkboards" id="493" weight="1" />
+      <edge source="#windows" target="#updates" id="494" weight="2" />
+      <edge source="#cloud" target="#sql" id="495" weight="1" />
+      <edge source="#cloud" target="#migration" id="496" weight="4" />
+      <edge source="#cloud" target="#azure" id="497" weight="5" />
+      <edge source="#cloud" target="#aws" id="498" weight="7" />
+      <edge source="#cloud" target="#vmware" id="499" weight="1" />
+      <edge source="#cloud" target="#datanalaytics" id="500" weight="1" />
+      <edge source="#cloud" target="#operationaldatabase" id="501" weight="1" />
+      <edge source="#cloud" target="#developers" id="502" weight="1" />
+      <edge source="#cloud" target="#ec2" id="503" weight="1" />
+      <edge source="#cloud" target="#iaas" id="504" weight="1" />
+      <edge source="#cloud" target="#provisioning" id="505" weight="1" />
+      <edge source="#cloud" target="#usage" id="506" weight="1" />
+      <edge source="#cloud" target="#apps" id="507" weight="3" />
+      <edge source="#cloud" target="#netapps" id="508" weight="1" />
+      <edge source="#cloud" target="#appmigration" id="509" weight="3" />
+      <edge source="#cloud" target="#cloudmigration" id="510" weight="2" />
+      <edge source="#cloud" target="#datapipeline" id="511" weight="1" />
+      <edge source="#cloud" target="#data" id="512" weight="5" />
+      <edge source="#cloud" target="#ai" id="513" weight="6" />
+      <edge source="#cloud" target="#serverless" id="514" weight="1" />
+      <edge source="#cloud" target="#cloudcomputing" id="515" weight="1" />
+      <edge source="#cloud" target="#cloudstorage" id="516" weight="1" />
+      <edge source="#cloud" target="#datamanagement" id="517" weight="3" />
+      <edge source="#cloud" target="#machinelearning" id="518" weight="2" />
+      <edge source="#cloud" target="#analytics" id="519" weight="2" />
+      <edge source="#cloud" target="#ml" id="520" weight="3" />
+      <edge source="#cloud" target="#dataprotection" id="521" weight="2" />
+      <edge source="#cloud" target="#storage" id="522" weight="7" />
+      <edge source="#cloud" target="#containers" id="523" weight="2" />
+      <edge source="#cloud" target="#hyperdistribution" id="524" weight="1" />
+      <edge source="#cloud" target="#edgecomputing" id="525" weight="2" />
+      <edge source="#cloud" target="#multicloud" id="526" weight="3" />
+      <edge source="#cloud" target="#onpremises" id="527" weight="1" />
+      <edge source="#cloud" target="#cloudapps" id="528" weight="1" />
+      <edge source="#cloud" target="#developer" id="529" weight="1" />
+      <edge source="#cloud" target="#aiops" id="530" weight="3" />
+      <edge source="#cloud" target="#bigdata" id="531" weight="2" />
+      <edge source="#cloud" target="#dataanalytics" id="532" weight="2" />
+      <edge source="#cloud" target="#opensource" id="533" weight="1" />
+      <edge source="#cloud" target="#webinar" id="534" weight="1" />
+      <edge source="#cloud" target="#security" id="535" weight="2" />
+      <edge source="#cloud" target="#centralization" id="536" weight="1" />
+      <edge source="#cloud" target="#consolidation" id="537" weight="1" />
+      <edge source="#cloud" target="#grc" id="538" weight="2" />
+      <edge source="#cloud" target="#paas" id="539" weight="1" />
+      <edge source="#cloud" target="#clouddatabase" id="540" weight="1" />
+      <edge source="#cloud" target="#cloudinfrastructure" id="541" weight="1" />
+      <edge source="#cloud" target="#emergingtechnologies" id="542" weight="1" />
+      <edge source="#cloud" target="#securityandrisk" id="543" weight="1" />
+      <edge source="#cloud" target="#edge" id="544" weight="1" />
+      <edge source="#cloud" target="#automation" id="545" weight="1" />
+      <edge source="#cloud" target="#unstructureddata" id="546" weight="1" />
+      <edge source="#cloud" target="#composability" id="547" weight="1" />
+      <edge source="#cloud" target="#saas" id="548" weight="1" />
+      <edge source="#cloud" target="#spu" id="549" weight="1" />
+      <edge source="#cloud" target="#appmirgation" id="550" weight="1" />
+      <edge source="#cloud" target="#cloudnative" id="551" weight="1" />
+      <edge source="#cloud" target="#database" id="552" weight="1" />
+      <edge source="#cloud" target="#dbaas" id="553" weight="1" />
+      <edge source="#cloud" target="#applications" id="554" weight="1" />
+      <edge source="#cloud" target="#objectstorage" id="555" weight="1" />
+      <edge source="#cloud" target="#covid19" id="556" weight="1" />
+      <edge source="#apple" target="#appstore" id="557" weight="3" />
+      <edge source="#apple" target="#privacy" id="558" weight="1" />
+      <edge source="#apple" target="#macs" id="559" weight="2" />
+      <edge source="#apple" target="#airpods" id="560" weight="2" />
+      <edge source="#apple" target="#airpodspro" id="561" weight="1" />
+      <edge source="#apple" target="#fitness" id="562" weight="1" />
+      <edge source="#apple" target="#macbook" id="563" weight="1" />
+      <edge source="#apple" target="#itunes" id="564" weight="1" />
+      <edge source="#apple" target="#emoji" id="565" weight="1" />
+      <edge source="#apple" target="#iphone" id="566" weight="1" />
+      <edge source="#apple" target="#covid19" id="567" weight="1" />
+      <edge source="#apple" target="#applemusic" id="568" weight="1" />
+      <edge source="#apple" target="#apps" id="569" weight="1" />
+      <edge source="#apple" target="#macbookair" id="570" weight="1" />
+      <edge source="#online" target="#internet" id="571" weight="1" />
+      <edge source="#online" target="#covid19" id="572" weight="1" />
+      <edge source="#election2020" target="#elections2020" id="573" weight="7" />
+      <edge source="#election2020" target="#electionresults2020" id="574" weight="2" />
+      <edge source="#election2020" target="#uselection2020" id="575" weight="2" />
+      <edge source="#election2020" target="#electionday" id="576" weight="4" />
+      <edge source="#election2020" target="#usaelection2020" id="577" weight="1" />
+      <edge source="#elections2020" target="#electionresults2020" id="578" weight="2" />
+      <edge source="#elections2020" target="#uselection2020" id="579" weight="2" />
+      <edge source="#elections2020" target="#usaelection2020" id="580" weight="1" />
+      <edge source="#rpa" target="#automation" id="581" weight="7" />
+      <edge source="#rpa" target="#nocode" id="582" weight="1" />
+      <edge source="#rpa" target="#lowcode" id="583" weight="2" />
+      <edge source="#rpa" target="#enterprise" id="584" weight="1" />
+      <edge source="#rpa" target="#intelligentautomation" id="585" weight="1" />
+      <edge source="#rpa" target="#roboticprocessautomation" id="586" weight="3" />
+      <edge source="#rpa" target="#futureofwork" id="587" weight="1" />
+      <edge source="#rpa" target="#ai" id="588" weight="3" />
+      <edge source="#rpa" target="#chatbots" id="589" weight="1" />
+      <edge source="#rpa" target="#ipaas" id="590" weight="2" />
+      <edge source="#rpa" target="#ml" id="591" weight="1" />
+      <edge source="#rpa" target="#machinelearning" id="592" weight="1" />
+      <edge source="#automation" target="#datacentre" id="593" weight="1" />
+      <edge source="#automation" target="#enterprise" id="594" weight="2" />
+      <edge source="#automation" target="#intelligentautomation" id="595" weight="1" />
+      <edge source="#automation" target="#workflow" id="596" weight="1" />
+      <edge source="#automation" target="#marketing" id="597" weight="2" />
+      <edge source="#automation" target="#roboticprocessautomation" id="598" weight="1" />
+      <edge source="#automation" target="#futureofwork" id="599" weight="1" />
+      <edge source="#automation" target="#ai" id="600" weight="9" />
+      <edge source="#automation" target="#chatbots" id="601" weight="1" />
+      <edge source="#automation" target="#ipaas" id="602" weight="1" />
+      <edge source="#automation" target="#aiops" id="603" weight="3" />
+      <edge source="#automation" target="#itops" id="604" weight="2" />
+      <edge source="#automation" target="#machinelearning" id="605" weight="2" />
+      <edge source="#automation" target="#ml" id="606" weight="2" />
+      <edge source="#automation" target="#podcast" id="607" weight="1" />
+      <edge source="#automation" target="#code" id="608" weight="1" />
+      <edge source="#automation" target="#developers" id="609" weight="1" />
+      <edge source="#automation" target="#workflows" id="610" weight="1" />
+      <edge source="#automation" target="#opensource" id="611" weight="1" />
+      <edge source="#automation" target="#processautomation" id="612" weight="1" />
+      <edge source="#virtualassistants" target="#smarttechnology" id="613" weight="1" />
+      <edge source="#privacy" target="#cybersecurity" id="614" weight="1" />
+      <edge source="#observability" target="#automating" id="615" weight="1" />
+      <edge source="#workflow" target="#productivity" id="616" weight="2" />
+      <edge source="#workflow" target="#socialmedia" id="617" weight="1" />
+      <edge source="#productivity" target="#inspiration" id="618" weight="2" />
+      <edge source="#containers" target="#advice" id="619" weight="1" />
+      <edge source="#containers" target="#deployment" id="620" weight="1" />
+      <edge source="#containers" target="#storage" id="621" weight="2" />
+      <edge source="#containers" target="#datamanagement" id="622" weight="2" />
+      <edge source="#containers" target="#distributedsystems" id="623" weight="1" />
+      <edge source="#containers" target="#containerization" id="624" weight="1" />
+      <edge source="#containers" target="#microservices" id="625" weight="1" />
+      <edge source="#advice" target="#deployment" id="626" weight="1" />
+      <edge source="#raspberrypi" target="#pico" id="627" weight="6" />
+      <edge source="#raspberrypi" target="#chip" id="628" weight="6" />
+      <edge source="#pico" target="#chip" id="629" weight="6" />
+      <edge source="#lowcode" target="#nocode" id="630" weight="2" />
+      <edge source="#lowcode" target="#workforcemanagement" id="631" weight="1" />
+      <edge source="#lowcode" target="#workmanagement" id="632" weight="1" />
+      <edge source="#lowcode" target="#ipaas" id="633" weight="1" />
+      <edge source="#nocode" target="#workforcemanagement" id="634" weight="1" />
+      <edge source="#nocode" target="#workmanagement" id="635" weight="1" />
+      <edge source="#workforcemanagement" target="#workmanagement" id="636" weight="1" />
+      <edge source="#workmanagement" target="#microsoftteams" id="637" weight="1" />
+      <edge source="#workmanagement" target="#microsoft365" id="638" weight="1" />
+      <edge source="#workmanagement" target="#taskmanagement" id="639" weight="1" />
+      <edge source="#workmanagement" target="#wunderlist" id="640" weight="1" />
+      <edge source="#unstructureddata" target="#datamanagement" id="641" weight="7" />
+      <edge source="#unstructureddata" target="#datalakes" id="642" weight="1" />
+      <edge source="#unstructureddata" target="#workloads" id="643" weight="1" />
+      <edge source="#unstructureddata" target="#storage" id="644" weight="2" />
+      <edge source="#unstructureddata" target="#data" id="645" weight="2" />
+      <edge source="#unstructureddata" target="#datagovernance" id="646" weight="1" />
+      <edge source="#unstructureddata" target="#dataanalytics" id="647" weight="1" />
+      <edge source="#datamanagement" target="#datalakes" id="648" weight="1" />
+      <edge source="#datamanagement" target="#datapreparation" id="649" weight="1" />
+      <edge source="#datamanagement" target="#unstructureddatamanagement" id="650" weight="2" />
+      <edge source="#datamanagement" target="#multicloud" id="651" weight="1" />
+      <edge source="#datamanagement" target="#cloudstorage" id="652" weight="2" />
+      <edge source="#datamanagement" target="#data" id="653" weight="3" />
+      <edge source="#datamanagement" target="#distributedsystems" id="654" weight="1" />
+      <edge source="#datamanagement" target="#clouddatabase" id="655" weight="1" />
+      <edge source="#datamanagement" target="#workloads" id="656" weight="1" />
+      <edge source="#datamanagement" target="#storage" id="657" weight="3" />
+      <edge source="#datamanagement" target="#datapipeline" id="658" weight="1" />
+      <edge source="#datamanagement" target="#dataanalytics" id="659" weight="2" />
+      <edge source="#datamanagement" target="#cloudbound" id="660" weight="1" />
+      <edge source="#datamanagement" target="#cfd7" id="661" weight="1" />
+      <edge source="#datamanagement" target="#appmarketplace" id="662" weight="1" />
+      <edge source="#datamanagement" target="#datagovernance" id="663" weight="1" />
+      <edge source="#datamanagement" target="#datascience" id="664" weight="1" />
+      <edge source="#datamanagement" target="#filestorage" id="665" weight="2" />
+      <edge source="#datalakes" target="#multicloud" id="666" weight="1" />
+      <edge source="#datalakes" target="#cloudstorage" id="667" weight="1" />
+      <edge source="#datalakes" target="#datamangement" id="668" weight="1" />
+      <edge source="#datalakes" target="#datacenter" id="669" weight="1" />
+      <edge source="#recruitment" target="#tips" id="670" weight="1" />
+      <edge source="#tips" target="#money" id="671" weight="1" />
+      <edge source="#finances" target="#cryptocurrency" id="672" weight="2" />
+      <edge source="#finances" target="#creditcards" id="673" weight="1" />
+      <edge source="#finances" target="#paymentprocessing" id="674" weight="1" />
+      <edge source="#cryptocurrency" target="#bitcoin" id="675" weight="1" />
+      <edge source="#cryptocurrency" target="#blockchain" id="676" weight="1" />
+      <edge source="#workloads" target="#devcommunity" id="677" weight="2" />
+      <edge source="#workloads" target="#softwaredev" id="678" weight="2" />
+      <edge source="#workloads" target="#storage" id="679" weight="1" />
+      <edge source="#devcommunity" target="#softwaredev" id="680" weight="2" />
+      <edge source="#devcommunity" target="#cio" id="681" weight="2" />
+      <edge source="#devcommunity" target="#vsm" id="682" weight="1" />
+      <edge source="#devcommunity" target="#valuestream" id="683" weight="1" />
+      <edge source="#devcommunity" target="#valuestreammanagement" id="684" weight="1" />
+      <edge source="#colocation" target="#5g" id="685" weight="1" />
+      <edge source="#colocation" target="#datacenter" id="686" weight="1" />
+      <edge source="#colocation" target="#colo" id="687" weight="1" />
+      <edge source="#colocation" target="#edge" id="688" weight="2" />
+      <edge source="#colocation" target="#mobile" id="689" weight="2" />
+      <edge source="#colocation" target="#edgecolocation" id="690" weight="1" />
+      <edge source="#5g" target="#datacenter" id="691" weight="3" />
+      <edge source="#5g" target="#colo" id="692" weight="1" />
+      <edge source="#5g" target="#edge" id="693" weight="2" />
+      <edge source="#5g" target="#edgecolocation" id="694" weight="4" />
+      <edge source="#5g" target="#edgecomputing" id="695" weight="2" />
+      <edge source="#5g" target="#latency" id="696" weight="1" />
+      <edge source="#5g" target="#datatransfer" id="697" weight="1" />
+      <edge source="#datacenter" target="#colo" id="698" weight="1" />
+      <edge source="#datacenter" target="#multicloud" id="699" weight="2" />
+      <edge source="#datacenter" target="#cloudstorage" id="700" weight="2" />
+      <edge source="#datacenter" target="#datamangement" id="701" weight="2" />
+      <edge source="#datacenter" target="#scaleout" id="702" weight="1" />
+      <edge source="#datacenter" target="#edgecolocation" id="703" weight="2" />
+      <edge source="#datacenter" target="#networking" id="704" weight="1" />
+      <edge source="#datacenter" target="#edgecomputing" id="705" weight="1" />
+      <edge source="#cybermonday" target="#freebiealert" id="706" weight="1" />
+      <edge source="#cybermonday" target="#smallbusinesssaturday" id="707" weight="1" />
+      <edge source="#jeopardy" target="#trebek" id="708" weight="2" />
+      <edge source="#migration" target="#azure" id="709" weight="2" />
+      <edge source="#migration" target="#aws" id="710" weight="2" />
+      <edge source="#migration" target="#vmware" id="711" weight="1" />
+      <edge source="#migration" target="#cloudmigration" id="712" weight="1" />
+      <edge source="#migration" target="#cloudapps" id="713" weight="2" />
+      <edge source="#migration" target="#apps" id="714" weight="1" />
+      <edge source="#migration" target="#developers" id="715" weight="1" />
+      <edge source="#migration" target="#cloudcomputing" id="716" weight="1" />
+      <edge source="#migration" target="#tco" id="717" weight="1" />
+      <edge source="#migration" target="#applications" id="718" weight="1" />
+      <edge source="#azure" target="#aws" id="719" weight="8" />
+      <edge source="#azure" target="#vmware" id="720" weight="1" />
+      <edge source="#azure" target="#cloudmigration" id="721" weight="2" />
+      <edge source="#azure" target="#onpremises" id="722" weight="1" />
+      <edge source="#azure" target="#cloudapps" id="723" weight="3" />
+      <edge source="#azure" target="#developer" id="724" weight="1" />
+      <edge source="#azure" target="#s3" id="725" weight="1" />
+      <edge source="#azure" target="#wasabi" id="726" weight="1" />
+      <edge source="#azure" target="#zadara" id="727" weight="1" />
+      <edge source="#azure" target="#ibm" id="728" weight="1" />
+      <edge source="#azure" target="#oracle" id="729" weight="1" />
+      <edge source="#azure" target="#alibaba" id="730" weight="1" />
+      <edge source="#azure" target="#paas" id="731" weight="1" />
+      <edge source="#azure" target="#datagovernance" id="732" weight="1" />
+      <edge source="#azure" target="#datacatalog" id="733" weight="1" />
+      <edge source="#azure" target="#alation" id="734" weight="1" />
+      <edge source="#aws" target="#vmware" id="735" weight="1" />
+      <edge source="#aws" target="#ec2" id="736" weight="1" />
+      <edge source="#aws" target="#iaas" id="737" weight="1" />
+      <edge source="#aws" target="#provisioning" id="738" weight="1" />
+      <edge source="#aws" target="#usage" id="739" weight="1" />
+      <edge source="#aws" target="#cloudmigration" id="740" weight="2" />
+      <edge source="#aws" target="#onpremises" id="741" weight="1" />
+      <edge source="#aws" target="#cloudapps" id="742" weight="3" />
+      <edge source="#aws" target="#developer" id="743" weight="1" />
+      <edge source="#aws" target="#paas" id="744" weight="1" />
+      <edge source="#aws" target="#datagovernance" id="745" weight="1" />
+      <edge source="#aws" target="#datacatalog" id="746" weight="1" />
+      <edge source="#aws" target="#alation" id="747" weight="1" />
+      <edge source="#vmware" target="#cisco" id="748" weight="1" />
+      <edge source="#vmware" target="#cloudgenix" id="749" weight="1" />
+      <edge source="#vmware" target="#fortinet" id="750" weight="1" />
+      <edge source="#vmware" target="#silverpeak" id="751" weight="1" />
+      <edge source="#amazon" target="#fitness" id="752" weight="1" />
+      <edge source="#amazon" target="#gaming" id="753" weight="1" />
+      <edge source="#amazon" target="#custom" id="754" weight="1" />
+      <edge source="#amazon" target="#intel" id="755" weight="1" />
+      <edge source="#amazon" target="#sales" id="756" weight="2" />
+      <edge source="#whiteboarding" target="#socialtools" id="757" weight="1" />
+      <edge source="#whiteboarding" target="#collaboration" id="758" weight="1" />
+      <edge source="#whiteboarding" target="#wfh" id="759" weight="1" />
+      <edge source="#socialtools" target="#collaboration" id="760" weight="1" />
+      <edge source="#socialtools" target="#wfh" id="761" weight="1" />
+      <edge source="#collaboration" target="#wfh" id="762" weight="4" />
+      <edge source="#collaboration" target="#software" id="763" weight="1" />
+      <edge source="#collaboration" target="#workboards" id="764" weight="4" />
+      <edge source="#collaboration" target="#work" id="765" weight="2" />
+      <edge source="#collaboration" target="#covid19" id="766" weight="1" />
+      <edge source="#collaboration" target="#whiteboards" id="767" weight="1" />
+      <edge source="#collaboration" target="#digitalwhiteboards" id="768" weight="1" />
+      <edge source="#collaboration" target="#digitalworkboards" id="769" weight="1" />
+      <edge source="#wfh" target="#workplace" id="770" weight="1" />
+      <edge source="#wfh" target="#futureofwork" id="771" weight="1" />
+      <edge source="#wfh" target="#zoom" id="772" weight="1" />
+      <edge source="#wfh" target="#airtable" id="773" weight="1" />
+      <edge source="#wfh" target="#vdi" id="774" weight="1" />
+      <edge source="#wfh" target="#workingfromhome" id="775" weight="3" />
+      <edge source="#wfh" target="#workfromhome" id="776" weight="1" />
+      <edge source="#wfh" target="#worktech" id="777" weight="2" />
+      <edge source="#wfh" target="#covid" id="778" weight="2" />
+      <edge source="#wfh" target="#coronavirus" id="779" weight="2" />
+      <edge source="#wfh" target="#enterprise" id="780" weight="1" />
+      <edge source="#wfh" target="#workboards" id="781" weight="4" />
+      <edge source="#wfh" target="#work" id="782" weight="2" />
+      <edge source="#wfh" target="#emergingtech" id="783" weight="1" />
+      <edge source="#wfh" target="#covid19" id="784" weight="4" />
+      <edge source="#wfh" target="#digtialtransformation" id="785" weight="1" />
+      <edge source="#wfh" target="#digitalworkflows" id="786" weight="1" />
+      <edge source="#wfh" target="#whiteboards" id="787" weight="1" />
+      <edge source="#wfh" target="#collaborativewhiteboards" id="788" weight="1" />
+      <edge source="#wfh" target="#filesharing" id="789" weight="1" />
+      <edge source="#wfh" target="#digitalwhiteboards" id="790" weight="2" />
+      <edge source="#wfh" target="#digitalworkboards" id="791" weight="1" />
+      <edge source="#wfh" target="#homeworking" id="792" weight="1" />
+      <edge source="#wfh" target="#predictions" id="793" weight="1" />
+      <edge source="#wfh" target="#analyst" id="794" weight="1" />
+      <edge source="#fortnite" target="#subscription" id="795" weight="1" />
+      <edge source="#vehicles" target="#market" id="796" weight="1" />
+      <edge source="#artificialintelligence" target="#data" id="797" weight="1" />
+      <edge source="#artificialintelligence" target="#startup" id="798" weight="1" />
+      <edge source="#artificialintelligence" target="#bigdata" id="799" weight="1" />
+      <edge source="#artificialintelligence" target="#aiops" id="800" weight="1" />
+      <edge source="#artificialintelligence" target="#ai" id="801" weight="1" />
+      <edge source="#quarantine" target="#safety" id="802" weight="1" />
+      <edge source="#safety" target="#cybersecurity" id="803" weight="2" />
+      <edge source="#safety" target="#work" id="804" weight="1" />
+      <edge source="#ai" target="#deepdiveintoai" id="805" weight="4" />
+      <edge source="#ai" target="#itops" id="806" weight="5" />
+      <edge source="#ai" target="#aiops" id="807" weight="19" />
+      <edge source="#ai" target="#artificialintellience" id="808" weight="1" />
+      <edge source="#ai" target="#programming" id="809" weight="1" />
+      <edge source="#ai" target="#cloudops" id="810" weight="1" />
+      <edge source="#ai" target="#storage" id="811" weight="1" />
+      <edge source="#ai" target="#ml" id="812" weight="11" />
+      <edge source="#ai" target="#objectstorage" id="813" weight="1" />
+      <edge source="#ai" target="#machinelearning" id="814" weight="11" />
+      <edge source="#ai" target="#bigdata" id="815" weight="6" />
+      <edge source="#ai" target="#healthcare" id="816" weight="1" />
+      <edge source="#ai" target="#covid19" id="817" weight="2" />
+      <edge source="#ai" target="#mlops" id="818" weight="3" />
+      <edge source="#ai" target="#ops" id="819" weight="2" />
+      <edge source="#ai" target="#dataanalytics" id="820" weight="2" />
+      <edge source="#ai" target="#future" id="821" weight="1" />
+      <edge source="#ai" target="#artificiaiinteligence" id="822" weight="1" />
+      <edge source="#ai" target="#applicationperformancemanagement" id="823" weight="1" />
+      <edge source="#ai" target="#roboticprocessautomation" id="824" weight="2" />
+      <edge source="#ai" target="#futureofwork" id="825" weight="1" />
+      <edge source="#ai" target="#chatbots" id="826" weight="1" />
+      <edge source="#ai" target="#advancedanalytics" id="827" weight="1" />
+      <edge source="#ai" target="#customerexperience" id="828" weight="2" />
+      <edge source="#ai" target="#covid" id="829" weight="1" />
+      <edge source="#ai" target="#edgecomputing" id="830" weight="1" />
+      <edge source="#ai" target="#podcast" id="831" weight="1" />
+      <edge source="#ai" target="#emergingtechnologies" id="832" weight="1" />
+      <edge source="#ai" target="#data" id="833" weight="1" />
+      <edge source="#ai" target="#analytics" id="834" weight="1" />
+      <edge source="#ai" target="#securityandrisk" id="835" weight="1" />
+      <edge source="#ai" target="#edge" id="836" weight="1" />
+      <edge source="#ai" target="#itoperations" id="837" weight="1" />
+      <edge source="#ai" target="#governance" id="838" weight="1" />
+      <edge source="#ai" target="#code" id="839" weight="1" />
+      <edge source="#ai" target="#processautomation" id="840" weight="1" />
+      <edge source="#ai" target="#enterprise" id="841" weight="1" />
+      <edge source="#dataanalysis" target="#dataanalytics" id="842" weight="1" />
+      <edge source="#dataanalytics" target="#datascience" id="843" weight="1" />
+      <edge source="#dataanalytics" target="#aiops" id="844" weight="1" />
+      <edge source="#dataanalytics" target="#bigdata" id="845" weight="2" />
+      <edge source="#dataanalytics" target="#covid19" id="846" weight="1" />
+      <edge source="#dataanalytics" target="#machinelearning" id="847" weight="1" />
+      <edge source="#security" target="#sdwan" id="848" weight="1" />
+      <edge source="#security" target="#evolvingtechnology" id="849" weight="1" />
+      <edge source="#security" target="#aes" id="850" weight="1" />
+      <edge source="#security" target="#wordpress" id="851" weight="1" />
+      <edge source="#security" target="#blockchain" id="852" weight="1" />
+      <edge source="#security" target="#data" id="853" weight="1" />
+      <edge source="#security" target="#phishing" id="854" weight="3" />
+      <edge source="#security" target="#cloudinfrastructure" id="855" weight="1" />
+      <edge source="#security" target="#grc" id="856" weight="1" />
+      <edge source="#security" target="#tech" id="857" weight="1" />
+      <edge source="#security" target="#facebook" id="858" weight="1" />
+      <edge source="#security" target="#passwords" id="859" weight="1" />
+      <edge source="#security" target="#smallbusiness" id="860" weight="1" />
+      <edge source="#security" target="#mobilesecurity" id="861" weight="1" />
+      <edge source="#security" target="#siem" id="862" weight="1" />
+      <edge source="#security" target="#ciso" id="863" weight="1" />
+      <edge source="#security" target="#deepfake" id="864" weight="1" />
+      <edge source="#security" target="#2021predictions" id="865" weight="1" />
+      <edge source="#sdwan" target="#evolvingtechnology" id="866" weight="1" />
+      <edge source="#sdwan" target="#emergingtech" id="867" weight="2" />
+      <edge source="#sdwan" target="#networks" id="868" weight="2" />
+      <edge source="#sdwan" target="#networkasaservice" id="869" weight="1" />
+      <edge source="#sdwan" target="#isps" id="870" weight="1" />
+      <edge source="#sdwan" target="#routing" id="871" weight="1" />
+      <edge source="#valuestreammanagement" target="#valuestreammeasurement" id="872" weight="2" />
+      <edge source="#valuestreammanagement" target="#dora" id="873" weight="2" />
+      <edge source="#valuestreammanagement" target="#vsm" id="874" weight="9" />
+      <edge source="#valuestreammanagement" target="#projectmanagement" id="875" weight="1" />
+      <edge source="#valuestreammeasurement" target="#dora" id="876" weight="2" />
+      <edge source="#sd" target="#router" id="877" weight="1" />
+      <edge source="#sd" target="#zerotrust" id="878" weight="1" />
+      <edge source="#sd" target="#wan" id="879" weight="1" />
+      <edge source="#sd" target="#sdn" id="880" weight="1" />
+      <edge source="#sd" target="#emergingtech" id="881" weight="1" />
+      <edge source="#router" target="#zerotrust" id="882" weight="1" />
+      <edge source="#router" target="#wan" id="883" weight="1" />
+      <edge source="#router" target="#sdn" id="884" weight="1" />
+      <edge source="#zerotrust" target="#wan" id="885" weight="1" />
+      <edge source="#zerotrust" target="#sdn" id="886" weight="1" />
+      <edge source="#wan" target="#sdn" id="887" weight="1" />
+      <edge source="#wan" target="#routing" id="888" weight="1" />
+      <edge source="#datanalaytics" target="#operationaldatabase" id="889" weight="1" />
+      <edge source="#datanalaytics" target="#developers" id="890" weight="1" />
+      <edge source="#operationaldatabase" target="#developers" id="891" weight="1" />
+      <edge source="#developers" target="#agile" id="892" weight="1" />
+      <edge source="#developers" target="#agiledevelopment" id="893" weight="1" />
+      <edge source="#developers" target="#developercommunity" id="894" weight="1" />
+      <edge source="#developers" target="#appdev" id="895" weight="2" />
+      <edge source="#developers" target="#programming" id="896" weight="1" />
+      <edge source="#developers" target="#keycriteria" id="897" weight="1" />
+      <edge source="#developers" target="#workflows" id="898" weight="1" />
+      <edge source="#developers" target="#opensource" id="899" weight="1" />
+      <edge source="#developers" target="#cloudapps" id="900" weight="1" />
+      <edge source="#developers" target="#cloudcomputing" id="901" weight="1" />
+      <edge source="#developers" target="#tco" id="902" weight="1" />
+      <edge source="#developers" target="#fleetops" id="903" weight="1" />
+      <edge source="#datascience" target="#machinelearning" id="904" weight="1" />
+      <edge source="#datascience" target="#mlops" id="905" weight="1" />
+      <edge source="#itops" target="#aiops" id="906" weight="5" />
+      <edge source="#itops" target="#artificialintellience" id="907" weight="1" />
+      <edge source="#itops" target="#ml" id="908" weight="2" />
+      <edge source="#itops" target="#machinelearning" id="909" weight="2" />
+      <edge source="#aiops" target="#artificialintellience" id="910" weight="1" />
+      <edge source="#aiops" target="#cloudops" id="911" weight="2" />
+      <edge source="#aiops" target="#ml" id="912" weight="6" />
+      <edge source="#aiops" target="#machinelearning" id="913" weight="5" />
+      <edge source="#aiops" target="#mlops" id="914" weight="3" />
+      <edge source="#aiops" target="#ops" id="915" weight="2" />
+      <edge source="#aiops" target="#enterpriseoperations" id="916" weight="1" />
+      <edge source="#aiops" target="#bigdata" id="917" weight="2" />
+      <edge source="#aiops" target="#applicationperformancemanagement" id="918" weight="1" />
+      <edge source="#aiops" target="#covid" id="919" weight="1" />
+      <edge source="#aiops" target="#edgecomputing" id="920" weight="1" />
+      <edge source="#aiops" target="#itoperations" id="921" weight="1" />
+      <edge source="#b2b" target="#sales" id="922" weight="1" />
+      <edge source="#cyberweek" target="#deals" id="923" weight="1" />
+      <edge source="#brain" target="#workout" id="924" weight="1" />
+      <edge source="#programming" target="#appdev" id="925" weight="1" />
+      <edge source="#healthcare" target="#healthtech" id="926" weight="1" />
+      <edge source="#healthcare" target="#covid19" id="927" weight="1" />
+      <edge source="#healthcare" target="#internetofthings" id="928" weight="1" />
+      <edge source="#healthcare" target="#telemedicine" id="929" weight="1" />
+      <edge source="#carpool" target="#traffic" id="930" weight="1" />
+      <edge source="#edge" target="#edgecolocation" id="931" weight="3" />
+      <edge source="#edge" target="#edgecomputing" id="932" weight="2" />
+      <edge source="#edge" target="#hyperconvergedinfrastructure" id="933" weight="1" />
+      <edge source="#edge" target="#enterprise" id="934" weight="1" />
+      <edge source="#edge" target="#mobile" id="935" weight="4" />
+      <edge source="#edge" target="#latency" id="936" weight="1" />
+      <edge source="#edge" target="#datatransfer" id="937" weight="1" />
+      <edge source="#edge" target="#mobilecomputing" id="938" weight="1" />
+      <edge source="#edge" target="#emergingtechnologies" id="939" weight="1" />
+      <edge source="#edge" target="#data" id="940" weight="1" />
+      <edge source="#edge" target="#analytics" id="941" weight="1" />
+      <edge source="#edge" target="#ml" id="942" weight="1" />
+      <edge source="#edge" target="#securityandrisk" id="943" weight="1" />
+      <edge source="#edgecolocation" target="#edgecomputing" id="944" weight="3" />
+      <edge source="#edgecolocation" target="#edgecolocation" id="945" weight="1" />
+      <edge source="#edgecolocation" target="#mobile" id="946" weight="1" />
+      <edge source="#edgecomputing" target="#hyperdistribution" id="947" weight="1" />
+      <edge source="#edgecomputing" target="#multicloud" id="948" weight="1" />
+      <edge source="#edgecomputing" target="#mobilecomputing" id="949" weight="1" />
+      <edge source="#edgecomputing" target="#mobile" id="950" weight="1" />
+      <edge source="#cybersecurity" target="#googlechrome" id="951" weight="2" />
+      <edge source="#cybersecurity" target="#data" id="952" weight="3" />
+      <edge source="#cybersecurity" target="#insurance" id="953" weight="1" />
+      <edge source="#cybersecurity" target="#enterprisesecurity" id="954" weight="1" />
+      <edge source="#appleevent" target="#onemorething" id="955" weight="1" />
+      <edge source="#navalny" target="#23января" id="956" weight="1" />
+      <edge source="#unstructureddatamanagement" target="#cfd7" id="957" weight="1" />
+      <edge source="#unstructureddatamanagement" target="#appmarketplace" id="958" weight="1" />
+      <edge source="#sfd19" target="#data" id="959" weight="1" />
+      <edge source="#streaming" target="#gamers" id="960" weight="2" />
+      <edge source="#streaming" target="#gifts" id="961" weight="1" />
+      <edge source="#streaming" target="#documentaries" id="962" weight="1" />
+      <edge source="#streaming" target="#netflix" id="963" weight="1" />
+      <edge source="#workplace" target="#futureofwork" id="964" weight="1" />
+      <edge source="#futureofwork" target="#roboticprocessautomation" id="965" weight="1" />
+      <edge source="#futureofwork" target="#chatbots" id="966" weight="1" />
+      <edge source="#vsm" target="#valuestream" id="967" weight="3" />
+      <edge source="#vsm" target="#cio" id="968" weight="1" />
+      <edge source="#vsm" target="#projectmanagement" id="969" weight="1" />
+      <edge source="#vsm" target="#valuestreamamanagement" id="970" weight="1" />
+      <edge source="#valuestream" target="#cio" id="971" weight="1" />
+      <edge source="#thread" target="#ti100" id="972" weight="2" />
+      <edge source="#kitchen" target="#sustainability" id="973" weight="1" />
+      <edge source="#ps5" target="#xboxseriesx" id="974" weight="2" />
+      <edge source="#ps5" target="#spiderman" id="975" weight="1" />
+      <edge source="#ps5" target="#playstation5" id="976" weight="1" />
+      <edge source="#ddosattacks" target="#linux" id="977" weight="1" />
+      <edge source="#multicloud" target="#cloudstorage" id="978" weight="2" />
+      <edge source="#multicloud" target="#datamangement" id="979" weight="2" />
+      <edge source="#multicloud" target="#scaleout" id="980" weight="1" />
+      <edge source="#multicloud" target="#hyperdistribution" id="981" weight="1" />
+      <edge source="#multicloud" target="#data" id="982" weight="1" />
+      <edge source="#cloudstorage" target="#datamangement" id="983" weight="2" />
+      <edge source="#cloudstorage" target="#scaleout" id="984" weight="1" />
+      <edge source="#cloudstorage" target="#filestorage" id="985" weight="1" />
+      <edge source="#cloudstorage" target="#storage" id="986" weight="1" />
+      <edge source="#datamangement" target="#scaleout" id="987" weight="1" />
+      <edge source="#money" target="#mentalhealth" id="988" weight="1" />
+      <edge source="#deepfakes" target="#techintel20" id="989" weight="1" />
+      <edge source="#techintel20" target="#tech4good" id="990" weight="1" />
+      <edge source="#techintel20" target="#techintel20" id="991" weight="1" />
+      <edge source="#hr" target="#peopleanalytics" id="992" weight="2" />
+      <edge source="#hr" target="#employeerelations" id="993" weight="1" />
+      <edge source="#hr" target="#software" id="994" weight="1" />
+      <edge source="#peopleanalytics" target="#employeerelations" id="995" weight="1" />
+      <edge source="#peopleanalytics" target="#employeeexperience" id="996" weight="1" />
+      <edge source="#peopleanalytics" target="#humanresources" id="997" weight="3" />
+      <edge source="#peopleanalytics" target="#software" id="998" weight="1" />
+      <edge source="#data" target="#datapipeline" id="999" weight="3" />
+      <edge source="#data" target="#analytics" id="1000" weight="3" />
+      <edge source="#data" target="#startup" id="1001" weight="1" />
+      <edge source="#data" target="#webinar" id="1002" weight="1" />
+      <edge source="#data" target="#storage" id="1003" weight="1" />
+      <edge source="#data" target="#blockchain" id="1004" weight="1" />
+      <edge source="#data" target="#emergingtechnologies" id="1005" weight="1" />
+      <edge source="#data" target="#ml" id="1006" weight="1" />
+      <edge source="#data" target="#securityandrisk" id="1007" weight="1" />
+      <edge source="#data" target="#techmanagement" id="1008" weight="1" />
+      <edge source="#data" target="#datagovernance" id="1009" weight="1" />
+      <edge source="#data" target="#cloudnative" id="1010" weight="1" />
+      <edge source="#data" target="#database" id="1011" weight="1" />
+      <edge source="#data" target="#dbaas" id="1012" weight="1" />
+      <edge source="#software" target="#customerservice" id="1013" weight="1" />
+      <edge source="#software" target="#analytics" id="1014" weight="1" />
+      <edge source="#software" target="#stocks" id="1015" weight="1" />
+      <edge source="#software" target="#crm" id="1016" weight="2" />
+      <edge source="#software" target="#customers" id="1017" weight="1" />
+      <edge source="#software" target="#startups" id="1018" weight="1" />
+      <edge source="#software" target="#startup" id="1019" weight="1" />
+      <edge source="#software" target="#code" id="1020" weight="1" />
+      <edge source="#software" target="#developer" id="1021" weight="1" />
+      <edge source="#ec2" target="#iaas" id="1022" weight="1" />
+      <edge source="#storage" target="#ml" id="1023" weight="1" />
+      <edge source="#storage" target="#objectstorage" id="1024" weight="2" />
+      <edge source="#storage" target="#dataprotection" id="1025" weight="1" />
+      <edge source="#storage" target="#data_storage" id="1026" weight="1" />
+      <edge source="#storage" target="#datamanagment" id="1027" weight="1" />
+      <edge source="#storage" target="#webinar" id="1028" weight="1" />
+      <edge source="#storage" target="#filestorage" id="1029" weight="2" />
+      <edge source="#storage" target="#covid19" id="1030" weight="1" />
+      <edge source="#ml" target="#objectstorage" id="1031" weight="1" />
+      <edge source="#ml" target="#machinelearning" id="1032" weight="6" />
+      <edge source="#ml" target="#mlops" id="1033" weight="3" />
+      <edge source="#ml" target="#analytics" id="1034" weight="2" />
+      <edge source="#ml" target="#bigdata" id="1035" weight="1" />
+      <edge source="#ml" target="#artificiaiinteligence" id="1036" weight="1" />
+      <edge source="#ml" target="#roboticprocessautomation" id="1037" weight="1" />
+      <edge source="#ml" target="#emergingtechnologies" id="1038" weight="1" />
+      <edge source="#ml" target="#securityandrisk" id="1039" weight="1" />
+      <edge source="#ml" target="#itoperations" id="1040" weight="1" />
+      <edge source="#ml" target="#code" id="1041" weight="1" />
+      <edge source="#objectstorage" target="#machinelearning" id="1042" weight="1" />
+      <edge source="#objectstorage" target="#covid19" id="1043" weight="1" />
+      <edge source="#provisioning" target="#usage" id="1044" weight="1" />
+      <edge source="#apps" target="#netapps" id="1045" weight="1" />
+      <edge source="#apps" target="#appmigration" id="1046" weight="2" />
+      <edge source="#apps" target="#cloudmigration" id="1047" weight="1" />
+      <edge source="#apps" target="#howto" id="1048" weight="1" />
+      <edge source="#apps" target="#applemusic" id="1049" weight="1" />
+      <edge source="#apps" target="#reviews" id="1050" weight="1" />
+      <edge source="#netapps" target="#appmigration" id="1051" weight="1" />
+      <edge source="#netapps" target="#cloudmigration" id="1052" weight="1" />
+      <edge source="#appmigration" target="#cloudmigration" id="1053" weight="1" />
+      <edge source="#cloudmigration" target="#onpremises" id="1054" weight="1" />
+      <edge source="#cloudmigration" target="#cloudapps" id="1055" weight="2" />
+      <edge source="#cloudmigration" target="#developer" id="1056" weight="1" />
+      <edge source="#datapipeline" target="#analytics" id="1057" weight="2" />
+      <edge source="#datapipeline" target="#bigdata" id="1058" weight="1" />
+      <edge source="#datapipeline" target="#machinelearning" id="1059" weight="1" />
+      <edge source="#hyperconvergedinfrastructure" target="#enterprise" id="1060" weight="1" />
+      <edge source="#hyperconvergedinfrastructure" target="#hci" id="1061" weight="1" />
+      <edge source="#enterprise" target="#aftercovid" id="1062" weight="1" />
+      <edge source="#enterprise" target="#postcovid" id="1063" weight="1" />
+      <edge source="#enterprise" target="#community" id="1064" weight="1" />
+      <edge source="#enterprise" target="#enterprisetechnology" id="1065" weight="1" />
+      <edge source="#enterprise" target="#intelligentautomation" id="1066" weight="1" />
+      <edge source="#enterprise" target="#covid" id="1067" weight="1" />
+      <edge source="#enterprise" target="#coronavirus" id="1068" weight="1" />
+      <edge source="#enterprise" target="#research" id="1069" weight="3" />
+      <edge source="#enterprise" target="#gigaom" id="1070" weight="1" />
+      <edge source="#enterprise" target="#technologies" id="1071" weight="1" />
+      <edge source="#enterprise" target="#digital" id="1072" weight="1" />
+      <edge source="#enterprise" target="#businessit" id="1073" weight="1" />
+      <edge source="#enterprise" target="#finance" id="1074" weight="1" />
+      <edge source="#enterprise" target="#developer" id="1075" weight="1" />
+      <edge source="#enterprise" target="#processautomation" id="1076" weight="1" />
+      <edge source="#twitter" target="#instagram" id="1077" weight="2" />
+      <edge source="#twitter" target="#customers" id="1078" weight="1" />
+      <edge source="#twitter" target="#snapchat" id="1079" weight="1" />
+      <edge source="#instagram" target="#facebook" id="1080" weight="2" />
+      <edge source="#iphone" target="#photography" id="1081" weight="2" />
+      <edge source="#research" target="#newsletter" id="1082" weight="3" />
+      <edge source="#research" target="#emergingtech" id="1083" weight="1" />
+      <edge source="#research" target="#techpodcast" id="1084" weight="1" />
+      <edge source="#research" target="#enterprisetechnology" id="1085" weight="1" />
+      <edge source="#research" target="#businessit" id="1086" weight="1" />
+      <edge source="#intranets" target="#spreadbases" id="1087" weight="1" />
+      <edge source="#events" target="#onlineevents" id="1088" weight="1" />
+      <edge source="#spacex" target="#starship" id="1089" weight="1" />
+      <edge source="#softwaredefinedstorage" target="#nvme" id="1090" weight="1" />
+      <edge source="#softwaredefinedstorage" target="#ssds" id="1091" weight="1" />
+      <edge source="#softwaredefinedstorage" target="#sds" id="1092" weight="1" />
+      <edge source="#nvme" target="#ssds" id="1093" weight="1" />
+      <edge source="#edgeinfrastructure" target="#emergingtech" id="1094" weight="2" />
+      <edge source="#edgeinfrastructure" target="#attheedge" id="1095" weight="1" />
+      <edge source="#edgeinfrastructure" target="#appdev" id="1096" weight="1" />
+      <edge source="#emergingtech" target="#attheedge" id="1097" weight="1" />
+      <edge source="#emergingtech" target="#voicesininnovation" id="1098" weight="2" />
+      <edge source="#emergingtech" target="#techpodcast" id="1099" weight="2" />
+      <edge source="#emergingtech" target="#hitachivantara" id="1100" weight="1" />
+      <edge source="#emergingtech" target="#e990" id="1101" weight="1" />
+      <edge source="#emergingtech" target="#covid19" id="1102" weight="2" />
+      <edge source="#emergingtech" target="#tech" id="1103" weight="1" />
+      <edge source="#emergingtech" target="#panzurastorage" id="1104" weight="1" />
+      <edge source="#startup" target="#baking" id="1105" weight="1" />
+      <edge source="#startup" target="#crm" id="1106" weight="1" />
+      <edge source="#machinelearning" target="#bigdata" id="1107" weight="5" />
+      <edge source="#machinelearning" target="#mlops" id="1108" weight="5" />
+      <edge source="#machinelearning" target="#analytics" id="1109" weight="1" />
+      <edge source="#machinelearning" target="#artificiaiinteligence" id="1110" weight="1" />
+      <edge source="#bigdata" target="#artificiaiinteligence" id="1111" weight="1" />
+      <edge source="#blockchain" target="#retail" id="1112" weight="2" />
+      <edge source="#blockchain" target="#bitcoin" id="1113" weight="1" />
+      <edge source="#blockchain" target="#trends" id="1114" weight="1" />
+      <edge source="#ces" target="#ces2021" id="1115" weight="2" />
+      <edge source="#covid19" target="#dataprotection" id="1116" weight="1" />
+      <edge source="#covid19" target="#economy" id="1117" weight="1" />
+      <edge source="#covid19" target="#cortana" id="1118" weight="1" />
+      <edge source="#covid19" target="#digtialtransformation" id="1119" weight="1" />
+      <edge source="#covid19" target="#digitalworkflows" id="1120" weight="1" />
+      <edge source="#covid19" target="#whiteboards" id="1121" weight="1" />
+      <edge source="#covid19" target="#workboards" id="1122" weight="1" />
+      <edge source="#covid19" target="#work" id="1123" weight="1" />
+      <edge source="#covid19" target="#panzurastorage" id="1124" weight="1" />
+      <edge source="#covid19" target="#homeworking" id="1125" weight="1" />
+      <edge source="#covid19" target="#coronavirus" id="1126" weight="1" />
+      <edge source="#covid19" target="#workingfromhome" id="1127" weight="1" />
+      <edge source="#workflowmanagement" target="#digitalwork" id="1128" weight="1" />
+      <edge source="#workflowmanagement" target="#gigaomresearch" id="1129" weight="1" />
+      <edge source="#workflowmanagement" target="#unito" id="1130" weight="1" />
+      <edge source="#serverless" target="#cloudcomputing" id="1131" weight="1" />
+      <edge source="#cloudcomputing" target="#cloudapps" id="1132" weight="1" />
+      <edge source="#cloudcomputing" target="#tco" id="1133" weight="1" />
+      <edge source="#samsung" target="#review" id="1134" weight="1" />
+      <edge source="#documentaries" target="#netflix" id="1135" weight="1" />
+      <edge source="#dataprotection" target="#opensource" id="1136" weight="1" />
+      <edge source="#dataprotection" target="#disasterrecovery" id="1137" weight="1" />
+      <edge source="#aftercovid" target="#postcovid" id="1138" weight="1" />
+      <edge source="#employeeexperience" target="#humanresources" id="1139" weight="1" />
+      <edge source="#humanresources" target="#peopleops" id="1140" weight="1" />
+      <edge source="#humanresources" target="#personnelmanagement" id="1141" weight="1" />
+      <edge source="#airpods" target="#airpodspro" id="1142" weight="1" />
+      <edge source="#socialmedia" target="#givingback" id="1143" weight="3" />
+      <edge source="#python" target="#programminglanguage" id="1144" weight="1" />
+      <edge source="#games" target="#science" id="1145" weight="1" />
+      <edge source="#games" target="#tech" id="1146" weight="1" />
+      <edge source="#science" target="#tech" id="1147" weight="1" />
+      <edge source="#tech" target="#podcast" id="1148" weight="1" />
+      <edge source="#tech" target="#communication" id="1149" weight="1" />
+      <edge source="#tech" target="#space" id="1150" weight="1" />
+      <edge source="#tech" target="#solar" id="1151" weight="1" />
+      <edge source="#tech" target="#users" id="1152" weight="1" />
+      <edge source="#community" target="#enterprisetechnology" id="1153" weight="1" />
+      <edge source="#enterprisetechnology" target="#newsletter" id="1154" weight="1" />
+      <edge source="#enterprisetechnology" target="#predictions" id="1155" weight="1" />
+      <edge source="#mobile" target="#mobilecomputing" id="1156" weight="1" />
+      <edge source="#malware" target="#ransomeware" id="1157" weight="2" />
+      <edge source="#malware" target="#cyberattack" id="1158" weight="2" />
+      <edge source="#ransomeware" target="#cyberattack" id="1159" weight="2" />
+      <edge source="#youtube" target="#livestream" id="1160" weight="1" />
+      <edge source="#youtube" target="#ads" id="1161" weight="1" />
+      <edge source="#actianavalanche" target="#azuresynapse" id="1162" weight="3" />
+      <edge source="#actianavalanche" target="#snowflake" id="1163" weight="3" />
+      <edge source="#actianavalanche" target="#amazonredshift" id="1164" weight="3" />
+      <edge source="#actianavalanche" target="#bigquery" id="1165" weight="3" />
+      <edge source="#azuresynapse" target="#snowflake" id="1166" weight="3" />
+      <edge source="#azuresynapse" target="#amazonredshift" id="1167" weight="3" />
+      <edge source="#azuresynapse" target="#bigquery" id="1168" weight="3" />
+      <edge source="#snowflake" target="#amazonredshift" id="1169" weight="3" />
+      <edge source="#snowflake" target="#bigquery" id="1170" weight="3" />
+      <edge source="#amazonredshift" target="#bigquery" id="1171" weight="3" />
+      <edge source="#facebook" target="#topics" id="1172" weight="1" />
+      <edge source="#analytics" target="#customerservice" id="1173" weight="1" />
+      <edge source="#analytics" target="#emergingtechnologies" id="1174" weight="1" />
+      <edge source="#analytics" target="#securityandrisk" id="1175" weight="1" />
+      <edge source="#analytics" target="#databases" id="1176" weight="1" />
+      <edge source="#smallbusinesssaturday" target="#shoppinglocal" id="1177" weight="1" />
+      <edge source="#zoom" target="#airtable" id="1178" weight="1" />
+      <edge source="#podcast" target="#thoughtleadership" id="1179" weight="1" />
+      <edge source="#podcast" target="#voicesininnovation" id="1180" weight="1" />
+      <edge source="#nasa" target="#sls" id="1181" weight="2" />
+      <edge source="#onpremises" target="#cloudapps" id="1182" weight="1" />
+      <edge source="#onpremises" target="#developer" id="1183" weight="1" />
+      <edge source="#cloudapps" target="#developer" id="1184" weight="1" />
+      <edge source="#cloudapps" target="#splunk" id="1185" weight="1" />
+      <edge source="#cloudapps" target="#datastrategy" id="1186" weight="1" />
+      <edge source="#cloudapps" target="#tco" id="1187" weight="1" />
+      <edge source="#developer" target="#finance" id="1188" weight="1" />
+      <edge source="#developer" target="#code" id="1189" weight="1" />
+      <edge source="#videoconferencing" target="#googlemeet" id="1190" weight="1" />
+      <edge source="#videoconferencing" target="#gmail" id="1191" weight="1" />
+      <edge source="#googlemeet" target="#gmail" id="1192" weight="1" />
+      <edge source="#marketing" target="#videocontent" id="1193" weight="1" />
+      <edge source="#marketing" target="#strategy" id="1194" weight="1" />
+      <edge source="#marketing" target="#onlinecontent" id="1195" weight="1" />
+      <edge source="#gigaomradar" target="#enterprisesolutions" id="1196" weight="1" />
+      <edge source="#data_storage" target="#datamanagment" id="1197" weight="1" />
+      <edge source="#opensource" target="#serveless" id="1198" weight="1" />
+      <edge source="#opensource" target="#servless" id="1199" weight="1" />
+      <edge source="#opensource" target="#workflows" id="1200" weight="1" />
+      <edge source="#stocks" target="#investing" id="1201" weight="1" />
+      <edge source="#digital" target="#gigaom" id="1202" weight="1" />
+      <edge source="#digital" target="#technologies" id="1203" weight="1" />
+      <edge source="#vdi" target="#workingfromhome" id="1204" weight="2" />
+      <edge source="#vdi" target="#cloudfieldday7" id="1205" weight="1" />
+      <edge source="#vdi" target="#cfd7" id="1206" weight="3" />
+      <edge source="#vdi" target="#vdiaas" id="1207" weight="2" />
+      <edge source="#vdi" target="#remoteworking" id="1208" weight="1" />
+      <edge source="#workingfromhome" target="#whiteboards" id="1209" weight="1" />
+      <edge source="#workingfromhome" target="#worktools" id="1210" weight="1" />
+      <edge source="#workingfromhome" target="#homeworking" id="1211" weight="1" />
+      <edge source="#workingfromhome" target="#coronavirus" id="1212" weight="1" />
+      <edge source="#workingfromhome" target="#remoteworking" id="1213" weight="1" />
+      <edge source="#cfd7" target="#appmarketplace" id="1214" weight="3" />
+      <edge source="#cfd7" target="#cloudfieldday7" id="1215" weight="1" />
+      <edge source="#cfd7" target="#vdiaas" id="1216" weight="2" />
+      <edge source="#cfd7" target="#keycriteria" id="1217" weight="1" />
+      <edge source="#appmarketplace" target="#keycriteria" id="1218" weight="1" />
+      <edge source="#s3" target="#wasabi" id="1219" weight="1" />
+      <edge source="#s3" target="#zadara" id="1220" weight="1" />
+      <edge source="#s3" target="#ibm" id="1221" weight="1" />
+      <edge source="#s3" target="#oracle" id="1222" weight="1" />
+      <edge source="#s3" target="#alibaba" id="1223" weight="1" />
+      <edge source="#wasabi" target="#zadara" id="1224" weight="1" />
+      <edge source="#wasabi" target="#ibm" id="1225" weight="1" />
+      <edge source="#wasabi" target="#oracle" id="1226" weight="1" />
+      <edge source="#wasabi" target="#alibaba" id="1227" weight="1" />
+      <edge source="#zadara" target="#ibm" id="1228" weight="1" />
+      <edge source="#zadara" target="#oracle" id="1229" weight="1" />
+      <edge source="#zadara" target="#alibaba" id="1230" weight="1" />
+      <edge source="#ibm" target="#oracle" id="1231" weight="1" />
+      <edge source="#ibm" target="#alibaba" id="1232" weight="1" />
+      <edge source="#oracle" target="#alibaba" id="1233" weight="1" />
+      <edge source="#cloudfieldday7" target="#vdiaas" id="1234" weight="1" />
+      <edge source="#galaxys21" target="#smartphones" id="1235" weight="1" />
+      <edge source="#galaxys21" target="#upgrade" id="1236" weight="1" />
+      <edge source="#smartphones" target="#upgrade" id="1237" weight="1" />
+      <edge source="#roboticprocessautomation" target="#chatbots" id="1238" weight="1" />
+      <edge source="#scaleoutstorage" target="#filestorage" id="1239" weight="1" />
+      <edge source="#scaleoutstorage" target="#optane" id="1240" weight="1" />
+      <edge source="#softwaredeveopment" target="#failfast" id="1241" weight="1" />
+      <edge source="#softwaredeveopment" target="#explainer" id="1242" weight="1" />
+      <edge source="#failfast" target="#explainer" id="1243" weight="1" />
+      <edge source="#workfromhome" target="#worktech" id="1244" weight="1" />
+      <edge source="#worktech" target="#covid" id="1245" weight="1" />
+      <edge source="#voicesininnovation" target="#thoughtleadership" id="1246" weight="1" />
+      <edge source="#agile" target="#agiledevelopment" id="1247" weight="1" />
+      <edge source="#agile" target="#developercommunity" id="1248" weight="1" />
+      <edge source="#agiledevelopment" target="#developercommunity" id="1249" weight="1" />
+      <edge source="#webcam" target="#virtualevents" id="1250" weight="1" />
+      <edge source="#covid" target="#coronavirus" id="1251" weight="2" />
+      <edge source="#covid" target="#videogames" id="1252" weight="1" />
+      <edge source="#coronavirus" target="#videogames" id="1253" weight="1" />
+      <edge source="#coronavirus" target="#homeworking" id="1254" weight="1" />
+      <edge source="#brainhacks" target="#remotework" id="1255" weight="1" />
+      <edge source="#bluetooth" target="#speaker" id="1256" weight="1" />
+      <edge source="#ps4" target="#xboxone" id="1257" weight="1" />
+      <edge source="#lockdown" target="#homeschooling" id="1258" weight="1" />
+      <edge source="#centralization" target="#consolidation" id="1259" weight="1" />
+      <edge source="#centralization" target="#grc" id="1260" weight="1" />
+      <edge source="#consolidation" target="#grc" id="1261" weight="1" />
+      <edge source="#grc" target="#cloudinfrastructure" id="1262" weight="1" />
+      <edge source="#grc" target="#governanceriskcompliance" id="1263" weight="1" />
+      <edge source="#grc" target="#datasecurity" id="1264" weight="1" />
+      <edge source="#grc" target="#digitalrisk" id="1265" weight="1" />
+      <edge source="#datagovernance" target="#datascientists" id="1266" weight="1" />
+      <edge source="#datagovernance" target="#datacatalog" id="1267" weight="1" />
+      <edge source="#datagovernance" target="#alation" id="1268" weight="1" />
+      <edge source="#gigaom" target="#technologies" id="1269" weight="1" />
+      <edge source="#networkasaservice" target="#isps" id="1270" weight="1" />
+      <edge source="#networkasaservice" target="#routing" id="1271" weight="1" />
+      <edge source="#isps" target="#routing" id="1272" weight="1" />
+      <edge source="#customers" target="#reviews" id="1273" weight="1" />
+      <edge source="#customers" target="#crm" id="1274" weight="1" />
+      <edge source="#customers" target="#startups" id="1275" weight="1" />
+      <edge source="#videocontent" target="#strategy" id="1276" weight="1" />
+      <edge source="#appdev" target="#fleetops" id="1277" weight="1" />
+      <edge source="#advertising" target="#referrals" id="1278" weight="1" />
+      <edge source="#phishing" target="#ciso" id="1279" weight="2" />
+      <edge source="#phishing" target="#mobilesecurity" id="1280" weight="1" />
+      <edge source="#phishing" target="#siem" id="1281" weight="1" />
+      <edge source="#phishing" target="#insiderthreat" id="1282" weight="1" />
+      <edge source="#creditcards" target="#payments" id="1283" weight="1" />
+      <edge source="#creditcards" target="#paymentprocessing" id="1284" weight="1" />
+      <edge source="#payments" target="#creditcard" id="1285" weight="1" />
+      <edge source="#startups" target="#crm" id="1286" weight="1" />
+      <edge source="#hitachivantara" target="#e990" id="1287" weight="2" />
+      <edge source="#advancedanalytics" target="#customerexperience" id="1288" weight="2" />
+      <edge source="#customerexperience" target="#customerexperience" id="1289" weight="1" />
+      <edge source="#latency" target="#datatransfer" id="1290" weight="1" />
+      <edge source="#whiteboards" target="#worktools" id="1291" weight="1" />
+      <edge source="#whiteboards" target="#workboards" id="1292" weight="1" />
+      <edge source="#whiteboards" target="#work" id="1293" weight="1" />
+      <edge source="#yeti" target="#cooler" id="1294" weight="2" />
+      <edge source="#databases" target="#microservices" id="1295" weight="2" />
+      <edge source="#databases" target="#api" id="1296" weight="1" />
+      <edge source="#microservices" target="#api" id="1297" weight="3" />
+      <edge source="#microservices" target="#containerization" id="1298" weight="1" />
+      <edge source="#ebook" target="#readers" id="1299" weight="1" />
+      <edge source="#work" target="#workboards" id="1300" weight="3" />
+      <edge source="#hotels" target="#wifi" id="1301" weight="1" />
+      <edge source="#facebookdown" target="#sofacebook" id="1302" weight="2" />
+      <edge source="#microsoftteams" target="#microsoft365" id="1303" weight="1" />
+      <edge source="#taskmanagement" target="#wunderlist" id="1304" weight="1" />
+      <edge source="#ciso" target="#siem" id="1305" weight="1" />
+      <edge source="#gigaomresearch" target="#unito" id="1306" weight="1" />
+      <edge source="#siem" target="#emailsecurity" id="1307" weight="1" />
+      <edge source="#siem" target="#enterpriseemail" id="1308" weight="1" />
+      <edge source="#emailsecurity" target="#enterpriseemail" id="1309" weight="1" />
+      <edge source="#retirement" target="#401k" id="1310" weight="1" />
+      <edge source="#peopleops" target="#personnelmanagement" id="1311" weight="1" />
+      <edge source="#home" target="#happiness" id="1312" weight="1" />
+      <edge source="#emergingtechnologies" target="#securityandrisk" id="1313" weight="1" />
+      <edge source="#behavioraldata" target="#governance" id="1314" weight="1" />
+      <edge source="#workboards" target="#workboards" id="1315" weight="1" />
+      <edge source="#workboards" target="#digitalwhiteboards" id="1316" weight="1" />
+      <edge source="#workboards" target="#digitalworkboards" id="1317" weight="1" />
+      <edge source="#splunk" target="#datastrategy" id="1318" weight="1" />
+      <edge source="#predictions" target="#analyst" id="1319" weight="1" />
+      <edge source="#datacatalog" target="#alation" id="1320" weight="1" />
+      <edge source="#playstation5" target="#ps5uk" id="1321" weight="1" />
+      <edge source="#cisco" target="#cloudgenix" id="1322" weight="1" />
+      <edge source="#cisco" target="#fortinet" id="1323" weight="1" />
+      <edge source="#cisco" target="#silverpeak" id="1324" weight="1" />
+      <edge source="#cloudgenix" target="#fortinet" id="1325" weight="1" />
+      <edge source="#cloudgenix" target="#silverpeak" id="1326" weight="1" />
+      <edge source="#fortinet" target="#silverpeak" id="1327" weight="1" />
+      <edge source="#digtialtransformation" target="#digitalworkflows" id="1328" weight="1" />
+      <edge source="#construction" target="#3d" id="1329" weight="1" />
+      <edge source="#composability" target="#saas" id="1330" weight="1" />
+      <edge source="#composability" target="#spu" id="1331" weight="1" />
+      <edge source="#saas" target="#spu" id="1332" weight="1" />
+      <edge source="#ex" target="#cx" id="1333" weight="1" />
+      <edge source="#tedlexa" target="#tbt" id="1334" weight="1" />
+      <edge source="#collaborativewhiteboards" target="#filesharing" id="1335" weight="1" />
+      <edge source="#collaborativewhiteboards" target="#digitalwhiteboards" id="1336" weight="1" />
+      <edge source="#filesharing" target="#digitalwhiteboards" id="1337" weight="1" />
+      <edge source="#digitalwhiteboards" target="#digitalworkboards" id="1338" weight="1" />
+      <edge source="#governanceriskcompliance" target="#datasecurity" id="1339" weight="1" />
+      <edge source="#governanceriskcompliance" target="#digitalrisk" id="1340" weight="1" />
+      <edge source="#datasecurity" target="#digitalrisk" id="1341" weight="1" />
+      <edge source="#tbr" target="#thealchemyofus" id="1342" weight="1" />
+      <edge source="#property" target="#realestate" id="1343" weight="1" />
+      <edge source="#candleday" target="#bathbodyworks" id="1344" weight="1" />
+      <edge source="#biden" target="#climate" id="1345" weight="1" />
+      <edge source="#biden" target="#energy" id="1346" weight="1" />
+      <edge source="#climate" target="#energy" id="1347" weight="1" />
+      <edge source="#cloudnative" target="#database" id="1348" weight="1" />
+      <edge source="#cloudnative" target="#dbaas" id="1349" weight="1" />
+      <edge source="#database" target="#dbaas" id="1350" weight="1" />
+      <edge source="#googlehome5" target="#smarthome" id="1351" weight="1" />
+      <edge source="#deepfake" target="#2021predictions" id="1352" weight="1" />
+      <edge source="#uber" target="#postmates" id="1353" weight="1" />
+      <edge source="#employers" target="#benefits" id="1354" weight="1" />
+    </edges>
+  </graph>
+</gexf>

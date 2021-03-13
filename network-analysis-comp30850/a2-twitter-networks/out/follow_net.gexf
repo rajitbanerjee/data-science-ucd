@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-11">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="arstechnica" label="arstechnica" />
+      <node id="bbctech" label="bbctech" />
+      <node id="cnntech" label="cnntech" />
+      <node id="forbestech" label="forbestech" />
+      <node id="huffposttech" label="huffposttech" />
+      <node id="mashable" label="mashable" />
+      <node id="rww" label="rww" />
+      <node id="techmeme" label="techmeme" />
+      <node id="technology" label="technology" />
+      <node id="techradar" label="techradar" />
+      <node id="telegraphtech" label="telegraphtech" />
+      <node id="wired" label="wired" />
+      <node id="cnetnews" label="cnetnews" />
+      <node id="cnet" label="cnet" />
+      <node id="engadget" label="engadget" />
+      <node id="gigaom" label="gigaom" />
+      <node id="gizmodo" label="gizmodo" />
+      <node id="reuterstech" label="reuterstech" />
+      <node id="techcrunch" label="techcrunch" />
+      <node id="techrepublic" label="techrepublic" />
+      <node id="thenextweb" label="thenextweb" />
+      <node id="usatodaytech" label="usatodaytech" />
+      <node id="verge" label="verge" />
+      <node id="zdnet" label="zdnet" />
+      <node id="venturebeat" label="venturebeat" />
+      <node id="wsjtech" label="wsjtech" />
+      <node id="guardiantech" label="guardiantech" />
+      <node id="fttechnews" label="fttechnews" />
+      <node id="futureshift" label="futureshift" />
+    </nodes>
+    <edges>
+      <edge source="arstechnica" target="bbctech" id="0" />
+      <edge source="arstechnica" target="techmeme" id="1" />
+      <edge source="arstechnica" target="technology" id="2" />
+      <edge source="arstechnica" target="wired" id="3" />
+      <edge source="cnntech" target="arstechnica" id="4" />
+      <edge source="cnntech" target="cnet" id="5" />
+      <edge source="cnntech" target="cnetnews" id="6" />
+      <edge source="cnntech" target="gigaom" id="7" />
+      <edge source="cnntech" target="mashable" id="8" />
+      <edge source="cnntech" target="rww" id="9" />
+      <edge source="cnntech" target="techcrunch" id="10" />
+      <edge source="cnntech" target="techmeme" id="11" />
+      <edge source="cnntech" target="thenextweb" id="12" />
+      <edge source="cnntech" target="usatodaytech" id="13" />
+      <edge source="cnntech" target="verge" id="14" />
+      <edge source="cnntech" target="wired" id="15" />
+      <edge source="forbestech" target="arstechnica" id="16" />
+      <edge source="forbestech" target="bbctech" id="17" />
+      <edge source="forbestech" target="gigaom" id="18" />
+      <edge source="forbestech" target="gizmodo" id="19" />
+      <edge source="forbestech" target="guardiantech" id="20" />
+      <edge source="forbestech" target="mashable" id="21" />
+      <edge source="forbestech" target="rww" id="22" />
+      <edge source="forbestech" target="techcrunch" id="23" />
+      <edge source="forbestech" target="techmeme" id="24" />
+      <edge source="forbestech" target="thenextweb" id="25" />
+      <edge source="forbestech" target="usatodaytech" id="26" />
+      <edge source="forbestech" target="venturebeat" id="27" />
+      <edge source="forbestech" target="wired" id="28" />
+      <edge source="forbestech" target="zdnet" id="29" />
+      <edge source="huffposttech" target="arstechnica" id="30" />
+      <edge source="huffposttech" target="cnetnews" id="31" />
+      <edge source="huffposttech" target="cnntech" id="32" />
+      <edge source="huffposttech" target="engadget" id="33" />
+      <edge source="huffposttech" target="forbestech" id="34" />
+      <edge source="huffposttech" target="gigaom" id="35" />
+      <edge source="huffposttech" target="gizmodo" id="36" />
+      <edge source="huffposttech" target="guardiantech" id="37" />
+      <edge source="huffposttech" target="mashable" id="38" />
+      <edge source="huffposttech" target="reuterstech" id="39" />
+      <edge source="huffposttech" target="rww" id="40" />
+      <edge source="huffposttech" target="techcrunch" id="41" />
+      <edge source="huffposttech" target="techmeme" id="42" />
+      <edge source="huffposttech" target="technology" id="43" />
+      <edge source="huffposttech" target="telegraphtech" id="44" />
+      <edge source="huffposttech" target="thenextweb" id="45" />
+      <edge source="huffposttech" target="usatodaytech" id="46" />
+      <edge source="huffposttech" target="venturebeat" id="47" />
+      <edge source="huffposttech" target="wired" id="48" />
+      <edge source="huffposttech" target="wsjtech" id="49" />
+      <edge source="mashable" target="arstechnica" id="50" />
+      <edge source="mashable" target="cnetnews" id="51" />
+      <edge source="mashable" target="cnntech" id="52" />
+      <edge source="mashable" target="engadget" id="53" />
+      <edge source="mashable" target="futureshift" id="54" />
+      <edge source="mashable" target="gigaom" id="55" />
+      <edge source="mashable" target="gizmodo" id="56" />
+      <edge source="mashable" target="guardiantech" id="57" />
+      <edge source="mashable" target="huffposttech" id="58" />
+      <edge source="mashable" target="rww" id="59" />
+      <edge source="mashable" target="techmeme" id="60" />
+      <edge source="mashable" target="thenextweb" id="61" />
+      <edge source="mashable" target="venturebeat" id="62" />
+      <edge source="mashable" target="wired" id="63" />
+      <edge source="rww" target="arstechnica" id="64" />
+      <edge source="rww" target="guardiantech" id="65" />
+      <edge source="rww" target="mashable" id="66" />
+      <edge source="rww" target="reuterstech" id="67" />
+      <edge source="rww" target="techcrunch" id="68" />
+      <edge source="rww" target="techmeme" id="69" />
+      <edge source="rww" target="thenextweb" id="70" />
+      <edge source="rww" target="wired" id="71" />
+      <edge source="technology" target="arstechnica" id="72" />
+      <edge source="technology" target="bbctech" id="73" />
+      <edge source="technology" target="cnet" id="74" />
+      <edge source="technology" target="cnetnews" id="75" />
+      <edge source="technology" target="cnntech" id="76" />
+      <edge source="technology" target="engadget" id="77" />
+      <edge source="technology" target="forbestech" id="78" />
+      <edge source="technology" target="gigaom" id="79" />
+      <edge source="technology" target="gizmodo" id="80" />
+      <edge source="technology" target="guardiantech" id="81" />
+      <edge source="technology" target="huffposttech" id="82" />
+      <edge source="technology" target="mashable" id="83" />
+      <edge source="technology" target="reuterstech" id="84" />
+      <edge source="technology" target="techcrunch" id="85" />
+      <edge source="technology" target="usatodaytech" id="86" />
+      <edge source="technology" target="venturebeat" id="87" />
+      <edge source="technology" target="verge" id="88" />
+      <edge source="technology" target="wired" id="89" />
+      <edge source="technology" target="wsjtech" id="90" />
+      <edge source="techradar" target="arstechnica" id="91" />
+      <edge source="techradar" target="engadget" id="92" />
+      <edge source="techradar" target="forbestech" id="93" />
+      <edge source="techradar" target="gizmodo" id="94" />
+      <edge source="techradar" target="huffposttech" id="95" />
+      <edge source="techradar" target="mashable" id="96" />
+      <edge source="techradar" target="techcrunch" id="97" />
+      <edge source="techradar" target="wired" id="98" />
+      <edge source="techradar" target="wsjtech" id="99" />
+      <edge source="telegraphtech" target="arstechnica" id="100" />
+      <edge source="telegraphtech" target="bbctech" id="101" />
+      <edge source="telegraphtech" target="fttechnews" id="102" />
+      <edge source="telegraphtech" target="wired" id="103" />
+      <edge source="cnetnews" target="cnet" id="104" />
+      <edge source="cnetnews" target="cnntech" id="105" />
+      <edge source="cnetnews" target="engadget" id="106" />
+      <edge source="cnetnews" target="gigaom" id="107" />
+      <edge source="cnetnews" target="gizmodo" id="108" />
+      <edge source="cnetnews" target="huffposttech" id="109" />
+      <edge source="cnetnews" target="mashable" id="110" />
+      <edge source="cnetnews" target="techcrunch" id="111" />
+      <edge source="cnetnews" target="techmeme" id="112" />
+      <edge source="cnetnews" target="techrepublic" id="113" />
+      <edge source="cnetnews" target="thenextweb" id="114" />
+      <edge source="cnetnews" target="verge" id="115" />
+      <edge source="cnetnews" target="wired" id="116" />
+      <edge source="cnetnews" target="zdnet" id="117" />
+      <edge source="cnet" target="cnetnews" id="118" />
+      <edge source="cnet" target="cnntech" id="119" />
+      <edge source="cnet" target="engadget" id="120" />
+      <edge source="cnet" target="gizmodo" id="121" />
+      <edge source="cnet" target="huffposttech" id="122" />
+      <edge source="cnet" target="mashable" id="123" />
+      <edge source="cnet" target="techcrunch" id="124" />
+      <edge source="cnet" target="techmeme" id="125" />
+      <edge source="cnet" target="techrepublic" id="126" />
+      <edge source="cnet" target="thenextweb" id="127" />
+      <edge source="cnet" target="verge" id="128" />
+      <edge source="cnet" target="wired" id="129" />
+      <edge source="cnet" target="zdnet" id="130" />
+      <edge source="engadget" target="cnet" id="131" />
+      <edge source="engadget" target="gizmodo" id="132" />
+      <edge source="engadget" target="huffposttech" id="133" />
+      <edge source="engadget" target="mashable" id="134" />
+      <edge source="engadget" target="techcrunch" id="135" />
+      <edge source="engadget" target="thenextweb" id="136" />
+      <edge source="engadget" target="verge" id="137" />
+      <edge source="engadget" target="wired" id="138" />
+      <edge source="engadget" target="wsjtech" id="139" />
+      <edge source="gigaom" target="cnet" id="140" />
+      <edge source="gigaom" target="cnetnews" id="141" />
+      <edge source="gigaom" target="cnntech" id="142" />
+      <edge source="gigaom" target="futureshift" id="143" />
+      <edge source="gigaom" target="huffposttech" id="144" />
+      <edge source="gigaom" target="mashable" id="145" />
+      <edge source="gigaom" target="reuterstech" id="146" />
+      <edge source="gigaom" target="techcrunch" id="147" />
+      <edge source="gigaom" target="venturebeat" id="148" />
+      <edge source="gizmodo" target="cnet" id="149" />
+      <edge source="gizmodo" target="engadget" id="150" />
+      <edge source="gizmodo" target="techcrunch" id="151" />
+      <edge source="gizmodo" target="verge" id="152" />
+      <edge source="gizmodo" target="wsjtech" id="153" />
+      <edge source="reuterstech" target="cnet" id="154" />
+      <edge source="reuterstech" target="cnetnews" id="155" />
+      <edge source="reuterstech" target="cnntech" id="156" />
+      <edge source="reuterstech" target="engadget" id="157" />
+      <edge source="reuterstech" target="forbestech" id="158" />
+      <edge source="reuterstech" target="fttechnews" id="159" />
+      <edge source="reuterstech" target="gigaom" id="160" />
+      <edge source="reuterstech" target="gizmodo" id="161" />
+      <edge source="reuterstech" target="guardiantech" id="162" />
+      <edge source="reuterstech" target="huffposttech" id="163" />
+      <edge source="reuterstech" target="mashable" id="164" />
+      <edge source="reuterstech" target="rww" id="165" />
+      <edge source="reuterstech" target="techcrunch" id="166" />
+      <edge source="reuterstech" target="techmeme" id="167" />
+      <edge source="reuterstech" target="technology" id="168" />
+      <edge source="reuterstech" target="telegraphtech" id="169" />
+      <edge source="reuterstech" target="thenextweb" id="170" />
+      <edge source="reuterstech" target="usatodaytech" id="171" />
+      <edge source="reuterstech" target="venturebeat" id="172" />
+      <edge source="reuterstech" target="verge" id="173" />
+      <edge source="reuterstech" target="wired" id="174" />
+      <edge source="reuterstech" target="wsjtech" id="175" />
+      <edge source="techcrunch" target="engadget" id="176" />
+      <edge source="techcrunch" target="huffposttech" id="177" />
+      <edge source="techcrunch" target="techmeme" id="178" />
+      <edge source="techrepublic" target="cnet" id="179" />
+      <edge source="techrepublic" target="cnetnews" id="180" />
+      <edge source="techrepublic" target="techmeme" id="181" />
+      <edge source="techrepublic" target="zdnet" id="182" />
+      <edge source="thenextweb" target="mashable" id="183" />
+      <edge source="usatodaytech" target="cnet" id="184" />
+      <edge source="usatodaytech" target="engadget" id="185" />
+      <edge source="usatodaytech" target="futureshift" id="186" />
+      <edge source="usatodaytech" target="mashable" id="187" />
+      <edge source="usatodaytech" target="verge" id="188" />
+      <edge source="usatodaytech" target="wsjtech" id="189" />
+      <edge source="zdnet" target="cnet" id="190" />
+      <edge source="zdnet" target="cnetnews" id="191" />
+      <edge source="zdnet" target="techmeme" id="192" />
+      <edge source="zdnet" target="techrepublic" id="193" />
+      <edge source="venturebeat" target="engadget" id="194" />
+      <edge source="venturebeat" target="mashable" id="195" />
+      <edge source="venturebeat" target="rww" id="196" />
+      <edge source="venturebeat" target="verge" id="197" />
+      <edge source="guardiantech" target="forbestech" id="198" />
+      <edge source="guardiantech" target="futureshift" id="199" />
+      <edge source="guardiantech" target="rww" id="200" />
+      <edge source="guardiantech" target="techmeme" id="201" />
+      <edge source="futureshift" target="mashable" id="202" />
+    </edges>
+  </graph>
+</gexf>
