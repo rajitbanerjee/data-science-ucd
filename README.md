@@ -171,32 +171,6 @@ The goal of this assignment is to construct and characterise a range of network 
 
 - **Data:** [a2-twitter-networks/data/technology/](./network-analysis-comp30850/a2-twitter-networks/data/technology/)
 
-  Twitter list dataset:
-
-  ```
-  data
-  └── technology
-      ├── friendships.csv
-      ├── list_members.jsonl
-      ├── README.TXT
-      └── tweets.jsonl
-  ```
-
-  1. `list_members.jsonl`
-
-     - A JSON Lines (JSONL) file, where each line in the file is a separate JSON document.
-     - Each JSON document contains the Twitter user profile of a list member.
-
-  2. `friendships.csv`
-
-     - A tab-separated text file, indicating the friend/follower relations between pairs of list members.
-     - The two columns contain a pair of ordered screen names X and Y, indicating that user X follows user Y.
-
-  3. `tweets.jsonl`
-
-     - A JSON Lines (JSONL) file, where each line in the file is a separate JSON document.
-     - Each JSON document represents a separate tweet posted by one of the list members. The lines are in no particular order.
-
 - **Notebook:** [a2-twitter-networks.ipynb](./network-analysis-comp30850/a2-twitter-networks/a2-twitter-networks.ipynb)
 
   Set up `conda` environment and start Jupyter Notebook.
