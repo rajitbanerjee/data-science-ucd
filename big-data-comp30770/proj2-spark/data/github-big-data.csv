@@ -1,0 +1,101 @@
+name,description,language,stars
+spark,Apache Spark - A unified analytics engine for large-scale data processing,Scala,28798
+awesome-scalability,"The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",,28491
+data-science-ipython-notebooks,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",Python,20221
+flink,Apache Flink,Java,15509
+ClickHouse,ClickHouse® is a free analytics DBMS for big data,C++,14477
+gun,An open source cybersecurity protocol for syncing decentralized graph data.,JavaScript,12565
+predictionio,"PredictionIO, a machine learning server for developers and ML engineers.",Scala,12485
+presto,The official home of the Presto distributed SQL query engine for big data,Java,11674
+CMAK,CMAK is a tool for managing Apache Kafka clusters,Scala,9816
+BigData-Notes,大数据入门指南  :star:,Java,8968
+storm,Mirror of Apache Storm,Java,6195
+cython,The most widely used Python to C compiler,Python,5838
+catboost,"A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",C++,5690
+h2o-3,"H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.",Jupyter Notebook,5200
+zeppelin,"Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.",Java,5140
+pachyderm,Reproducible Data Science at Scale!,Go,4881
+couchdb,"Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",Erlang,4820
+arkime,"Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.",JavaScript,4614
+beam,Apache Beam is a unified programming model for Batch and Streaming,Java,4574
+Stream-Framework,"Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:",Python,4474
+hazelcast,Open Source In-Memory Data Grid,Java,4195
+BigDL,BigDL: Distributed Deep Learning Framework for Apache Spark,Scala,3703
+ignite,Apache Ignite,Java,3675
+hive,Apache Hive,Java,3580
+vespa,Vespa is an engine for low-latency computation over large data sets.,Java,3464
+delta,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",Scala,3090
+crate,CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.,Java,2976
+datahub,A Generalized Metadata Search & Discovery Tool,TypeScript,2674
+koalas,Koalas: pandas API on Apache Spark,Python,2642
+trino,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",Java,2639
+CBoard,"An easy to use, self-service open BI reporting and BI dashboard platform.",JavaScript,2628
+vue-virtual-scroll-list,⚡️A vue component support big amount data list with high render performance  and efficient.,JavaScript,2512
+NakedTensor,Bare bone examples of machine learning in TensorFlow,Python,2457
+calcite,Apache Calcite,Java,2314
+flume,Mirror of Apache Flume,Java,2072
+poseidon,A search engine which can hold 100 trillion lines of log data.,Go,1677
+Gaffer,A large-scale entity and relation database supporting aggregation of properties,Java,1604
+drill,Apache Drill,Java,1494
+just-dashboard,:bar_chart: :clipboard: Dashboards using YAML or JSON files ,JavaScript,1475
+genie,Distributed Big Data Orchestration Service,Java,1446
+ambari,Mirror of Apache Ambari,Java,1440
+mysql_perf_analyzer,MySQL performance monitoring and analysis.,Java,1416
+feast,Feature Store for Machine Learning,Java,1415
+kudu,Mirror of Apache Kudu,C++,1340
+spark-py-notebooks,Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks,Jupyter Notebook,1330
+parquet-mr,Apache Parquet,Java,1264
+iotdb,Apache IoTDB,Java,1150
+bookkeeper,Apache Bookkeeper,Java,1141
+carbondata,Mirror of Apache CarbonData,Scala,1139
+spark-doc-zh,Apache Spark 官方文档中文版,JavaScript,1119
+datumbox-framework,Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.,Java,1061
+traildb,TrailDB is an efficient tool for storing and querying series of events,C,1028
+moosefs,"MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)",C,1010
+egads,A Java package to automatically detect anomalies in large scale time-series data,Java,988
+phoenix,Mirror of Apache Phoenix,Java,863
+DataflowJavaSDK,"Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines.",,854
+accumulo,Apache Accumulo,Java,850
+dremio-oss,Dremio - the missing link in modern data,Java,844
+hazelcast-jet,Distributed Stream and Batch Processing,Java,842
+AutoDL,Automated Deep Learning without ANY human intervention. 1'st Solution for AutoDL challenge@NeurIPS. ,Python,836
+sqoop,Mirror of Apache Sqoop,Java,812
+parquet-format,Apache Parquet,Java,781
+titanoboa,"Titanoboa makes complex workflows easy. It is a workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.",Clojure,774
+rakam-api,"📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)",Java,769
+spark-movie-lens,"An on-line movie recommender using Spark, Python Flask, and the MovieLens dataset",Jupyter Notebook,742
+sciblog_support,Support content for my blog,Jupyter Notebook,691
+samza,Mirror of Apache Samza,Java,675
+data-science-career,"Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository",,627
+sdc,Intel® Scalable Dataframe Compiler for Pandas*,Python,612
+kafka-streams,equivalent to kafka-streams :octopus: for nodejs :sparkles::turtle::rocket::sparkles:,TypeScript,600
+oozie,Mirror of Apache Oozie,Java,597
+scanner,Efficient video analysis at scale,C++,569
+giraph,Mirror of Apache Giraph,Java,569
+nipype,Workflows and interfaces for neuroimaging packages,Python,551
+thrill,Thrill - An EXPERIMENTAL Algorithmic Distributed Big Data Batch Processing Framework in C++,C++,521
+magellan,Geo Spatial Data Analytics on Spark,Scala,505
+OnlineStats.jl,Single-pass algorithms for statistics,Julia,489
+PGM-index,"🏅State-of-the-art learned data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes",C++,484
+FIt-SNE,Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE),C++,481
+redislite,Redis in a python module.,Python,464
+conjure-up,"Deploying complex solutions, magically.",Python,454
+Courses-,Quiz & Assignment of Coursera,Jupyter Notebook,445
+circosJS,d3 library to build circular graphs,JavaScript,431
+cortx,CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.,Jupyter Notebook,411
+cogcomp-nlp,CogComp's Natural Language Processing libraries and Demos: ,Java,410
+listenbrainz-server,Server for the ListenBrainz project,Python,409
+mockneat,MockNeat is a Java 8+ library that facilitates the generation of arbitrary data for your applications.,Java,406
+opendata.cern.ch,Source code for the CERN Open Data portal,Python,405
+Decentralized-Internet,A SDK/library for decentralized web and distributing computing projects,Python,398
+kafka-connect-hdfs,Kafka Connect HDFS connector,Java,394
+orc,"Apache ORC - the smallest, fastest columnar storage for Hadoop workloads",HTML,383
+HaloDB,"A fast, log structured key-value store.",Java,366
+sylph,Stream computing platform for bigdata,Java,361
+sparkler,Spark-Crawler: Apache Nutch-like crawler that runs on Apache Spark.,Java,357
+metorikku,"A simplified, lightweight ETL Framework based on Apache Spark",Scala,352
+bigtop,Mirror of Apache Bigtop,Java,350
+attic-apex-core,Mirror of Apache Apex core,Java,346
+stroom,"Stroom is a highly scalable data storage, processing and analysis platform.",Java,345
+parquet-cpp,Apache Parquet,C++,337
+devops-roadmap,DevOps methodology & roadmap for a devops developer in 2019. Interesting books to learn new technologies.,,333
