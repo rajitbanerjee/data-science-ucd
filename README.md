@@ -16,6 +16,9 @@
 - [COMP30390 Optimisation](https://github.com/rajitbanerjee/data-science-ucd#comp30390-optimisation)
   - [A1: Linear Programming](https://github.com/rajitbanerjee/data-science-ucd#a1-linear-programming)
   - [A2: Integer Linear Programming](https://github.com/rajitbanerjee/data-science-ucd#a2-integer-linear-programming)
+- [COMP47490 Machine Learning](https://github.com/rajitbanerjee/data-science-ucd#comp47490-machine-learning)
+  - [A1: Austin Animal Shelter Outcomes](https://github.com/rajitbanerjee/data-science-ucd#a1-austin-animal-shelter-outcomes)
+  - [A2: Adult Census Income](https://github.com/rajitbanerjee/data-science-ucd#a2-adult-census-income)
 - [Acknowledgements](https://github.com/rajitbanerjee/data-science-ucd#acknowledgements)
 
 ---
@@ -338,6 +341,33 @@ A number of classic linear programming problems solved in [Julia](https://julial
 ### A2: Integer Linear Programming
 
 - **Notebook**: [a2](./optimisation-comp30390/notebooks/a2-comp30930-18202817.ipynb)
+
+## COMP47490 Machine Learning
+
+Autumn Trimester, 2021
+
+### Getting Started
+
+  ```bash
+  cd machine-learning-comp47490
+  conda env create -f env-com47490-m1.yml
+  conda activate comp47490-m1
+  jupyter notebook
+  ```
+
+### A1: Austin Animal Shelter Outcomes
+
+- **Notebook**: [a1](./machine-learning-comp47490/notebooks/a1-comp47490-18202817.ipynb)
+- **Task**:
+  - Given a sample of the [Austin Animal Shelter Outcomes dataset](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238), the objective is to build a data analytics solution for death risk prediction to help the shelter  in their planning toward improving animal welfare.
+  - The goal is to work with the sample to build and evaluate prediction models that capture the relationship between attributes and the target feature: outcome.
+
+### A2: Adult Census Income
+
+- **Notebook**: [a2](./machine-learning-comp47490/notebooks/a2-comp47490-18202817.ipynb)
+- **Task**:
+  - Given a sample of the [Adult Census Income dataset](https://archive.ics.uci.edu/ml/datasets/adult), the objective is to use the ensemble learning functionality to identify the extent to which classification performance can be improved through the combination of multiple models.
+  - The data contains 14 attributes including age, race, sex, marital status etc, and the goal is to predict whether the individual earns over $50K per year.
 
 
 ## Acknowledgements
