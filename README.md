@@ -13,6 +13,9 @@
 - [COMP30850 Network Analysis](https://github.com/rajitbanerjee/data-science-ucd#comp30850-network-analysis)
   - [A1: Co-stardom Network](https://github.com/rajitbanerjee/data-science-ucd#a1-co-stardom-network)
   - [A2: Twitter Networks](https://github.com/rajitbanerjee/data-science-ucd#a2-twitter-networks)
+- [COMP30390 Optimisation](https://github.com/rajitbanerjee/data-science-ucd#comp30390-optimisation)
+  - [A1: Linear Programming](https://github.com/rajitbanerjee/data-science-ucd#a1-linear-programming)
+  - [A2: Integer Linear Programming](https://github.com/rajitbanerjee/data-science-ucd#a2-integer-linear-programming)
 - [Acknowledgements](https://github.com/rajitbanerjee/data-science-ucd#acknowledgements)
 
 ---
@@ -313,8 +316,33 @@ Sample visualisations (see notebook for details):
   </td></tr>
 </table>
 
+## COMP30390 Optimisation
+
+Autumn Trimester, 2021
+
+### Getting Started
+
+  ```bash
+  cd optimisation-comp30390
+  conda env create -f env-comp30390.yml
+  conda activate comp30390
+  jupyter notebook
+  ```
+
+A number of classic linear programming problems solved in [Julia](https://julialang.org/).
+
+### A1: Linear Programming
+
+- **Notebook**: [a1](./optimisation-comp30390/notebooks/a1-comp30930-18202817.ipynb)
+
+### A2: Integer Linear Programming
+
+- **Notebook**: [a2](./optimisation-comp30390/notebooks/a2-comp30930-18202817.ipynb)
+
+
 ## Acknowledgements
 
-- [Dr. Derek Greene](https://people.ucd.ie/derek.greene)
-- [Dr. Anthony Ventresque](https://people.ucd.ie/anthony.ventresque)
+- [Dr Derek Greene](https://people.ucd.ie/derek.greene)
+- [Dr Anthony Ventresque](https://people.ucd.ie/anthony.ventresque)
 - [Thomas Laurent (TA)](https://csl.ucd.ie/index.php/thomas-laurent/)
+- [Dr Deepak Ajwani](https://people.ucd.ie/deepak.ajwani)
